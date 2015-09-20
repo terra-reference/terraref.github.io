@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
+title: TERRA Ref
+locale:
+en_US description: Open data and computing platform for high throughput plant phenotyping.
 logo: site-logo.png
 search: true
 url: http://localhost:4000
@@ -33,24 +33,24 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
-  stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
-  flickr: #username
-  tumblr: #username
-  pinterest: #username
-  weibo: #userid
-  google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
+  name: David LeBauer
+#  avatar: bio-photo.jpg
+#  email: dlebauer@illinois.edu
+#  disqus-shortname: dlebauer
+#  twitter: #dlebauer
+#  facebook: #username
+  github: #terraref
+#  stackexchange: #http://stackoverflow.com/users/199217/david-lebauer
+#  linkedin: #username
+#  instagram: #username
+#  flickr: #username
+#  tumblr: #username
+#  pinterest: #username
+#  weibo: #userid
+#  google:
+#    plus: #username
+#    analytics:
+#    verify:
+#    ad-client:
+#    ad-slot:
+#  bing-verify:
