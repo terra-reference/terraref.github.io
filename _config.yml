@@ -1,0 +1,56 @@
+# Site wide configuration
+
+title: TERRA Ref
+locale:
+en_US description: Open data and computing platform for high throughput plant phenotyping.
+logo: site-logo.png
+search: true
+url: http://localhost:4000
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  use_coderay: false
+
+mathjax: true
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
+  name: David LeBauer
+#  avatar: bio-photo.jpg
+#  email: dlebauer@illinois.edu
+#  disqus-shortname: dlebauer
+#  twitter: #dlebauer
+#  facebook: #username
+  github: #terraref
+#  stackexchange: #http://stackoverflow.com/users/199217/david-lebauer
+#  linkedin: #username
+#  instagram: #username
+#  flickr: #username
+#  tumblr: #username
+#  pinterest: #username
+#  weibo: #userid
+#  google:
+#    plus: #username
+#    analytics:
+#    verify:
+#    ad-client:
+#    ad-slot:
+#  bing-verify:
