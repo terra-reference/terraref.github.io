@@ -1,7 +1,16 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Home
+  url: /
+  
+- title: Data
+  url: /data/
+
+- title: Computing
+  url: /computing/
+
+- title: Sensors
+  url: /sensors/
 
 - title: Articles
   url: /articles/
@@ -11,7 +20,6 @@
 
 - title: Search
   url: /search/
-
 
 - title: Site Setup
   url: /theme-setup/
