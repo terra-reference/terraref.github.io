@@ -46,7 +46,7 @@
     <body>
         
         
-    <div class="book" data-level="3" data-basepath="." data-revision="Tue Sep 22 2015 12:14:51 GMT-0500 (CDT)">
+    <div class="book" data-level="3" data-basepath="." data-revision="Tue Sep 22 2015 16:23:22 GMT-0500 (CDT)">
     
 
 <div class="book-summary">
@@ -422,7 +422,31 @@
                 
                     <section class="normal" id="section-">
                     
-                        
+                        <h1 id="data-processing-pipeline">Data Processing Pipeline</h1>
+<h2 id="pipeline-overview">Pipeline overview</h2>
+<ol>
+<li>Calibration, Pre-processing</li>
+<li>Transfer data from sensor to storage</li>
+<li>Automated initial QA/QC </li>
+<li>messages to operators</li>
+<li>Apply metadata (geospatial, environmental, biological, time, calibration settings)</li>
+<li>Geospatial (ortho-rectification) and image stitching</li>
+<li>Import to array database</li>
+<li>Phenotype extraction pipeline</li>
+<li>Import phenotypes and metadata to database</li>
+<li>Store files</li>
+<li>Post summaries to web:</li>
+<li>Generate and update daily, monthly and seasonal summaries of data<ul>
+<li>Post logs, QA/QC, data summaries, and visualizations to the web</li>
+<li>Plots for QA/QC</li>
+<li>Publicize availability </li>
+</ul>
+</li>
+<li>Daily visual inspection by engineers and system operators</li>
+<li>Weekly summaries inspected by scientists</li>
+<li>Post-season quality control and re-analysis with standard algorithms</li>
+</ol>
+
                     
                     </section>
                 

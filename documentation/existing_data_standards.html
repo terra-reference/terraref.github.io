@@ -46,7 +46,7 @@
     <body>
         
         
-    <div class="book" data-level="2.2" data-basepath="." data-revision="Tue Sep 22 2015 12:14:51 GMT-0500 (CDT)">
+    <div class="book" data-level="2.2" data-basepath="." data-revision="Tue Sep 22 2015 16:23:22 GMT-0500 (CDT)">
     
 
 <div class="book-summary">
@@ -448,15 +448,18 @@ List, description, and format specifications for meta-data conventions / standar
 <p>Gramene  <a href="http://www.gramene.org/" target="_blank">http://www.gramene.org/</a>
 curated, open-source, integrated data resource for comparative functional genomics in crops and model plant species</p>
 <h2 id="apis">APIs</h2>
-<p>OADA Open Ag Data Alliance
-academic-industry collaboration to define a common API for ag data
- <a href="http://openag.io/" target="_blank">http://openag.io/</a>
-iPlant / Agave 
-BETYdb: see API documentation [2] </p>
+<h3 id="modaps-nasa-modis-satellite-data">MODAPS NASA MODIS Satellite data</h3>
+<p><a href="https://ladsweb.nascom.nasa.gov/data/api.html" target="_blank">https://ladsweb.nascom.nasa.gov/data/api.html</a></p>
+<p>This Application Programming Interface (API) encompasses a library of functions that provides programmatic data access and processing services to MODIS Level 1 and Atmosphere data products. These routines enable both SOAP and REST based web service calls against the data archives maintained by MODAPS. These routines mirror existing LAADS Web services.</p>
+<h3 id="betydb-see-api-documentation-2">BETYdb: see API documentation [2]</h3>
+<p>To query trait vectors; can be extended to raster data once available. </p>
 <p><a href="https://www.betydb.org/search?&amp;search=switchgrass+sla" target="_blank">https://www.betydb.org/search?&amp;search=switchgrass+sla</a>
 <a href="https://www.betydb.org/search.csv?&amp;search=switchgrass+sla" target="_blank">https://www.betydb.org/search.csv?&amp;search=switchgrass+sla</a>
 <a href="https://www.betydb.org/search.xml?&amp;search=switchgrass+sla" target="_blank">https://www.betydb.org/search.xml?&amp;search=switchgrass+sla</a>
 <a href="https://www.betydb.org/search.json?&amp;search=switchgrass+sla" target="_blank">https://www.betydb.org/search.json?&amp;search=switchgrass+sla</a></p>
+<h3 id="oada-open-ag-data-alliance">OADA Open Ag Data Alliance</h3>
+<p>academic-industry collaboration to define a common API for ag data
+ <a href="http://openag.io/" target="_blank">http://openag.io/</a></p>
 <h2 id="sensor-data">Sensor Data</h2>
 <p>Image / Sensor data (<a href="https://github.com/terraref/reference-data/issues/2" target="_blank">https://github.com/terraref/reference-data/issues/2</a>)
 NEON data products <a href="http://data.neoninc.org/documents" target="_blank">http://data.neoninc.org/documents</a>
@@ -466,19 +469,26 @@ ISO 19115, which is how NEON, ICOS, NASA, PEcAn and others are trying to rally a
 Climate Forecasting Conventions
 ICASA has specifications for daily met summaries</p>
 <h3 id="mstmip-data-formats">MsTMIP data formats</h3>
-<h1 id="example-data">Example data</h1>
-<p>with references can be found in <a href="https://uofi.box.com/terraref-sample-data" target="_blank">https://uofi.box.com/terraref-sample-data</a></p>
-<p><iframe src="https://app.box.com/embed_widget/s/kuscr34y5halh4jome84z1z8txgh285y?view=list&amp;sort=date&amp;direction=ASC&amp;theme=gray" width="330" height="400" frameborder="0" allowfullscreen webkitallowfullscreen="" msallowfullscreen=""></iframe></p>
+<ul>
+<li>Standardized Met driver data</li>
+<li>Terrestrial Ecosystem Model output <a href="http://mstmipsynthesis.pbworks.com/w/page/25673213/FrontPage" target="_blank">http://mstmipsynthesis.pbworks.com/w/page/25673213/FrontPage</a></li>
+</ul>
+<h3 id="date-time">Date-Time:</h3>
+<p>YYYY-MM-DD hh:mm:ssZ: 
+based on ISO 8601 . Optional offset for local time; precision determined by data (e.g. could be YYYY-MM-DD and decimals specified by a period.</p>
 <h2 id="agronomic-data-trait-vectors">Agronomic data (trait vectors)</h2>
 <h2 id="other">Other</h2>
 <p>Generic Standards
 NIEM National Information Exchange Model. &#x201C;NIEM makes it possible for organizations to share critical data; as a result, people are empowered to make informed decisions that improve efficiency and help organizations advance their missions.&#x201D;<br>comment: perhaps too generic for our specific needs, but a useful reference point</p>
-<h3 id="date-time">Date-Time:</h3>
-<p>YYYY-MM-DD hh:mm:ssZ: 
-based on ISO 8601 . Optional offset for local time; precision determined by data (e.g. could be YYYY-MM-DD and decimals specified by a period.</p>
+<h1 id="example-data">Example data</h1>
+<p>with references can be found in <a href="https://uofi.box.com/terraref-sample-data" target="_blank">https://uofi.box.com/terraref-sample-data</a></p>
+<iframe src="https://app.box.com/embed_widget/s/kuscr34y5halh4jome84z1z8txgh285y?view=list&amp;sort=date&amp;direction=ASC&amp;theme=gray" width="330" height="400" frameborder="0" allowfullscreen webkitallowfullscreen="" msallowfullscreen=""></iframe>
+
 <h2 id="references">References</h2>
-<p>[1] BETYdb constraints documentation, see section &quot;uniqueness constraints&quot;  <a href="https://www.authorea.com/users/5574/articles/6719/_show_article" target="_blank">https://www.authorea.com/users/5574/articles/6719/_show_article</a>
-[2] BETYdb data access section on API <a href="https://www.authorea.com/users/5574/articles/7062/_show_article" target="_blank">https://www.authorea.com/users/5574/articles/7062/_show_article</a></p>
+<ul>
+<li>[1] BETYdb constraints documentation, see section &quot;uniqueness constraints&quot;  <a href="https://www.authorea.com/users/5574/articles/6719/_show_article" target="_blank">https://www.authorea.com/users/5574/articles/6719/_show_article</a></li>
+<li>[2] BETYdb data access section on API <a href="https://www.authorea.com/users/5574/articles/7062/_show_article" target="_blank">https://www.authorea.com/users/5574/articles/7062/_show_article</a></li>
+</ul>
 
                     
                     </section>
