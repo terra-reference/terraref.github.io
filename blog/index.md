@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-excerpt: "An archive of blog posts sorted by date."
+title: Notes and News
+excerpt: "Meeting Notes, Committee News, and Etc."
 search_omit: true
 ---
 
