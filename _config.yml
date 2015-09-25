@@ -3,7 +3,7 @@
 title: TERRA Ref
 locale:
 en_US description: Open data and computing platform for high throughput plant phenotyping.
-logo: site-logo.png
+logo: 
 search: true
 url: http://localhost:4000
 
@@ -35,7 +35,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: David LeBauer
 #  avatar: bio-photo.jpg
-#  email: dlebauer@illinois.edu
+  email: dlebauer@illinois.edu
 #  disqus-shortname: dlebauer
 #  twitter: #dlebauer
 #  facebook: #username
