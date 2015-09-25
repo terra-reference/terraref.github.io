@@ -4,6 +4,8 @@ title: Theme Setup
 
 ---
 
+# Kept here because it is handy
+
 General notes and suggestions for customizing **So Simple Theme**.
 
 * Table of Contents
