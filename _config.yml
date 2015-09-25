@@ -33,7 +33,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: David LeBauer
+  name: David LeBauer; ARPA-E TERRA Reference Computing Team and Data Products Committee
 #  avatar: bio-photo.jpg
   email: dlebauer@illinois.edu
 #  disqus-shortname: dlebauer
