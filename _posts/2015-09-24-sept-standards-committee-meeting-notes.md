@@ -10,12 +10,11 @@ image:
 date: 2015-09-24T20:43:38-05:00
 ---
 
-
-
 # Participants (TERRA team/Affiliation)
 
 David LeBauer (Danforth/UIUC), Alex Thomasson (TAMU), Barnabas Poczos (TAMU/CMU), Bob Strand (LemnaTec), Carl Bernacchi (UIUC), Ed Delp (Purdue), Melba Crawford (Purdue), Matt Colgan (PNNL/Blue River), Paul Bartlett (Clemson/Near Earth), Shelley Petroy (NEON), David Lee (ARPA-E)
 
+GitHub Team: @terraref/reference-data 
 
 ## Overview Slides
 
@@ -41,5 +40,6 @@ David LeBauer (Danforth/UIUC), Alex Thomasson (TAMU), Barnabas Poczos (TAMU/CMU)
 *   Sign up for github and send David an email to get linked in to the discussion and access to any shared code under development for data processing. (All)
 *   NEON will upload their package of information to David’s website/box site.
 *   If you have any trouble accessing these resources (Github, Box, other), please contact David.
-*   A physical representation of the LemnaTec system would be very useful.  Understanding the specs of the system, such as the field design, types of cameras/sensors and installation angles, calibration processes and standards, metadata, etc., will be important for data processing by the other TERRA teams.  Bob will look into providing that information.
+*   A physical representation of the LemnaTec system would be very useful.  Understanding the specs of the system, such as the field design, types of cameras/sensors and installation angles, calibration processes and standards, metadata, etc., will be important for data processing by the other TERRA teams.  Bob will look into providing that information. Probably I think that the files `System specification7100019_System_Specification_V11.pdf` and `VPK-USA-Field\
+-Übersicht-10_Freigabe_LT.pdf` will suffice; we need to check if these can be made public. https://github.com/terraref/reference-data/issues/11
 
