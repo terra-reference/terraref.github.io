@@ -5,7 +5,7 @@ locale:
 en_US description: Open data and computing platform for high throughput plant phenotyping.
 logo: 
 search: true
-url: http://localhost:4000
+url: https://terraref.github.io
 
 # Jekyll configuration
 
