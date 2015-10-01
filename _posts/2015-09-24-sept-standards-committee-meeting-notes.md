@@ -44,4 +44,3 @@ GitHub Team: @terraref/reference-data
 *   If you have any trouble accessing these resources (Github, Box, other), please contact David.
 *   A physical representation of the LemnaTec system would be very useful.  Understanding the specs of the system, such as the field design, types of cameras/sensors and installation angles, calibration processes and standards, metadata, etc., will be important for data processing by the other TERRA teams.  Bob will look into providing that information. Probably I think that the files `System specification7100019_System_Specification_V11.pdf` and `VPK-USA-Field\
 -Übersicht-10_Freigabe_LT.pdf` will suffice; we need to check if these can be made public. see [issue 11](https://github.com/terraref/reference-data/issues/11).
-
