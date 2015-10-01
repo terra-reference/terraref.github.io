@@ -18,7 +18,9 @@ GitHub Team: @terraref/reference-data
 
 ## Overview Slides
 
-<iframe src="https://uofi.app.box.com/embed/preview/olqdzcxyihi8mr3fgera6dc8vlrdo8y0?theme=dark&view=&sort=&direction=ASC" width="800" height="550" frameBorder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<!-- Box Version
+<iframe src="https://uofi.app.box.com/embed/preview/olqdzcxyihi8mr3fgera6dc8vlrdo8y0?theme=dark&view=&sort=&direction=ASC" width="800" height="550" frameBorder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>-->
+<iframe src='https://onedrive.live.com/embed?cid=62A7CDC1353EF6B0&resid=62A7CDC1353EF6B0%211358&authkey=AJI5ueNcZ5qAnxA&em=2&wdAr=1.7777777777777777' width='610px' height='367px' frameborder='0'>This is an embedded <a target='_blank' href='http://office.com'>Microsoft Office</a> presentation, powered by <a target='_blank' href='http://office.com/webapps'>Office Online</a>.</iframe>
 
 
 ## Notes
@@ -42,4 +44,3 @@ GitHub Team: @terraref/reference-data
 *   If you have any trouble accessing these resources (Github, Box, other), please contact David.
 *   A physical representation of the LemnaTec system would be very useful.  Understanding the specs of the system, such as the field design, types of cameras/sensors and installation angles, calibration processes and standards, metadata, etc., will be important for data processing by the other TERRA teams.  Bob will look into providing that information. Probably I think that the files `System specification7100019_System_Specification_V11.pdf` and `VPK-USA-Field\
 -Übersicht-10_Freigabe_LT.pdf` will suffice; we need to check if these can be made public. see [issue 11](https://github.com/terraref/reference-data/issues/11).
-
