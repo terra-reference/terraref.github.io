@@ -1,30 +1,28 @@
-# So Simple Theme
-
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes/) -- by designer slash illustrator [Michael Rose](http://mademistakes.com).
-
-[![Build Status](https://travis-ci.org/mmistakes/so-simple-theme.svg?branch=master)](https://travis-ci.org/mmistakes/so-simple-theme)
-
-## So Simple Theme is all about:
-
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page](http://mmistakes.github.io/so-simple-theme/404.html) to get you started.
-* Basic [search capabilities](https://github.com/mathaywarduk/jekyll-search)
-* Support for Disqus Comments
-
-![screenshot of So Simple Theme](http://mmistakes.github.io/so-simple-theme/images/so-simple-theme-preview.jpg)
-
-See a [live version of So Simple](http://mmistakes.github.io/so-simple-theme/) hosted on GitHub.
-
+---
+layout: page
+title: Welcome Page
+excerpt: ""
+search_omit: true
 ---
 
-## Getting Started
+* Table of Contents
+{:toc}
 
-So Simple takes advantage of Sass and data files to make customizing easier. These features require Jekyll 2.x and will not work with older versions of Jekyll.
+# About this site
 
-To learn how to install and use this theme check out the [Setup Guide](http://mmistakes.github.io/so-simple-theme/theme-setup/) for more information.
+This is a sandbox for development of an open-access data and computing platform support the assessment of crop yield potential using sensors, robots, high performance computing within a collaborative, cross-disciplinary research and development
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mmistakes/so-simple-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+* Most information about the project is under the documentation tab
+* Meeting notes are under the notes tab
+* This site is likely to change
+* Find us and contribute, request features, report bugs, and share ideas on
+  * [Github at github.com/terraref](https://github.com/terraref)
+  * Our Chatroom [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/terraref/reference-data?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+# Latest Posts
+
+<ul class="post-list">
+{% for post in site.posts limit:10 %} 
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
+{% endfor %}
+</ul>
