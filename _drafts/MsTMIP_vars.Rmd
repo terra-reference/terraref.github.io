@@ -1,0 +1,78 @@
+
+# Variables from the Multi-scale Terrestrial Model Intercomparison Project
+
+```{r}
+library(dplyr)
+data(mstmip_vars, package = "PEcAn.utils")
+data(mstmip_local, package = "PEcAn.utils")
+
+pecan_mstmip_vars <- data.frame(rbind(
+  mstmip_vars %>% 
+    select(Variable.Name, Long.name, Units, Category),
+  mstmip_local %>% 
+    select(Variable.Name, Long.name, Units, Category)))
+
+rownames(pecan_mstmip_vars)<-NULL
+knitr::kable(pecan_mstmip_vars)
+
+mstmip_vars %>% 
+    select(Variable.Name, Long.name, Units, Category, var_type) %>% knitr::kable()
+```
+
+
+## PEcAn output following MsTMIP Standard / 
+
+Can be adapted for Any raster data. Uses NetCDF-4, which is a wrapper for HDF5.
+
+Note: 'chunking' indicates these are time series chunks, so it is fast to read in the time dimension, slower for a short time interval over a larger spatial dimesion.
+
+```{r}
+library(ncdf4)
+miscanthus_preidction.nc <- nc_open("~/Box Sync/terraref/reference-data/samples/PEcAn/2009.nc")
+knitr::kable(print(miscanthus_preidction.nc))
+
+```
+
+## Example
+
+```{r}
+library(PEcAn.data.atmosphere)
+
+lai <- ncvar_get(miscanthus_preidction.nc, "LAI")
+
+
+basetime.string <- ncatt_get(miscanthus_preidction.nc, "time", "units")$value
+basetime.string
+days_since_basetime.idx <- ncvar_get(miscanthus_preidction.nc, "time")
+
+date <- ymd("1700-01-01") + hours(ud.convert(time.idx, "days", "hours"))
+
+
+library(ggplot2)
+library(ggthemes)
+theme_set(theme_tufte())
+ggplot() + 
+  geom_line(aes(date, lai)) + 
+  ylab("Leaf Area Index (m2/m2)" ) + xlab("Date")
+
+
+vars <- list("LAI", "RootBiom", "Evap", "TVeg")
+output <- lapply(vars, function(x) ncvar_get(miscanthus_preidction.nc, x))
+names(output) <- vars
+
+
+for(var in vars){
+    print(ggplot() + geom_line(aes(date, output[[var]])) + ylab(var) + xlab("Date"))
+} 
+
+
+
+```
+
+# References
+
+* Bob Cook
+* ORNL DAAC repository
+* mstmipsyntesis.pbworks.com
+* Annual Reviews paper
+* PEcAn Project
