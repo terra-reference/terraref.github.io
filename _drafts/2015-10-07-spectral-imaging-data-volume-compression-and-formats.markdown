@@ -1,12 +1,17 @@
 ---
 layout: post
 title: "Spectral Imaging Data Volume, Compression, and Formats"
-modified:
-categories: 
-excerpt:
+modified: null
+categories: null
+excerpt: null
 tags: []
-image:
-  feature:
-date: 2015-10-07T11:20:52-05:00
+image: 
+  feature: null
+date: {}
+published: true
 ---
 
+
+### Sensor Data Sheets:
+
+<iframe  src="https://app.box.com/embed_widget/s/r5udfu1z7kpf07ryzvdorla3l5g9dto3?view=list&sort=name&direction=ASC&theme=gray" width="800" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
