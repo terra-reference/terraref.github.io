@@ -21,3 +21,27 @@ published: true
 ### Sensor Data Sheets:
 
 <iframe  src="https://app.box.com/embed_widget/s/r5udfu1z7kpf07ryzvdorla3l5g9dto3?view=list&sort=name&direction=ASC&theme=gray" width="800" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+
+### Compression ...
+
+
+```sh
+# Download sample Hyperspectral data from NEON
+# http://neondataskills.org/HDF5/Plot-Hyperspectral-Pixel-Spectral-Profile-In-R/
+
+curl -O http://neonhighered.org/Data/HDF5/SJER_140123_chip.h5
+
+## Commands tested:
+
+## uncompress
+time ncks -O SJER_140123_chip.h5 uncompressed.h5
+## two types of compression
+time ncks -O -L 1 uncompressed.h5 compressedL1.h5
+time ncks -O --ppc default=3 uncompressed.h5 compressed_ppc3.h5
+
+\ls -ltr *.h5
+
+time ncdump -v Reflectance uncompressed.h5 > foo
+time ncdump -v Reflectance compressedL1.h5 > foo
+time ncdump -v Reflectance compressed_ppc3.h5 > foo
+
