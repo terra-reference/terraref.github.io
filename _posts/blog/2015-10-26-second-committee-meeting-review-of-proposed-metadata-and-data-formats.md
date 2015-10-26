@@ -10,12 +10,12 @@ image:
 date: 2015-10-26T13:50:12-05:00
 ---
 
-Meeting Date:
+### Meeting Date:
 
 * 2015-10-28 19:00 GMT
 * 2PM/1PM/12PM/11AM Eastern / Central / Mountain / Pacific
  
-# Agenda
+### Agenda
 
 1. Identify each participant's expertise and interests with respect to the committee
 2. Review specifications for Lemnatec Field system
