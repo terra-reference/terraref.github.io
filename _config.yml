@@ -1,11 +1,12 @@
 # Site wide configuration
 
-title: TERRA Reference open data and computing platform to support high throughput penotyping of Sorghum
-locale:
-en_US description: Open data and computing platform for high throughput plant phenotyping.
-logo: 
+
+title: TERRA Ref
+locale: en_US
+description:  Open data and computing platform to support high throughput penotyping of Sorghum
+logo: site-logo.png
 search: true
-url: https://terraref.github.io
+url: http://localhost:4000
 
 # Jekyll configuration
 
@@ -17,7 +18,7 @@ sass:
   style: compressed
 gems:
   - jekyll-sitemap
-  - jekyll-mentions
+
 kramdown:
   auto_ids: true
   footnote_nr: 1
@@ -33,24 +34,24 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: David LeBauer; ARPA-E TERRA Reference Computing Team and Data Products Committee
-#  avatar: bio-photo.jpg
+  name: David LeBauer; ARPA-E TERRA Reference Data and Computing Team
+  avatar: dlebauer-bw.jpg
   email: dlebauer@illinois.edu
-#  disqus-shortname: dlebauer
-#  twitter: #dlebauer
-#  facebook: #username
-  github: #terraref
-#  stackexchange: #http://stackoverflow.com/users/199217/david-lebauer
-#  linkedin: #username
-#  instagram: #username
-#  flickr: #username
-#  tumblr: #username
-#  pinterest: #username
-#  weibo: #userid
+  disqus-shortname: #username
+  twitter: #username
+  facebook: #username
+  github: terraref
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  weibo: #userid
   google:
-#    plus: #username
+    plus: #username
     analytics: UA-65745047-1
-#    verify:
-#    ad-client:
-#    ad-slot:
-#  bing-verify:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:

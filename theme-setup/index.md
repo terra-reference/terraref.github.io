@@ -1,16 +1,51 @@
 ---
 layout: page
 title: Theme Setup
-
+excerpt: "Instructions on how to install and customize the Jekyll theme So Simple."
+modified: 2014-08-08T20:04:41.231140-04:00
+image:
+  feature: so-simple-sample-image-6.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-
-# Kept here because it is handy
 
 General notes and suggestions for customizing **So Simple Theme**.
 
 * Table of Contents
 {:toc}
+
+## Installation
+
+So Simple now requires [Jekyll](http://jekyllrb.com/) 2.x. Make sure to run `gem update jekyll` if you aren't on the latest version or `gem install jekyll` if this is your first time installing it.
+
+If you are creating a new Jekyll site using So Simple follow these steps:
+
+1. Fork the [So Simple repo](http://github.com/mmistakes/so-simple-theme/fork).
+2. Clone the repo you just forked and rename it.
+3. [Install Bundler](http://bundler.io) `gem install bundler` and Run `bundle install` to install all dependencies (Jekyll, [Jekyll-Sitemap](https://github.com/jekyll/jekyll-sitemap), [Octopress](https://github.com/octopress/octopress), etc)
+4. Update `_config.yml`, add navigation, and replace demo posts and pages with your own. Full details below.
+
+If you want to use So Simple with an existing Jekyll site follow these steps:
+
+1. [Download So Simple](https://github.com/mmistakes/so-simple-theme/archive/master.zip) and unzip.
+2. Rename `so-simple-theme-master` to something meaningful ie: `new-site`
+3. Run `bundle install` to install all dependencies (Jekyll, [Jekyll-Sitemap](https://github.com/jekyll/jekyll-sitemap), [Octopress](https://github.com/octopress/octopress), etc)
+4. Remove demo posts/pages and replace with your own posts, pages, and any other content you want to move over.
+5. Update posts' and pages' YAML to match variables used by So Simple. Full details below.
+6. Update `_config.yml` and add navigation links and additional author data if applicable. Full details below. 
+
+**Pro-tip:** Delete the `gh-pages` branch after cloning and start fresh by branching off `master`. There is a bunch of garbage in `gh-pages` used for the theme's demo site that I'm guessing you won't want.
+{: .notice}
+
+---
+
 ## Running Jekyll
+
+If `jekyll build` and `jekyll serve` throw errors you may have to run Jekyll with `bundled exec` instead.
+
+> In some cases, running executables without bundle exec may work, if the executable happens to be installed in your system and does not pull in any gems that conflict with your bundle.
+>
+>However, this is unreliable and is the source of considerable pain. Even if it looks like it works, it may not work in the future or on another machine.
 
 {% highlight text %}
 bundle exec jekyll build

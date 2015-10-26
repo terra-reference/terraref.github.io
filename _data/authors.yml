@@ -5,8 +5,12 @@ david_lebauer:
 #  web: 
   email: dlebauer@illinois.edu
 #  bio: ""
-#  avatar: bio-photo-2.jpg
+  avatar: dlebauer-bw.jpg
   twitter: dlebauer
 #  google:
 #    plus: BillyRick
 
+christine_laney:
+  name: Christine Laney
+  email: claney@neoninc.org
+  bio: "NEON Staff Scientist and TERRA Standards Committee Member"
