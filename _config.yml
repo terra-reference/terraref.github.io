@@ -6,6 +6,7 @@ locale: en_US
 description:  Open data and computing platform to support high throughput penotyping of Sorghum
 logo: site-logo.png
 search: true
+url: https://terraref.ncsa.illinois.edu
 
 # Jekyll configuration
 
