@@ -3,6 +3,10 @@ layout: page
 title: Project Overview
 excerpt: ""
 search_omit: true
+image:
+  feature: mac_sorghum_20150911.jpg
+  credit: Pedro Andrade, Maricopa Agricultural Ce
+  creditlink: http://cals-mac.arizona.edu/
 ---
 
 * Table of Contents
