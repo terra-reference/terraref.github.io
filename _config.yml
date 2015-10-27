@@ -1,9 +1,9 @@
 # Site wide configuration
 
 
-title: TERRA Ref
+title: TERRA RefOPS
 locale: en_US
-description:  Open data and computing platform to support high throughput penotyping of Sorghum
+description: TERRA Reference Open Phenotyping System
 logo: site-logo.png
 search: true
 url: http://terraref.ncsa.illinois.edu
