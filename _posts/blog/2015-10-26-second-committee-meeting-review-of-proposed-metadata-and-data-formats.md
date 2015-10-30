@@ -4,9 +4,7 @@ title: "Oct 2015 Committee Meeting Notes"
 categories: blog
 tags: []
 image: 
-  feature: lemnatec-field-gantry.jpg
-  credit: Lemnatec
-  creditlink: http://www.lemnatec.com
+  feature: 
 date: 2015-10-29T13:50:12-0500
 
 ---

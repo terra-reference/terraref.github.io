@@ -2,7 +2,7 @@
 layout: post
 title: "Spectral Imaging: Data Volume, Formats, and Compression"
 modified:
-categories: blog
+categories: articles
 excerpt:
 tags: []
 image:
