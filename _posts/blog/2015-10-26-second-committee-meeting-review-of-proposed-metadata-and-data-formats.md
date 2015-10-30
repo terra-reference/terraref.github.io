@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Second Committee Meeting: Review of Proposed Metadata and Data Formats"
-modified: null
 categories: blog
-excerpt: null
 tags: []
 image: 
-  feature: null
-date: {}
-published: true
+  feature: lemnatec-field-gantry.jpg
+  credit: Lemnatec Scanalyzer Field 
+  creditlink: http://www.lemnatec.com
+date: 2015-10-29T13:50:12-0500
+
 ---
 
 
