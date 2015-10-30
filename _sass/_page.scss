@@ -17,6 +17,7 @@
 	border-bottom: 1px solid rgba($black,.10);
 }
 
+
 /* feature image */
 
 .entry-feature-image {
@@ -82,6 +83,11 @@ span + .entry-title {
 	margin-bottom: 3em;
 	padding-right: $gutter;
 	padding-left: $gutter;
+}
+
+
+.actions {
+  float:right;
 }
 
 /* page/post meta content (date, author, etc) */
