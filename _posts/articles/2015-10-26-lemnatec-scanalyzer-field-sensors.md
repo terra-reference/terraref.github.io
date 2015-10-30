@@ -6,7 +6,9 @@ categories: articles
 excerpt:
 tags: []
 image:
-  feature:
+  feature: prism_banner_headwall.jpg
+  credit: Headwall Photonics
+  creditlink: http://www.headwallphotonics.com
 date: 2015-10-26T12:51:05-05:00
 ---
 
