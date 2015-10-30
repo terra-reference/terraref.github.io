@@ -6,7 +6,7 @@ locale: en_US
 description: TERRA Reference Open Phenotyping System
 logo: site-logo.png
 search: true
-url: http://terraref.ncsa.illinois.edu
+#url: http://terraref.ncsa.illinois.edu
 
 # Jekyll configuration
 
@@ -36,7 +36,7 @@ comments: true
 # Site owner
 owner:
   name: David LeBauer; ARPA-E TERRA Reference Data and Computing Team
-  avatar: dlebauer-bw.jpg
+#  avatar: dlebauer-bw.jpg
   email: dlebauer@illinois.edu
   disqus-shortname: terraref
   twitter: #username
