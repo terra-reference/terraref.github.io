@@ -27,25 +27,42 @@ We will develop a data storage and computing system that provides researchers wi
 Most of the data volume will come from a [Lemnatec Scanalyzer Field System](http://www.lemnatec.com/products/hardware-solutions/scanalyzer-field/) platform in Arizona, and will be accompanied by data from aerial, ground, and tractor-based field sensors. 
 Danforth has an indoor phenotyping system - automated sensing of plants in boxes. At the USDA research station in Maricopa, AZ a Lemnatec field platform will be installed over a field of sorghum and run for four years. This will be complimented by an indoor system for automated sensing of plants in boxes.
 
-## NCSA / UIUC Team
+# TERRA Reference Phenotyping System For Energy Sorghum Team
 
-This project will provide support for personnel and computing via the following groups at NCSA:
+| Institution                                         | Personnel             | Role                   |
+|-----------------------------------------------------|-----------------------|------------------------|
+| Donald Danforth Plant Science Center                | Todd Mockler          | Project Lead           |
+|                                                     | Rob Alba              | Project Director       |
+|                                                     | Noah Fahlgren         | Phenotyping            |
+|                                                     | Erica Fishel          | Technology Transfer    |
+| Clemson University                                  | Stephen Kresovich     | Breeding               |
+| HudsonAlpha Institute for Biotechnology             | Jeremy Schmutz        | Sequencing             |
+| Kansas State University                             | Jesse Poland          | Phenotyping            |
+|                                                     | Geoff Morris          | Gene-Trait Association |
+| Texas A&M University                                | William Rooney        | Breeding               |
+| University of Arizona, Maricopa Agricultural Center | Pedro Andrade-Sanchez | Agronomy               |
+|                                                     | Michael Ottman        | Agronomy               |
+| USDA-ARS Arid Land Agriculture Research Center      | Jeff White            | Agronomy               |
+| University of Illinois at Urbana-Champaign          | David LeBauer         | Computing              |
+| Washington University at St. Louis                  | Robert Pless          | Image Analysis         |
+|                                                     | Roman Garnett         | Prediction Algorithms  |
 
-* **ISDA** Will support implementation of a data processing pipeline that integrates modular tools: PlantCV, BrownDog, PEcAn, BETYdb, and other software.
-* **CyberGIS** will implement geospatial infrastructure for efficiently querying and transforming key datasets.
-* **NDS** The National Data Service will develop tools that researchers can use to access, archive, use, and contribute data products at each step in the pipeline.  
 
-| Role | Name | email|
-|---|---|----|
-| NCSA Lead | David LeBauer | dlebauer@illinois.edu|
-| Danforth Lead | Noah Fahlgren | | 
-| Promect Manager | Rachel Shekar | |
-| Storage Architect | Dan Lapine | |
-| Architect / Senior Programmer | Rob Kooper | |
-| Architect / Senior Programmer |  Yan Liu | |
+# Computing Pipeline and Informatics Infrastructure Development Team
+
+This project will implement a data processing pipeline that integrates existing tools such as PlantCV, BrownDog, PEcAn, BETYdb, and other software into a flexible, scalable computing pipeline. This will include geospatial infrastructure for efficiently querying and transforming key datasets and tools that enable researchers to access, archive, use, and contribute data products at each step in the pipeline.  
+
+
+| Role | Name |
+|---|---|
+| Lead | David LeBauer | 
+| Danforth Lead | Noah Fahlgren | 
+| Promect Manager | Rachel Shekar |
+| Storage Architect | Dan Lapine | 
+| Senior Programmer | Rob Kooper |
+| CyberGIS Senior Programmer |  Yan Liu | 
 | ISDA Research Programmer |  Maxwell Bennett |
-| NDS Research Programmer | David Railia|  |
-
+| NDS Research Programmer | David Railia|
 
 # Data Standards Committee
 
