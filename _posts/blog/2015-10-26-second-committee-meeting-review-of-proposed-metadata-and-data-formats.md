@@ -102,7 +102,7 @@ A. Look into changing permission
 
 * Mike Gore to propose solution for genomics data
 * Melba Crawford to discuss hyperspectral data products with David LeBauer
-* Everyone review list of members / expertise [Google Drive](https://docs.google.com/spreadsheets/d/14Z-Y2MmVy94X561VJdecBSu577VQ4H6G65gh8p_pkD4/edit?usp=sharing)
+* Everyone review and update list of members / expertise [Google Drive](https://docs.google.com/spreadsheets/d/14Z-Y2MmVy94X561VJdecBSu577VQ4H6G65gh8p_pkD4/edit?usp=sharing)
 * Volunteer to lead domain (or nominate others)
 * (All) review and comment on proposed formats in github issues
-* Suggest external members
+* Suggest external members (esp. genomics, led by M. Gore)
