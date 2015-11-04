@@ -9,9 +9,8 @@
 - title: Blog
   url: /blog/
 
-
-- title: Documentation
-  url: https://dlebauer.gitbooks.io/terraref-documentation/content/
+# - title: Documentation
+#  url: https://dlebauer.gitbooks.io/terraref-documentation/content/
 
 - title: OSF
   url: https://osf.io/n532g/
@@ -22,8 +21,8 @@
 - title: GitHub
   url: https://github.com/terraref
 
-- title: Theme Setup
-  url: /theme-setup/
+# - title: Theme Setup
+#  url: /theme-setup/
 
 - title: Search
   url: /search/
