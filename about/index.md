@@ -95,6 +95,8 @@ The objective of this committee is to facilitate research by ensuring that softw
 | Cheryl Porter| ICASA / AgMIP / USDA |  |
 | Shawn Serbin | Brookhaven National Lab | sserbin_at_bnl.gov |
 | Shelly Petroy and Christine Laney | NEON | |
+| Carolyn J. Lawrence-Dill | Iowa State | |
+| Eric Lyons | University of Arizona / iPlant | | 
 
 
 # Latest Posts
