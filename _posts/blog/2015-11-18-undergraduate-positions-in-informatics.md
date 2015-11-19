@@ -5,7 +5,7 @@ categories: blog
 tags: []
 image:
   feature: terra_mepp_banner.png
-  credit: "TERRA MEPP Robot from brochure, Haley Ahrens"
+  credit: "Haley Ahrens, TERRA MEPP Robot"
   creditlink: "/assets/TERRA_MEPP_Brochure_110315.pdf"
 date: 2015-11-18T20:36:50-06:00
 ---
