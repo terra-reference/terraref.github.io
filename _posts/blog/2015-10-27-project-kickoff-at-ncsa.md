@@ -17,9 +17,9 @@ date: 2015-10-27T22:26:16-06:00
 
 ## In attendance: 
 
-Gabrielle Allen, Maxwell Burnette, Doug Fein, Chris Harbourt, Rob Kooper, Daniel Lapine, David LeBauer, Stephen Long, Yan Liu Paul Miller, David Raila, Jay Roloff, Aiman Soliman, Rachel Shekar, Edward Seidel, John Towns, Kandace Turner
+Gabrielle Allen, Maxwell Burnette, Doug Fein, Rob Kooper, Tim Kuehlhorn, Daniel Lapine, David LeBauer, Stephen Long, Yan Liu Paul Miller, David Raila, Scott Rohde, Jay Roloff, Aiman Soliman, Rachel Shekar, Edward Seidel, John Towns, Kandace Turner
 
-## TERRA Ref Core team biographical sketches
+## Introduction to the UI/NCSA TERRA Ref team 
 
 * **Max Burnette** is a research programmer in the Innovative Software and Data Analysis Division at NCSA. Prior to NCSA, he was a computer programmer and lead geographic information systems (GIS) scientist at Ploughman Analytics for 8 years, where he drove in a wide variety of software development and data analysis projects. He received his bachelor's degree in CS from the University of Illinois at Urbana Champaign in 2010. 
 
@@ -59,25 +59,25 @@ embed presentation iframe here
 
 ### Agrible
 
-What they do: 
-Remote sensing, image processing, analysis
-Long term planning (3 yr)
-Testing systems 
-Running processes
+* What they do: 
+  * Remote sensing, image processing, analysis
+  * Long term planning (3 yr)
+  * Testing systems 
+  * Running processes
 
-They have staff for marketing, customer service, user-based
+They have staff for marketing, customer service, user-based. Agrible is willing to work with TERRAref.  They can possibly contribute to the development of software, data products, and application programming interfaces. 
 
-Agrible is willing to work with TERRAref.  They can possibly contribute software
 
-They asked:
-Are there constraints on data? - Data can be open, algorithms kept closed
+* Q: Are there constraints on data? - Data can be open, algorithms kept closed
 
 TERRAref will need to set up different levels of open access, but host all data/algorithms. Agrible needs to know the constraints on the data
 
 
 ### Storage and Computing resources
 
- on ROGER, campus cluster, openstack NEBULA, ADS, XSEDE
+Current plan is to use ROGER, campus cluster, openstack NEBULA, ADS, XSEDE.
+
+A key issue is that the predicted data volume has increased from 1 PB accumulating over four years to 10-20PB, mostly from the imaging spectrometers and 3D scanner. It costs many millions of dollars to store so much data even for these few years. So we need to a) identify options other than the original plan for providing 1 PB of storage online (CyberGIS center has offered to provide this capacity on Roger).
 
 For storage, John Towns suggests that TERRAref needs to know:
 * What are the data sources?
