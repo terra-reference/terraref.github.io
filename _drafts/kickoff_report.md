@@ -21,6 +21,16 @@ What I showed was a minimal demonstration, and the team and I are currently writ
 1. uploading a file triggers the pipeline. Here is an example of the finished product: http://141.142.208.144/clowder/files/5643baa8e4b086fa6db916ca
 2. launching a Jupyter notebook, then the analysis can be done at the bash shell. 
 
+### Sharing data and vocabularies
+
+At the meeting participants were unsure of how data can be shared.
+
+Teams have the option of requesting a local instance of the TERRA Refence Computing infrastrucutre. We will release a TERRA network of the BETYdb database starting with a database for simulated test data, one for reference data, one for the Illinois team and one for the Texas A&M team. 
+
+Even more important than the network of databses is a suite of easy methods for finding and using data. BETYdb, for example, exports data as `.csv`, `.json`, and `.xml` as well as through the rOpenSci traits package and url queries such as betydb.org/search?=miscanthus+yield.
+
+It is designed to pull updates to the reference data sets and _optionally_ push any shared data back.
+It 
 
 [1]  https://github.com/terraref/computing-pipeline/issues/new
 [2] https://gitter.im/terraref/computing-pipeline
