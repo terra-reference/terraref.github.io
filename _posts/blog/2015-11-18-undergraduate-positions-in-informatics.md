@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Data Science Jobs for Undergraduates at UIUC"
+title: "Data Science Jobs"
 categories: blog
 tags: []
 image:
@@ -13,11 +13,11 @@ date: 2015-11-18T20:36:50-06:00
 * Table of Contents
 {:toc}
 
-# Manage Data Collected by Robots to Improve Crops
+# Paid undergraduate hourly positions and other opportunities contribute.
 
 ## Project Description
 
-This position will assist in the management of data for the TERRA-MEPP (Mobile Energy-Crop Phenotyping Platform) project.
+This position will assist in the management of data for the TERRA-MEPP (Mobile Energy-Crop Phenotyping Platform) project that will be using the [TERRA-Ref](http://terraref.ncsa.illinois.edu) computing infrastructure being developed at NCSA and collaborating institutions.
 TERRA-MEPP will be a low-cost, tactical, semi-autonomous, ground-based vehicle that plant breeders can use to rapidly identify plants with desirable traits.
 Its multiple sensors will collect detailed field data at an unprecedented scale that will then be analyzed using high-throughput analytical strategies to determine the genetic basis of these traits and identify promising genotypes for crop improvemnt.
 
