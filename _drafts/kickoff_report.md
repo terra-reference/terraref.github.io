@@ -21,6 +21,10 @@ What I showed was a minimal demonstration, and the team and I are currently writ
 1. uploading a file triggers the pipeline. Here is an example of the finished product: http://141.142.208.144/clowder/files/5643baa8e4b086fa6db916ca
 2. launching a Jupyter notebook, then the analysis can be done at the bash shell. 
 
+## Roman's Segmentation video
+
+The highlight of the week was Roman's Segmentation Video. Relaxing and magical combination of nature and math.
+
 ## Sharing data and vocabularies
 
 At the meeting participants were unsure of how data can be shared.
