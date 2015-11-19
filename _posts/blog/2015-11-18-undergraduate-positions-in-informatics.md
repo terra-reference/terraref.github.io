@@ -20,13 +20,13 @@ date: 2015-11-18T20:36:50-06:00
 This position will assist in the development of infrastructure for data processing and access required by the TERRA program.
  Multiple positions are open for both the reference (TERRA Ref) and robotic (TERRRA MEPP) data generating platforms.
 
-###  TERRA Ref <a href="url"><img src="/images/site-logo.png" align="baseline" width="60"></a>
+###  TERRA Ref <a href="https://terraref.ncsa.illinois.edu"><img src="/images/site-logo.png" align="baseline" width="60"></a>
  
 TERRA Ref will provide an unprecidented open-access source of data and an integrated phenotyping system for energy Sorghum. The complete system will include: 1) the reference field phenotyping system (GFE gantry system) provided by ARPA-E; 2) field- and controlled-environment phenotyping of energy Sorghum; 3) computational solutions for phenotype selection and prediction; 4) genetics, genomics and bioinformatics for phenotype-to-genotype trait associations; 5) data processing and computational workflows for integrated phenotyping systems; and 6) phenotyping data and computational pipeline standards developed by a committee selected in collaboration with the TERRA program.
 
 For more information, see [About TERRA Ref](http://terraref.ncsa.illinois.edu/about).
 
-### TERRA MEPP <img src="/images/logos/terra_mepp_robot_outline.png" align="baseline" width="80">
+### TERRA MEPP <a href="http://lab.igb.illinois.edu/long/services/transportation-energy-resources-from-renewable-agriculture-terra/"><img src="/images/logos/terra_mepp_robot_outline.png" align="baseline" width="80"></a>
 
 TERRA-MEPP (Mobile Energy-Crop Phenotyping Platform) will be a low-cost, tactical, semi-autonomous, ground-based vehicle that plant breeders can use to rapidly identify plants with desirable traits.
 Its multiple sensors will collect detailed field data at an unprecedented scale that will then be analyzed using high-throughput analytical strategies to determine the genetic basis of these traits and identify promising genotypes for crop improvemnt.
