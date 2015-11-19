@@ -49,7 +49,7 @@ Gabrielle Allen, Maxwell Burnette, Doug Fein, Chris Harbourt, Rob Kooper, Daniel
 
 ### Yan Liu: CyberGIS
 
-embed presentation iframe here
+<iframe src='https://uillinoisedu-my.sharepoint.com/personal/dlebauer_illinois_edu/_layouts/15/WopiFrame.aspx?sourcedoc={658571ae-037e-4527-af1d-8782d8c36416}&action=embedview&wdAr=1.3333333333333333' width='610px' height='481px' frameborder='0'>This is an embedded <a target='_blank' href='http://office.com'>Microsoft Office</a> presentation, powered by <a target='_blank' href='http://office.com/webapps'>Office Online</a>.</iframe>
 
 ### Ed Siedel: NDS, Midwest Big Data Hub
 
