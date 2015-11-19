@@ -15,12 +15,27 @@ date: 2015-10-27T22:26:16-06:00
 * Table of Contents
 {:toc}
 
-Terraref OPS kickoff notes
-October 27, 2015
-
 ## In attendance: 
 
 Gabrielle Allen, Maxwell Burnette, Doug Fein, Chris Harbourt, Rob Kooper, Daniel Lapine, David LeBauer, Stephen Long, Yan Liu Paul Miller, David Raila, Jay Roloff, Aiman Soliman, Rachel Shekar, Edward Seidel, John Towns, Kandace Turner
+
+## TERRA Ref Core team biographical sketches
+
+* **Max Burnette** is a research programmer in the Innovative Software and Data Analysis Division at NCSA. Prior to NCSA, he was a computer programmer and lead geographic information systems (GIS) scientist at Ploughman Analytics for 8 years, where he drove in a wide variety of software development and data analysis projects. He received his bachelor's degree in CS from the University of Illinois at Urbana Champaign in 2010. 
+
+* **Rob Kooper** is a Senior Research Programmer for the Innovative Software and Data Analysis Division at NCSA.  Since joining NCSA, Rob has worked on spectral image analyses and on management and retrieval of information from large databases using fuzzy statements. Currently he is working on scalability options using high performance computing (HPC) and cloud computing environments as well as on extraction of information from complex documents, analyses of the extracted information and visualization of large datasets.
+
+* **Dan Lapine** is the head of the Scientific Computing Services Division at NCSA. He received his B.S. in CS from the University of Illinois at Urbana-Champaign in 2001. He was previously the lead for the Technology Evaluation Group as part of XSEDE's Technology Investigation Service, and had served as the lead system administrator for several HPC clusters at NCSA since 2001. He has participated in several efforts for both the TeraGrid and XSEDE projects during his time at NCSA. Prior to that, he had served with the US Air Force for 10 years, working with Mission Simulator operations and software development.
+
+* **David LeBauer**  is a Research Scientist in the Institute for Genomic Biology. He is also a Fellow at the National Center for Supercomputing Applications.  David's background is in ecosystem ecology, and he studies of agricultural and other managed ecosystems. As Research Manager for the Ecosystem Modeling Program with the Energy Biosciences Institute, he developed PEcAn and BETYdb to support the evaluation and optimization of bioenergy crops.
+
+* **Yan Liu**  is a Senior Research Programmer for Geography and Geographic Information Sciences.  His primary interest is the development of high performance and scalable algorithms and software, with a particular interest in high-performance heuristic algorithms. He develops extreme scale geospatial code for Blue Waters and leads the architecture and software development groups in the CyberGIS Center for Advance Digital and Spatial Studies at NCSA
+
+* **David Raila** is a Research Programmer in the National Data Service at NCSA.  He has extensive technical knowledge in advanced computational hardware, software, networking, and development and deployment practices – from chip/ device architectures and systems software through scalable HPC and Cloud systems.
+
+* **Scott Rohde** has led development of the Biofuel Ecophysiological Traits and Yields database (betydb.org) as a Scientific Web Programmer with the Energy Biosciences Institute since 2012. He has also supported the PEcAn ecosystem modeling workflow engine (pecanproject.org) and the BioCro crop simulation model (github.com/biocro).
+ 
+* **Rachel Shekar** is the Project Manager for the TERRA Ref and Plants in Silico projects, and the Assistant Program Manager for the RIPE project. Rachel is also Executive Editor of the international journals Global Change Biology and GCB Bioenergy. She received her BS in Biology from Juniata College and went on to the University of Illinois for her MS in Plant Biology. Rachel has experience in plant ecology and physiology research and research laboratory management.
 
 ## Presentations:
 
