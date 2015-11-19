@@ -26,12 +26,12 @@ TERRA Ref will provide an unprecidented open-access source of data and an integr
 
 For more information, see [About TERRA Ref](http://terraref.ncsa.illinois.edu/about).
 
-### TERRA MEPP <a href="http://lab.igb.illinois.edu/long/services/transportation-energy-resources-from-renewable-agriculture-terra/"><img src="/images/logos/terra_mepp_robot_outline.png" align="baseline" width="80"></a>
+### TERRA MEPP <a href="/assets/TERRA_MEPP_Brochure_110315.pdf"><img src="/images/logos/terra_mepp_robot_outline.png" align="baseline" width="80"></a>
 
 TERRA-MEPP (Mobile Energy-Crop Phenotyping Platform) will be a low-cost, tactical, semi-autonomous, ground-based vehicle that plant breeders can use to rapidly identify plants with desirable traits.
 Its multiple sensors will collect detailed field data at an unprecedented scale that will then be analyzed using high-throughput analytical strategies to determine the genetic basis of these traits and identify promising genotypes for crop improvemnt.
 
-For more information, see the [TERRA MEPP Brochure](/assets/TERRA_MEPP_Brochure_110315.pdf) and the [TERRA Reference Data and Computing Pipeline](http://terraref.ncsa.illinois.edu) project page.
+For more information, see the [TERRA MEPP Brochure](/assets/TERRA_MEPP_Brochure_110315.pdf).
 
 
 ## Job Description
