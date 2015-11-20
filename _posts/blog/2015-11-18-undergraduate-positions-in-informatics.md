@@ -48,7 +48,7 @@ Your first project could include:
 * Developing exploratory data analysis pipelines for large scale summaries.
 * Define, document, test, and add core steps in the data pipeline 
 * implement image processing, meta-data translation 'extractors' to data product pipelines, for example applying segmentation algorithms.
-* Or almost anything related to [reference data](https://github.com/terraref/reference-data) the [computing pipeline](https://github.com/terraref/computing-pipeline) or [BETYdb](https://github.com/PecanProject/bety/labels/terraref)
+* Or almost anything related to [reference data](https://github.com/terraref/reference-data), the [computing pipeline](https://github.com/terraref/computing-pipeline), or [BETYdb](https://github.com/PecanProject/bety/labels/terraref).
 
 You will be making a contribution to research-grade scientific code that will be publicly available as open-source software. This can be valuable education and training for a variety of careers.
 
