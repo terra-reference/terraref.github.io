@@ -9,6 +9,8 @@ image:
   feature:
 date: 2015-10-13T22:22:27-05:00
 ---
+* Table of Contents
+{:toc}
 
 ## Hyperspectral Data formats
  
