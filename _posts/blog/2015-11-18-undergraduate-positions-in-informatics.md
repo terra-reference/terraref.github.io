@@ -22,7 +22,7 @@ This position will assist in the development of infrastructure for data processi
 
 ###  TERRA Ref <a href="https://terraref.ncsa.illinois.edu"><img src="/images/site-logo.png" align="baseline" width="60"></a>
  
-TERRA Ref will provide an unprecidented open-access source of data and an integrated phenotyping system for energy Sorghum. The complete system will include: 1) the reference field phenotyping system (GFE gantry system) provided by ARPA-E; 2) field- and controlled-environment phenotyping of energy Sorghum; 3) computational solutions for phenotype selection and prediction; 4) genetics, genomics and bioinformatics for phenotype-to-genotype trait associations; 5) data processing and computational workflows for integrated phenotyping systems; and 6) phenotyping data and computational pipeline standards developed by a committee selected in collaboration with the TERRA program.
+TERRA Ref will provide an unprecidented open-access source of data and an integrated phenotyping system for energy Sorghum. The TERRA Ref system will include field- and controlled-environment digital sensing of energy Sorghum along with computational pipelines and open data for the research community. These will be used for crop selection and better understanding of the interactions among genes, traits, and the environment.
 
 For more information, see [About TERRA Ref](http://terraref.ncsa.illinois.edu/about).
 
@@ -48,7 +48,7 @@ Your first project could include:
 * Developing exploratory data analysis pipelines for large scale summaries.
 * Define, document, test, and add core steps in the data pipeline 
 * implement image processing, meta-data translation 'extractors' to data product pipelines, for example applying segmentation algorithms.
-* Or almost anything related to [reference data](https://github.com/terraref/reference-data) the [computing pipeline](https://github.com/terraref/computing-pipeline) or [BETYdb](https://github.com/PecanProject/bety/labels/terraref)
+* Or almost anything related to [reference data](https://github.com/terraref/reference-data), the [computing pipeline](https://github.com/terraref/computing-pipeline), or [BETYdb](https://github.com/PecanProject/bety/labels/terraref).
 
 You will be making a contribution to research-grade scientific code that will be publicly available as open-source software. This can be valuable education and training for a variety of careers.
 
