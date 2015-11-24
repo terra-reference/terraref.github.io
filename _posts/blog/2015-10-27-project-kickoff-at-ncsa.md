@@ -6,17 +6,14 @@ categories: blog
 excerpt:
 tags: []
 image:
-  feature:
+  feature: bw_panorama.png
+  credit: "Blue Waters, National Petascale Computing Facility"
+  creditlink: "http://bluewaters.ncsa.illinois.edu/"
 date: 2015-10-27T22:26:16-06:00
 ---
 
-
-
 * Table of Contents
 {:toc}
-
-Terraref OPS kickoff notes
-October 27, 2015
 
 ## In attendance: 
 

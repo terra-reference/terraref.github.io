@@ -3,10 +3,6 @@ layout: post
 title: "Data Science Jobs for Undergraduates at UIUC"
 categories: blog
 tags: []
-#image:
-#  feature: terra_mepp_banner.png
-#  credit: "Mirhee Lee, TERRA MEPP Robot"
-#  creditlink: "/assets/TERRA_MEPP_Brochure_110315.pdf"
 date: 2015-11-18T20:36:50-06:00
 ---
 
