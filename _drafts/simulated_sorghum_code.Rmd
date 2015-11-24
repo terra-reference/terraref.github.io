@@ -5,16 +5,16 @@ date: "November 22, 2015"
 output: html_document
 ---
 
-For simplicity, and because I neither have a model nor the data to simulate _Sorghum_, I am going to start with some phenotypes and simulations of plant growth from a related bit of work. I can easily simulate the perrenial grasses Miscanthus, or Switchgrass as well as coppice Willow (and many others).
+For simplicity, and because I neither have a model nor the data to simulate _Sorghum_, I have started with some phenotypes and simulations of plant growth based on a model that simulates the growth of biomass crops including Miscanthus, Switchgrass, Sugarcane, and coppice Willow.
 
-## Some background / methods. You can skip it.
+## Some background / methods.
 
-To do so, I am going to take the output of a simulation a different grass, Miscanthus, over Illinois. [The code is here](https://github.com/ebimodeling/biocro_regional/edit/master/vignettes/regional_pecan_workflow.Rmd). Although the basic biology of Miscanthus is different than Sorghum (it is a clone rather than a breeding population; it re-grows each year from carbon stored in rhizomes), the five-hundred quasi-random parameterizations of a biophysical crop model means that it will serve the purpose of simulating the relationships between phenotypes and biomass across a diverse population.
+I start with simulation of Miscanthus, over Illinois. [The code underlying the simulation is on GitHub](https://github.com/ebimodeling/biocro_regional/edit/master/vignettes/regional_pecan_workflow.Rmd). 
+Like Sorghum, Miscanthus uses C4 photosynthesis, and this is used to compute carbon uptake at hourly time steps in the simulation model. 
+Unlike Sorghum, Miscanthus grows clonally and is propagated by Rhizome instead of by seed. Furthermore, Miscanthus is perennial: it re-grows each year from carbon stored in rhizomes.
+The 'genotypes' are based on five-hundred quasi-random parameterizations of a biophysical crop model.
 
 The virtual "Miscanthus" is encoded as a set of associated species and prior estimates of the phenotypes used to parameterize the simulation model. The concept of Plant Functional Type (PFT) is any group of one or more plants, originally functionally related species such as 'C4 crops' or 'hardwood trees'. We use PFT at the finest scale of genotype. In the actual research that generated these data, this was the clone _Miscanthus x giganteus_, and this is [PFT #123 in BETYdb](https://www.betydb.org/pfts/123). 
-
-This concept of 'PFT' to represent a breeding population of Sorghum.  Cultivar Miscanthus x giganteus. Although this plant is a 'clone', and thus not suitable for breeding, I have probability distributions for the traits, and how these affect phenotypes like biomass and growth rate. variance for a number of  the data handy and plant and a breeding population We are going to imagine that ...
-
 
 ## A Simulated Sorghum Breeding Population
 
