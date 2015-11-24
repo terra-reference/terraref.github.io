@@ -19,6 +19,19 @@ date: 2015-10-27T22:26:16-06:00
 
 Gabrielle Allen, Maxwell Burnette, Doug Fein, Chris Harbourt, Rob Kooper, Daniel Lapine, David LeBauer, Stephen Long, Yan Liu, Paul Miller, David Raila, Jay Roloff, Aiman Soliman, Rachel Shekar, Edward Seidel, John Towns, Kandace Turner
 
+## Agenda 
+
+* 9:00-9:05 Welcome and introductions
+* 9:05-9:20 David LeBauer: Introduction to the TERRAref program
+* 9:20 - 9:50 Introductions to Collaborating NCSA Teams
+  * Yan Liu: CyberGIS Center for Advanced Digital and Spatial Studies 
+  * Ed Seidel: National Data Service (NDS)
+  * Rob Kooper: Innovative Software and Data Analysis (ISDA)
+* 9:50-10:05 Break
+* 10:05-10:25 Open forum
+* 10:25-10:55 Structured discussion
+* 10:55-11:00 Summary and Closing
+
 ## Presentations
 
 ### David LeBauer, Project motivation and overview
@@ -31,7 +44,7 @@ Gabrielle Allen, Maxwell Burnette, Doug Fein, Chris Harbourt, Rob Kooper, Daniel
 
 ### Yan Liu: CyberGIS
 
-embed presentation iframe here
+
 
 ### Ed Siedel: NDS, Midwest Big Data Hub
 
@@ -40,48 +53,42 @@ The Midwest Hub has many foci, one of which is 'Digitatl Agriculture'.
 
 Ed also described The National Data Service and the opportunity for the TERRA Ref project to serve as one of the initial projects featured in the NDS Labs. 
 
-<enter presentation here>
+<!--<enter presentation here>-->
 
-## Discussion
+## Discussion Topics
 
 ### Data Access and Intellectual Property
 
-Paul Miller described [Agrible's](http://agrible.com/) interest in the use of remote sensing and analysis in digital agriculture. They are a user focused company aimed at helping farmers optimize their agronomic practices.
+Paul Miller from [Agrible](http://agrible.com/) expressed interest in using the reference data as well as the computing pipeline. 
+Contributing to open source development of the cyberinfrastructure is an option. They are a user focused company aimed at helping farmers optimize their agronomic practices.
 
-Agrible is willing to work with TERRAref, and are interested in contributing to the development of an interoperable pipeline
-
-* Paul 'Are there any constraints on the use of data?'
-* A: The reference dataset and algorithms developed by TERRA Ref will be open-access, but the computing pipeline will built to protect the intellectual property of end users (including TERRA researchers and companies). In addition, the platform will be designed for easy deployment on any OpenStack server, and components will function independently as well as within the overall pipeline.
-
+* Q: Are there any constraints on the use of data?
+* A: The reference dataset and algorithms developed by TERRA Ref will be open-access, but the computing pipeline will be built to protect intellectual property of end users. 
+* The platform will be designed for easy deployment on any OpenStack server, and components will function independently as well as within the overall pipeline.
 * TERRAref will need to set up different levels of open access, but host all data/algorithms. Agrible needs to know the constraints on the data
 
+### Data Volume
 
-### Storage and Computing resources
+The funding agency ARPA-E has revised the system specifications, meaning that total data volume will be 10x larger than originally estimated: 10 PB instead of the 1 PB for which we have budgeted. There was a discussion about options for storing and managing this increased requirement.
 
-The central resources used by the TERRA Ref team at NCSA will be ROGER, campus cluster, openstack NEBULA, and ADS. ARPA-E has asked if we are capable of storing 10PB. We discussed options.
+The central resources used by the TERRA Ref team at NCSA will be ROGER, campus cluster, openstack NEBULA, and ADS. XSEDE and Blue Waters allocations may also be available.
 
-John Towns noted that XSEDE storage is only offered one year at a time; they found that users needed to reapply annually anyhow because it is not possible to predict future space needs.
+* XSEDE allocations must be renewed annually; this is because it is not possible to predict future space and computing needs.
+* TERRAref should ensure that software is capable of handling large data volumes.  This can be tested using synthetic data.
 
-TERRAref also needs to ensure that its software is capable of handling this volume.  This can be tested using synthetic data.
+## Follow up
 
-TERRAref will need to secure two computers just in case of break (unless running on VM, but then the rate will not as fast)
-
-TERRAref should define the following:
-
-* What are the data sources?
-* What type of access is needed?  
-* Does TERRAref need access, storage, both?
-* Will the data be stored long term or will it be active data?
-* Does TERRAref have other requirements?
-* How much data will there be?
-* Will “raw” data be kept in the long term or just the products?  
-* What will the annual access patterns be?
-* Will algorithms run on last 3 months, on historical data, or both?  
-* Will historical data only be accessible at limited times?
-* Will there be distributed data management?
-* What will happen with queries that are too large?  Will they bounce back?
-
-
+1. Apply for Blue Waters storage space. 
+2. Address open questions:
+ * What type of data access will we need to provide (when, how often, to whom)?  
+ * Will the data be stored long term or will it be active data?
+ * What are the computing requirements? Will they require specific archtectures or resources available through XSEDE or Blue Waters?
+ * What data products will be kept in the long term? Raw or just products?  * What will the annual access patterns be?
+ * What is the time and space dimension of data that algorithms will use?  
+ * Will historical data only be accessible at limited times?
+ * Will there be distributed data management?
+ * What will happen with queries that are too large? How will we adapt to changing needs of end users?
+3. Collaborate with Digital Agriculture Spoke of Midwest Big Data Hub
 
 <div class="actions">
   <a href="{{site.github.repository_url}}/edit/master/{{ page.path }}">Edit this page</a>
