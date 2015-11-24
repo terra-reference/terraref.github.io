@@ -92,6 +92,7 @@ library(data.table)
 library(lubridate)
 all$plot <- NULL
 all$site <- NULL
+set.seed(100)
 
 all[, `:=`(LAI = Leaf * (0.66 + runif(1:length(Leaf), -0.01 * Leaf / 10, 0.01*Leaf/10)))]
 all[, `:=`(NDVI = 0.9 + (-0.66 * 0.76 * exp(-1.1 * LAI + rnorm(1:length(LAI), 0, LAI/100))))]
@@ -115,7 +116,7 @@ errors <- function(x) {
   return(x)
 }
 
-
+errors <- compiler::cmpfun(errors)
 sorghum_simulation <- tbl_df(all)  %>% 
   mutate(genotype = run, Tmax = round(tmax,1), Tmin = round(tmin, 1), Tavg = round(tavg, 1), 
          precipitation = round(precip, 2), 
@@ -123,11 +124,11 @@ sorghum_simulation <- tbl_df(all)  %>%
          NDVI = errors(NDVI), Height = errors(Height)) %>% 
   select(-run)
 
-sorghum_simulation <- sorghum_simulation %>% 
+sorghum_simulation <- sorghum_simulation %>%
   mutate(year = 2020 + frank(year, ties.method = 'dense')) %>% 
   dplyr::select(-tmax, -tmin, -tavg)
 
-
+year(sorghum_simulation$date) <- sorghum_simulation$year
 write.csv(phenotypes, 'phenotypes.csv')
 
 s <- sorghum_simulation %>% setDT
@@ -171,11 +172,24 @@ ggpairs(p,
 
 
 ```{r}
+library(lubridate)
+s <- sorghum_simulation %>% 
+  mutate(Day = yday(date), 
+         line = as.factor(paste('Sim', genotype)),
+         Biomass = Stem + Leaf) %>% setDT
 
-s <- sorghum_simulation %>% setDT
-ggplot(data = sorghum_simulation, aes(date)) + 
-  geom_smooth(aes(y = Stem, group = genotype, color = year)) + 
-  facet_wrap(~sitename)
+## figure out best / worst
+s[year == 2023][which.max(Stem)]
+s[year == 2023 & month(date) == 10][which.min(Stem)]
+theme_set(theme_tufte()) 
+ggplot() + 
+  geom_smooth(data = s[genotype >9950 & genotype < 10000],
+              aes(x = Day, y = Biomass, fill = NULL, group = genotype), alpha = 0.1, color = 'grey') +
+  geom_smooth(data = s[genotype == 10020],
+              aes(x = Day, y = Biomass), color = 'darkgreen') +
+  geom_smooth(data = s[genotype == 9934],
+              aes(x = Day, y = Biomass), color = 'red') +
+  facet_wrap(~year, nrow = 1) 
         
 ```
 

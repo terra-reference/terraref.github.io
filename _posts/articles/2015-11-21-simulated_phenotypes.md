@@ -6,7 +6,7 @@ categories: articles
 excerpt:
 tags: []
 image:
-  feature:
+  feature: sorghum_simulation_20151121.png
 date: 2015-11-21T22:22:27-05:00
 ---
 
