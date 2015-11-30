@@ -39,11 +39,11 @@ Gabrielle Allen, Maxwell Burnette, Doug Fein, Chris Harbourt, Rob Kooper, Daniel
 <iframe src="https://docs.google.com/presentation/d/1N1ze3E1FLWqJrx-zfGGj2L01mqUWnW19mxXsd00ppy0/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 ### Rob Kooper: ISDA, BrownDog, and Clowder
 
-<iframe src="https://docs.google.com/presentation/d/1I4PYYJcFaO5NmI3a1c_a8sb9yCKrW84fYsggS2Ovzh4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1I4PYYJcFaO5NmI3a1c_a8sb9yCKrW84fYsggS2Ovzh4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="509" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Yan Liu: CyberGIS
 
-<iframe src="https://docs.google.com/presentation/d/1LYdQV3lvjo_DGm7VFBIV2gyTWGP2t8AIJwq8CNnfBco/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1LYdQV3lvjo_DGm7VFBIV2gyTWGP2t8AIJwq8CNnfBco/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="509" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Ed Siedel: NDS, Midwest Big Data Hub
 
