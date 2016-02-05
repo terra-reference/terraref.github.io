@@ -38,22 +38,30 @@ Gabrielle Allen, Maxwell Burnette, Doug Fein, Chris Harbourt, Rob Kooper, Daniel
 
 <iframe src='https://uillinoisedu-my.sharepoint.com/personal/dlebauer_illinois_edu/_layouts/15/WopiFrame.aspx?sourcedoc={61310592-9603-4c97-8620-c68c3e8fa2d2}&action=embedview&wdAr=1.7777777777777777' width='610px' height='367px' frameborder='0'>This is an embedded <a target='_blank' href='http://office.com'>Microsoft Office</a> presentation, powered by <a target='_blank' href='http://office.com/webapps'>Office Online</a>.</iframe>
 
-### Rob Kooper: ISDA, BrownDog, and Clowder
+### Rob Kooper: [ISDA](http://isda.ncsa.illinois.edu/drupal/), [BrownDog](http://browndog.ncsa.illinois.edu/), and [Clowder](https://clowder.ncsa.illinois.edu/)
 
 <iframe src='https://uillinoisedu-my.sharepoint.com/personal/dlebauer_illinois_edu/_layouts/15/WopiFrame.aspx?sourcedoc={c089c797-680c-4cc4-9b60-c7a01b9c53c0}&action=embedview&wdAr=1.3333333333333333' width='610px' height='481px' frameborder='0'>This is an embedded <a target='_blank' href='http://office.com'>Microsoft Office</a> presentation, powered by <a target='_blank' href='http://office.com/webapps'>Office Online</a>.</iframe>
 
-### Yan Liu: CyberGIS
+### Yan Liu: [CyberGIS Center](http://cybergis.cigi.uiuc.edu/cyberGISwiki/doku.php)
 
 <iframe src='https://uillinoisedu-my.sharepoint.com/personal/dlebauer_illinois_edu/_layouts/15/WopiFrame.aspx?sourcedoc={658571ae-037e-4527-af1d-8782d8c36416}&action=embedview&wdAr=1.3333333333333333' width='610px' height='481px' frameborder='0'>This is an embedded <a target='_blank' href='http://office.com'>Microsoft Office</a> presentation, powered by <a target='_blank' href='http://office.com/webapps'>Office Online</a>.</iframe>
 
-### Ed Siedel: NDS, Midwest Big Data Hub
+### Ed Siedel: Midwest Big Data Hub and the National Data Service
 
-Ed Siedel described the [Midwest Big Data Hub](http://midwestbigdatahub.org), a project that was recently funded by NSF to coordinate Academic, Government, and Industry users and creators of Big Data. 
-The Midwest Hub has many foci, one of which is 'Digitatl Agriculture'. 
+
+#### The [Midwest Big Data Hub](http://midwestbigdatahub.org)
+
+Ed Siedel described the Midwest Big Data Hub, a project that was recently funded by NSF to coordinate Academic, Government, and Industry users and creators of Big Data. 
+
+One of the proposed 'spokes' of the Midwest Big Data Hub will be 'Digitatl Agriculture', and TERRAref is participating in this effort.
+
+<iframe src="https://docs.google.com/presentation/d/11C6_DBr1GLfs5Dzrh-s_fencD-vTAl8rtXi-ZKO_U2c/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+#### The [National Data Service](http://www.nationaldataservice.org/)
 
 Ed also described The National Data Service and the opportunity for the TERRA Ref project to serve as one of the initial projects featured in the NDS Labs. 
 
-<!--<enter presentation here>-->
+<iframe src="https://docs.google.com/presentation/d/1puqPncw6LC1qhMlVboiCgDZpDlq1GcifCj_PxpRFVb4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Discussion Topics
 
