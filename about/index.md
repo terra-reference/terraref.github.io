@@ -96,7 +96,8 @@ The objective of this committee is to facilitate research by ensuring that softw
 | Shawn Serbin | Brookhaven National Lab | 
 | Shelly Petroy and Christine Laney | NEON |
 | Carolyn J. Lawrence-Dill | Iowa State | 
-| Eric Lyons | University of Arizona / iPlant |  
+| Eric Lyons | University of Arizona / iPlant | 
+| Ted Habermann | The HDF Group |
 
 
 # Latest Posts

@@ -22,7 +22,7 @@ The intent is to begin to get feedback on some rough sketches of what some data 
 
 To this end, I have simulated the type of data that a sensor might observe, along with some of the underlying environmental drivers and physiological traits.
 
-Note that there will be numerical artifacts, quasi-meaningful error terms, and liberal re-application of core concepts for the purposes of developing these datasets. 
+Note that there will be numerical artifacts, quasi-principled error terms, and liberal re-application of core concepts for the purposes of developing these datasets. 
 
 All of these simulated datasets are released CC-BY-0: do with as you please, but these are not production quality - just trying to meet demand and begin getting feedback.
 
@@ -84,7 +84,7 @@ These 'phenotypes' are used as input parameters to the simulation model. We ofte
 | variable_id|name                           |standard_name                                                 |units                          |Description                                                                                                                                                                                                      |
 |-----------:|:------------------------------|:-------------------------------------------------------------|:------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |          |genotype                 |                            |               |genetically and phenotypically distinct line |         
-|          |Vcmax                 |                            | umol m-2 s-1              | maximum carboxylation of Rubisco according to the Collatz model  |      
+|          |Vmax                 |                            | umol m-2 s-1              | maximum carboxylation of Rubisco according to the Collatz model  |      
 |          38|cuticular_cond                 |conductance_of_fully_closed_stomata                           |umol H2O m-2 s-1               |leaf conductance when stomata fully closed                                                                                                                                                                       |
 |          15|SLA                            |specific_leaf_area                                            |m2 kg-1    |Specific Leaf Area|
 |          39|quantum_efficiency             |mole_ratio_of_carbon_dioxide_to_irradiance_in_leaf  |fraction   |see Farqhuar model |
@@ -121,12 +121,12 @@ OK. A sensor won't observe roots or rhizomes. Furthermore, Sorghum doesn't have 
 
 Please provide feedback. Please provide feedback by leaving a comment below, commenting on the issue in our [GitHub repository](https://github.com/terraref/reference-data/issues/20), emailing me, [dlebauer@illinois.edu](mailto:dlebauer@illinois.edu), or visiting the [TerraRef Reference Data chatroom](https://gitter.im/terraref/reference-data).
 
-If you do something cool, please send comments and figures! 
- 
+* If you do something cool, please send comments and figures! 
+* I also can provide similar data at hourly or higher frequency as well as other processes and environmental drivers, 
 Data are located on Box: https://uofi.box.com/sorghum-simulation
 
-* observations.csv: simulated observations
-* phenotypes.csv: physiological traits associated w/ genotype (assumed time invariant)
+* observations.csv: simulated observations including biomass, LAI, NDVI, height, (aka 'phenotypes')
+* phenotypes.csv: physiological traits such as photosynthetic parameters, SLA, leaf angle, etc. associated w/ genotype (assumed time invariant)
 * met.csv: daily temperature and precipitation summaries
 
  <iframe  src="https://app.box.com/embed_widget/s/ups2b5hja4ul8bwi1c4jwiq19vdpwp7o?view=list&sort=name&direction=ASC&theme=blue" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>

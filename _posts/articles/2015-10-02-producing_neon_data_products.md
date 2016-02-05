@@ -17,7 +17,7 @@ date: 2015-10-02T23:10:47-05:00
 # Producing NEON Data Products
 
 
-_guest post by Christine Laney covering methods used to create NEON Data Products_
+_guest post by Christine Laney, Tim Meehan, and Shelley Petroy covering methods used to create NEON Data Products_
 
 ## Background
 
