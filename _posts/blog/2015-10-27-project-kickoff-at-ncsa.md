@@ -48,8 +48,6 @@ Gabrielle Allen, Maxwell Burnette, Doug Fein, Chris Harbourt, Rob Kooper, Daniel
 
 ### Ed Siedel: Midwest Big Data Hub and the National Data Service
 
-<<<<<<< HEAD
-
 #### The [Midwest Big Data Hub](http://midwestbigdatahub.org)
 
 Ed Siedel described the Midwest Big Data Hub, a project that was recently funded by NSF to coordinate Academic, Government, and Industry users and creators of Big Data. Ed also described The National Data Service and the opportunity for the 
@@ -68,7 +66,7 @@ TERRA Ref is helping to coordinate the Digital Agriculture spoke of the MidWest 
 
 The TERRA Ref project is one of the initial projects featured in the NDS Labs. 
 
-<iframe src="https://docs.google.com/presentation/d/1puqPncw6LC1qhMlVboiCgDZpDlq1GcifCj_PxpRFVb4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1puqPncw6LC1qhMlVboiCgDZpDlq1GcifCj_PxpRFVb4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Discussion Topics
 
