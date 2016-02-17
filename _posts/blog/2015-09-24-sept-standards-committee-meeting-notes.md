@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sept 2014 Standards Committee Meeting Notes"
+title: "Sept 2015 Standards Committee Meeting Notes"
 modified:
 categories: blog
 excerpt:
