@@ -20,6 +20,7 @@ image:
   More sophisticated instruments used to quantify plant architecture, carbon uptake, water use, and root growth do not scale to the thousands or tens of thousands of individual plants that need to be evaluated in a breeding program.
   
 TERRA-REF will develop an integrated phenotyping system for energy Sorghum that leverages genetics and breeding, automation, remote plant sensing, genomics, and computational analytics. The complete system will include: 
+
 1) automated gantry field phenotyping system (LemnaTec field scanalyzer) provided by ARPA-E; 
 2) field phenotyping dervided from sensors on unmanned aerial and ground vehicles; 
 3) automated controlled-environment phenotyping of energy Sorghum; 
@@ -85,7 +86,7 @@ The Data Standards Committee will work together to create clear definitions of d
 | Carolyn J. Lawrence-Dill | Iowa State | 
 | Eric Lyons | University of Arizona / iPlant | 
 | Ted Habermann | The HDF Group |
-| Justin Manzo | Booz Allen Hamilton |
+| Justin Manzo | Booz Allen Hamilton and ARPA-E |
 
 # Latest Posts
 
