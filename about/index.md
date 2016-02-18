@@ -67,6 +67,7 @@ The data processing pipeline that integrates existing tools such as PlantCV, Bro
 | CyberGIS Senior Programmer |  Yan Liu | 
 | ISDA Research Programmer |  Maxwell Bennett |
 | NDS Research Programmer | David Railia|
+| Image Compression, UCI | Charlie Zender| 
 
 # Data Standards Committee
 
