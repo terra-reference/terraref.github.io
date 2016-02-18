@@ -8,7 +8,9 @@ tags: []
 image:
   feature:
 date: 2016-02-18T20:43:38-05:00
+
 ---
+
 # February 2016 Trait Data Standards Committee Meeting
 
 ## Participants
