@@ -45,11 +45,11 @@ Key recommendations:
 * Protocols are comprehensively documented and shared among researchers.
 * They learned a lot in 2014 and improved the protocols for 2015; we should learn from them, and are free to adopt and adapt their documentation and protocols.
 
-<iframe src="https://docs.google.com/presentation/d/1aaxOkOcdTKc0-hgMGcBkyEcHLssCVMKmDRXCbtK4FtQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="629" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+### Presentation ([YouTube)(https://youtu.be/HvrkxXuAMIk))
 
-[Slides](https://docs.google.com/presentation/d/1aaxOkOcdTKc0-hgMGcBkyEcHLssCVMKmDRXCbtK4FtQ/pub?start=false&loop=false&delayms=3000)
+<iframe width="480" height="360" src="https://www.youtube.com/embed/HvrkxXuAMIk?rel=0" frameborder="0" allowfullscreen></iframe>
 
-
+[Slides](https://goo.gl/f8aMXk)
 
 <div class="actions">
   <a href="{{site.github.repository_url}}/edit/master/{{ page.path }}">Edit this page</a>
