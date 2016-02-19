@@ -23,7 +23,7 @@ The goal of this meeting was to learn about and learn from other efforts to stan
 
 First, Cheryl Porter described her work with AgMIP to harmonize Agricultural databases. Then, Darwin Campbell described the multi-site genomes2fields Maize breeding consortium.
 
-### ICASA / NARDN
+## ICASA / NARDN
 
 Cheryl Porter presented information about ICASA, NARDN, USDA efforts at database harmonization. Much of this work is motivated by the [Agricultural Model Intercomparison Project](http://www.agmip.org/). They are working with modeling teams around the world to build a harmonized data structures. the use of ICASA standards within AgMIP and the development of a suite of translators for translating heterogeneous data into a harmonized data format - a json structure for crop model inputs. json has key value pairs with each key being an ICASA variable, as laid out in the ICASA data dictionary. The ICASA data dictionary forms the backbone of AgMIP data interoperability system, and the [core experimental meta-data for ICASA / NARDN (draft)](https://github.com/terraref/reference-data/files/15501/Core.Harmonized.Crop.Experiment.Data_JWW_chp.docx). Data translation tools allow AgMIP to bring data in from various sources, mostly from spreadsheet templates into a harmonized format, and from the harmonized format into crop model inputs.
 
@@ -33,7 +33,7 @@ One current focus of extending ICASA is to move from daily to subdaily time step
 
 * [Further Discussion in Github issue 18: Agronomic data / meta-data Formats](https://github.com/terraref/reference-data/issues/18)
 
-### Genomes2Fields 
+## Genomes2Fields 
 
 Darwin Campbell (Iowa State) gave an overview of the [genomes2fields](http://www.genomes2fields.org/) project. G2F is a multi-institutional effort to study gene by environment interactions in Corn. There are twenty-five locations across North America participating, using common methods to study corn traits. They plant the same genotypes at many sites and collect a set of fourteen traits and eleven meterological variables. 
 
