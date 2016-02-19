@@ -37,7 +37,7 @@ One current focus of extending ICASA is to move from daily to subdaily time step
 
 Darwin Campbell (Iowa State) gave an overview of the [genomes2fields](http://www.genomes2fields.org/) project. G2F is a multi-institutional effort to study gene by environment interactions in Corn. There are twenty-five locations across North America participating, using common methods to study corn traits. They plant the same genotypes at many sites and collect a set of fourteen traits and eleven meterological variables. 
 
-To support this work, they use iPlant for collaboration and data management, Google Spreadsheets with templates and instructions for collecting data, and are using [BMS](https://www.integratedbreeding.net/) and [GOBII](http://www.gobiiproject.org/). Effort is under way to link field data into BMS.
+To support this work, they use iPlant for collaboration and data management, Google Spreadsheets with templates and instructions for collecting data (e.g. [this spreadsheet template](https://goo.gl/sGAzID)), and are using [BMS](https://www.integratedbreeding.net/) and [GOBII](http://www.gobiiproject.org/). Effort is under way to link field data into BMS.
 
 Key recommendations:
 
