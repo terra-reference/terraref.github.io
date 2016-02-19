@@ -10,6 +10,9 @@ image:
 date: 2016-02-18T19:48:45-06:00
 ---
 
+* Table of Contents
+{:toc}
+
 ## Participants
 
 Max Burnette, Darwin Campbell, Noah Fahlgren, David LeBauer, David Lee, Cheryl Porter, Geoff Morris, Jeffrey White, Jack Gardiner
