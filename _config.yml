@@ -3,7 +3,7 @@
 
 title: TERRA REF
 locale: en_US
-description: TERRA Reference Phenotyping System For Energy Sorghum
+description: Phenotyping Reference Platform
 logo: site-logo.png
 search: true
 url: http://terraref.ncsa.illinois.edu
@@ -12,7 +12,7 @@ url: http://terraref.ncsa.illinois.edu
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed

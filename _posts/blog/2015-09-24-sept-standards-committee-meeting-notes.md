@@ -10,7 +10,10 @@ image:
 date: 2015-09-24T20:43:38-05:00
 ---
 
-# Participants (TERRA team/Affiliation)
+* Table of Contents                                                                                 
+{:toc}                                                                                              
+
+## Participants (TERRA team/Affiliation)
 
 David LeBauer (Danforth/UIUC), Alex Thomasson (TAMU), Barnabas Poczos (TAMU/CMU), Bob Strand (LemnaTec), Carl Bernacchi (UIUC), Ed Delp (Purdue), Melba Crawford (Purdue), Matt Colgan (PNNL/Blue River), Paul Bartlett (Clemson/Near Earth), Shelley Petroy (NEON), David Lee (ARPA-E)
 

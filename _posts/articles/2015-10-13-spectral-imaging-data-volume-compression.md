@@ -10,6 +10,9 @@ image:
 date: 2015-10-13T22:22:27-05:00
 ---
 
+* Table of Contents
+{:toc}
+
 ## Hyperspectral Data formats
  
 HDF5 is a common format for sensor data, and netCDF-4 is one interface to HDF5; in other words, a netCDF-4 file can be treated as an HDF5 file.  These files can store high dimensional data (e.g. time, xyz space, wavelength) and can be written and read in parallel. NetCDF also has tools and specifications that support data use and interoperability in addition to efficient storage and computation.
