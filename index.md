@@ -1,9 +1,19 @@
 ---
 layout: page
-title: Latest Posts
-excerpt: "A simple and clean responsive Jekyll theme for words and photos."
+title: "Welcome"
+excerpt: ""
 search_omit: true
 ---
+
+### Live Sorghum Field
+
+This is a live stream of the Lemnatec field scanner at the USDA Arid Land Research Station in Maricopa, Arizona:
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Pp6IdkPtFC8?rel=0" frameborder="0" allowfullscreen></iframe>
+
+
+### Latest Posts
 
 <ul class="post-list">
 {% for post in site.posts limit:10 %} 
