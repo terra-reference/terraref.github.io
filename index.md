@@ -9,7 +9,7 @@ search_omit: true
 
 ## <i>Our goal is to accelerate breeding and the commercial release of high-yield bioenergy sorghum hybrids. </i>
 
-#### Critial elements to TERRA-REF's integrated phenotyping system.
+#### The critial elements to TERRA-REF's integrated phenotyping system:
 
 **Field phenotyping field scanner system**
 
