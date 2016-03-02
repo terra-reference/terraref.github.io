@@ -71,7 +71,6 @@ The reference data will facilitate data sharing and re-use of data by providing 
 | Senior Programmer | Rob Kooper |
 | CyberGIS Senior Programmer |  Yan Liu | 
 | ISDA Research Programmer |  Maxwell Bennett |
-| NDS Research Programmer | David Railia|
 | Image Compression, UCI | Charlie Zender| 
 | NDS Research Programmer | Dora Cai|
 
