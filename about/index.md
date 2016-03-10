@@ -57,7 +57,7 @@ As part of the TERRA-REF platform, a team based at the University of Illinois an
 
 We will integrate and develop existing software including as PlantCV, Breeding Management Systems, Clowder, BrownDog, PEcAn, and BETYdb into the data processing pipeline make it flexible and scalable.
 
-The reference data will facilitate data sharing and re-use of data by providing metadata, provenance for derived data sets, and standardized data processing workflows. It will include geospatial infrastructure for efficiently querying and transforming key datasets and tools that enable researchers to access, archive, use, and contribute data products.
+We will facilitate data sharing and re-use of data by providing metadata, provenance for derived data sets, and standardized data processing workflows. It will include geospatial infrastructure for efficiently querying and transforming key datasets and tools that enable researchers to access, archive, use, and contribute data products.
 
 ## Computing Pipeline Development Team
 
