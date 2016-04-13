@@ -7,9 +7,9 @@ search_omit: true
 ## The Transportation Energy Resources from Renewable Agriculture Phenotyping Reference Platform (TERRA-REF) is a national high-throughput phenotyping platform that aims to revolutionize plant breeding.
 
 
-## <i>Our goal is to accelerate breeding and the commercial release of high-yield bioenergy sorghum hybrids. </i>
+**_Our goal is to accelerate breeding and the commercial release of high-yield bioenergy sorghum hybrids._**
 
-#### The critial elements to TERRA-REF's integrated phenotyping system:
+#### TERRA-REF's integrated phenotyping system components:
 
 **Field phenotyping field scanner system**
 
