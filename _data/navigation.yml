@@ -12,11 +12,11 @@
 # - title: Documentation
 #  url: https://dlebauer.gitbooks.io/terraref-documentation/content/
 
-- title: OSF
-  url: https://osf.io/n532g/
+#- title: OSF
+#  url: https://osf.io/n532g/
 
-- title: Box
-  url: https://uofi.box.com/terraref-box-shared
+#- title: Box
+#  url: https://uofi.box.com/terraref-box-shared
 
 - title: GitHub
   url: https://github.com/terraref
@@ -24,8 +24,9 @@
 # - title: Theme Setup
 #  url: /theme-setup/
 
+- title: Clowder
+  url: http://terraref.ncsa.illinois.edu/clowder/
+
 - title: Search
   url: /search/
 
-- title: Clowder
-- url: http://terraref.ncsa.illinois.edu/clowder/
