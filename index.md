@@ -1,14 +1,14 @@
 ---
 layout: page
-title: "Field crop analytics that will revolutionize plant breeding"
-excerpt: ""
+title: "Advanced Field Crop Analytics"
+excerpt: "A national high-throughput phenotyping platform to revolutionize plant breeding."
 search_omit: true
+image:
+  feature: mac_sorghum_20150911.jpg
+  credit: Pedro Andrande-Sanchez
 ---
 
-**The Transportation Energy Resources from Renewable Agriculture Phenotyping Reference Platform (TERRA-REF) is a national high-throughput phenotyping platform that aims to revolutionize plant breeding.**
-
-
-_TERRA will accelerate breeding and the commercial release of high-yield bioenergy sorghum hybrids._
+_The Transportation Energy Resources from Renewable Agriculture Phenotyping Reference Platform (TERRA-REF) will accelerate breeding and the commercial release of high-yield bioenergy sorghum hybrids._
 
 #### TERRA-REF's integrated phenotyping system components:
 
