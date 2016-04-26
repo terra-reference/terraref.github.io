@@ -34,7 +34,6 @@ TERRA-REF will develop an integrated phenotyping system for energy Sorghum that 
 | Institution                                         | Personnel             | Role                   |
 |-----------------------------------------------------|-----------------------|------------------------|
 | Donald Danforth Plant Science Center                | Todd Mockler          | Project Lead           |
-|                                                     | Rob Alba              | Project Director       |
 |                                                     | Noah Fahlgren         | Phenotyping            |
 |                                                     | Erica Fishel          | Technology Transfer    |
 | Clemson University                                  | Stephen Kresovich     | Breeding               |
@@ -71,8 +70,9 @@ The reference data will facilitate data sharing and re-use of data by providing 
 | Senior Programmer | Rob Kooper |
 | CyberGIS Senior Programmer |  Yan Liu | 
 | ISDA Research Programmer |  Maxwell Bennett |
+| Database Programmer | Scott Rohde |
 | Image Compression, UCI | Charlie Zender| 
-| NDS Research Programmer | Dora Cai|
+
 
 ## Data Standard Products Committee
 
