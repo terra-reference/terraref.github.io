@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Simulated Data Set"
-modified:
+modified: 2015-11-21T22:22:27-05:00
 categories: articles
 excerpt:
 tags: []
@@ -124,6 +124,15 @@ Please provide feedback. Please provide feedback by leaving a comment below, com
 * If you do something cool, please send comments and figures! 
 * I also can provide similar data at hourly or higher frequency as well as other processes and environmental drivers, 
 Data are located on Box: https://uofi.box.com/sorghum-simulation
+
+## Data on BETYdb
+
+These data have been uploaded to a [test instance of our database, BETYdb.](http://pecandev.igb.illinois.edu/terra-test/search?search=sorghum) and can be accessed in the following ways:
+
+1. web interface: search + download
+2. API: http://pecandev.igb.illinois.edu/terra-test/search.csv?search=sorghum
+
+## csv files: Data on Box
 
 * observations.csv: simulated observations including biomass, LAI, NDVI, height, (aka 'phenotypes')
 * phenotypes.csv: physiological traits such as photosynthetic parameters, SLA, leaf angle, etc. associated w/ genotype (assumed time invariant)
