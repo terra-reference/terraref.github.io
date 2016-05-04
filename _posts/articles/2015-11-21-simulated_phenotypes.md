@@ -18,22 +18,20 @@ date: 2015-11-21T22:22:27-05:00
 
 # A simulated dataset
 
-The intent is to begin to get feedback on some rough sketches of what some data products might look like.
+We need feedback on data products that you will need access to.  To obtain feedback prior to the pipeline being in place, we have simulated data that a sensor might observe, along with data sets containing some of the underlying environmental drivers and physiological traits.
 
-To this end, I have simulated the type of data that a sensor might observe, along with some of the underlying environmental drivers and physiological traits.
+Note that these data sets contain numerical artifacts, quasi-principled error terms, and liberal re-application of core concepts for the purposes of developing these datasets. 
 
-Note that there will be numerical artifacts, quasi-principled error terms, and liberal re-application of core concepts for the purposes of developing these datasets. 
-
-All of these simulated datasets are released CC-BY-0: do with as you please, but these are not production quality - just trying to meet demand and begin getting feedback.
+All of these simulated datasets are released with an unrestrive [copyright](https://creativecommons.org/publicdomain/zero/1.0/).  This means you can copy, modify, ans share the data.  Please keep in mind that the data sets are not production quality - they have been developed solely to receive feedback.
 
 ### A note on variable names
 
-I have used the names currently used in BETYdb.org/variables, along with names inspired by the more standardized naming Climate Forecasting conventions. However, at this point this is a very early pre-release, and comments on how such data should be formatted and accessed can be discussed in issue #18.
+I have used the variable names currently used in BETYdb.org/variables, along with names inspired by the more standardized naming Climate Forecasting conventions. However, this is a very early pre-release, and we welcome comments on how such data should be formatted and accessed can be discussed in [issue #18](https://github.com/terraref/reference-data/issues/18).
 
 # Design of Simulation Experiment
 
 
-227 lines grown at each of three sites along a N-S transect in Illinois over five years (2021-2025). 
+Sorghum lines grown at each of three sites along a N-S transect in Illinois over five years (2021-2025). 
 
 ## Time Span (2021-2025) 
 
@@ -62,7 +60,7 @@ Each site has four replicate fields: A, B, C, D. This simulated dataset assumes 
 
 ## Meteorology
 
-| variable_id|name                           |standard_name       |units                          |Description                                                                                                                                                                                                      |
+| variable_id|name                           |standard_name       |units                          |description                                                                                                                                                                                                      |
 |-----------:|:------------------------------|:---------------|:------------------------------|:----------------|
 |            | Tmin                               | | C  |Daily max temperature |
 |            | Tmax                               |  | C  |Daily min temperature |
@@ -72,7 +70,7 @@ Each site has four replicate fields: A, B, C, D. This simulated dataset assumes 
 
 ## Genotypes
 
-Two-hundred and twenty-seven lines were grown at each site. They are identified uniquely by an integer in the range [9915:10141]
+Two-hundred and twenty-seven lines were grown at each site. Each line is identified by a unique integer in the range [9915:10141]
 
 ## Phenotypes
 
@@ -100,8 +98,6 @@ These 'phenotypes' are used as input parameters to the simulation model. We ofte
 ## Simulated Sensor Data
 
 This dataset includes what a sensor might observe, daily for five years during the growing season.
-
-OK. A sensor won't observe roots or rhizomes. Furthermore, Sorghum doesn't have rhizomes. The simulated biology is a little different.
 
 | variable_id|name                           |standard_name       |units                          |Description                                                                                                                                                                                                      |
 |-----------:|:------------------------------|:---------------|:------------------------------|:----------------|
