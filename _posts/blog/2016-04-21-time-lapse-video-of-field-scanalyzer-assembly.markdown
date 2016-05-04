@@ -26,14 +26,16 @@ We aim to make this unprecedented data stream as open and accessible as possible
 
 This time-lapse video that compresses the live video feed collected between October 29, 2015 and February 1 2016.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Pp6IdkPtFC8?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/toGI744gyww?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 
 ## Live Video Feed
 
 This is a live stream of the Lemnatec Field Scanalyzer at the USDA Arid Land Research Station in Maricopa, Arizona.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/toGI744gyww?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Pp6IdkPtFC8?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <div class="actions">
   <a href="{{site.github.repository_url}}/edit/master/{{ page.path }}">Edit this page</a>
