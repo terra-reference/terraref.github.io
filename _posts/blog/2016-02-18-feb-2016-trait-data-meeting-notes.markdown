@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Feb 2016 Trait Data Meeting Notes: ICASA + genomes2fields
-modified:
+title: "Feb 2016 Trait Data Meeting Notes"
 categories: blog
-excerpt:
-tags: []
+excerpt: "ICASA and genomes2fields"
+tags: [traits, data]
 image:
   feature:
 date: 2016-02-18T19:48:45-06:00

@@ -3,8 +3,8 @@ layout: post
 title: "A Simulated Data Set"
 modified: 2015-11-21T22:22:27-05:00
 categories: articles
-excerpt:
-tags: []
+excerpt: "Draft of high frequency trait and yield data"
+tags: [traits, yields, data]
 image:
   feature: sorghum_simulation_20151121.png
   credit: "David LeBauer. Simulated growth of Sorghum genotypes; green is most productive and red line is least."
