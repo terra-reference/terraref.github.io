@@ -125,9 +125,9 @@ Data are located on Box: https://uofi.box.com/sorghum-simulation
 
 These data have been uploaded to a [test instance of our database, BETYdb.](http://pecandev.igb.illinois.edu/terra-test/search?search=sorghum) and can be accessed in the following ways:
 
-1. web interface: search + download
-2. API: http://pecandev.igb.illinois.edu/terra-test/search.csv?search=sorghum
-
+1. web interface: search + download terraref.ncsa.illinois.edu/betydb-test
+2. API: http://terraref.ncsa.illinois.edu/betydb-test/search.csv?search=sorghum
+  * API Documentation: <--!please link here after it has been deployed-->
 ## csv files: Data on Box
 
 * observations.csv: simulated observations including biomass, LAI, NDVI, height, (aka 'phenotypes')
