@@ -125,10 +125,13 @@ Data are located on Box: https://uofi.box.com/sorghum-simulation
 
 These data have been uploaded to a [test instance of our database, BETYdb.](http://pecandev.igb.illinois.edu/terra-test/search?search=sorghum) and can be accessed in the following ways:
 
-1. web interface: search + download
-2. API: http://pecandev.igb.illinois.edu/terra-test/search.csv?search=sorghum
+1. web interface: search + download terraref.ncsa.illinois.edu/betydb-test
+2. via BETYdb API: 
+  * json: http://terraref.ncsa.illinois.edu/betydb-test/search.json?genus=sorghum
+  * csv: http://terraref.ncsa.illinois.edu/betydb-test/search.csv?genus=sorghum
+  * To query additional metadata, see API Documentation: <--!please link here after it has been deployed-->
 
-## csv files: Data on Box
+## csv files: [Data on Box](https://uofi.box.com/s/ups2b5hja4ul8bwi1c4jwiq19vdpwp7o)
 
 * observations.csv: simulated observations including biomass, LAI, NDVI, height, (aka 'phenotypes')
 * phenotypes.csv: physiological traits such as photosynthetic parameters, SLA, leaf angle, etc. associated w/ genotype (assumed time invariant)
