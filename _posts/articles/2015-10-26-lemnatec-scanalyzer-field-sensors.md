@@ -39,7 +39,7 @@ date: 2015-10-26T12:51:05-05:00
 |              |        |  | Source: 635nm x 4000umol/m<sup>2</sup>/s |
 | Environmental Sensors                | [Thies ClimaSensorD](http://www.thiesclima.com/ClimaSensorUS_e.html)         |                  | Wind, Air T, Humidity                    |
 |                                      |                     |                  | Pressure, Light, Precipitation           |
-| Open Path CO<sub>2</sub> Sensor | [GMP 343](http://www.vaisala.com/en/products/carbondioxide/Pages/GMP343.aspx)             |                  | Range: 0-1000 ppm |
+| Open Path CO<sub>2</sub> Sensor | [GMP 343](http://www.vaisala.com/en/products/carbondioxide/Pages/GMP343.aspx)             |                  | Range: 0-1000 ppm |	
 
 ## Sensor Data Sheets:
 
