@@ -127,10 +127,11 @@ These data have been uploaded to a [test instance of our database, BETYdb.](http
 1. web interface: search + download
  * go to http://terraref.ncsa.illinois.edu/bety-test and search for "Sorghum" in the search box
  * click "Download Results"
-2. URL API: 
+2. API: 
   * basic search: http://terraref.ncsa.illinois.edu/bety-test/search?search=sorghum
   * Draft API Documentation: https://terraref.ncsa.illinois.edu/bety-test/api/docs
-3. Other Methods: https://pecan.gitbooks.io/betydb-data-access/content/introduction.html
+3. SQL Dump: https://terraref.ncsa.illinois.edu/bety-test/dump/bety.tar.gz
+4. Other Methods: https://pecan.gitbooks.io/betydb-data-access/content/introduction.html
 
 ## csv files: Data on Box
 
