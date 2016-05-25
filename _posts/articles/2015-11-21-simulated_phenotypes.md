@@ -122,10 +122,15 @@ Data are located on Box: https://uofi.box.com/sorghum-simulation
 
 ## Data on BETYdb
 
-These data have been uploaded to a [test instance of our database, BETYdb.](http://pecandev.igb.illinois.edu/terra-test/search?search=sorghum) and can be accessed in the following ways:
+These data have been uploaded to a [test instance of our database, BETYdb.](http://terraref.ncsa.illinois.edu/bety-test/search?search=sorghum) and can be accessed in the following ways:
 
 1. web interface: search + download
-2. API: http://pecandev.igb.illinois.edu/terra-test/search.csv?search=sorghum
+ * go to http://terraref.ncsa.illinois.edu/bety-test and search for "Sorghum" in the search box
+ * click "Download Results"
+2. URL API: 
+  * basic search: http://terraref.ncsa.illinois.edu/bety-test/search?search=sorghum
+  * Draft API Documentation: https://terraref.ncsa.illinois.edu/bety-test/api/docs
+3. Other Methods: https://pecan.gitbooks.io/betydb-data-access/content/
 
 ## csv files: Data on Box
 
