@@ -130,7 +130,7 @@ These data have been uploaded to a [test instance of our database, BETYdb.](http
 2. URL API: 
   * basic search: http://terraref.ncsa.illinois.edu/bety-test/search?search=sorghum
   * Draft API Documentation: https://terraref.ncsa.illinois.edu/bety-test/api/docs
-3. Other Methods: https://pecan.gitbooks.io/betydb-data-access/content/
+3. Other Methods: https://pecan.gitbooks.io/betydb-data-access/content/introduction.html
 
 ## csv files: Data on Box
 
