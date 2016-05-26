@@ -7,7 +7,6 @@ excerpt: Time Lapse of Construction and Live Feeds
 tags: [field scanner]
 image:
   feature: field_scanner_20160229.jpg
-  thumb: field_scanner_thumb_20160229.jpg
   credit: Pedro Andrande-Sanchez
 date: 2016-04-21T17:25:14-05:00
 ---
