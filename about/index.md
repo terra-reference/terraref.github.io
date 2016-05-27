@@ -65,7 +65,7 @@ The reference data will facilitate data sharing and re-use of data by providing 
 |---|---|
 | Lead | David LeBauer | 
 | Danforth Lead | Noah Fahlgren | 
-| Promect Manager | Rachel Shekar |
+| Project Manager | Rachel Shekar |
 | Storage Architect | JD Maloney | 
 | Senior Programmer | Rob Kooper |
 | CyberGIS Senior Programmer |  Yan Liu | 
