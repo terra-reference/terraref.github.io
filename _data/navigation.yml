@@ -10,7 +10,7 @@
   url: /blog/
 
 - title: Documentation
-url: https://terraref.gitbooks.io/terraref-documentation/content/
+  url: https://terraref.gitbooks.io/terraref-documentation/content/
 
 #- title: OSF
 #  url: https://osf.io/n532g/
