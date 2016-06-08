@@ -76,7 +76,7 @@ The video below demonstrates how to set up and use Clowder locally as well as ho
 
 ### Data Organization
 
-You can explore collections and datasets through the web interface or the [Clowder API](https://terraref.ncsa.illinois.edu/clowder/assets/docs/api/index.html). 
+You can explore collections and datasets through the Clowder web interface or the [Clowder API](https://terraref.ncsa.illinois.edu/clowder/assets/docs/api/index.html). 
 Data is organized into **datasets**, **collections** and **spaces**.
 
 * **Datasets** consist of one or more files with associated metadata collected by one sensor at one time point. Users can annotate, download, and use these sensor datasets.
