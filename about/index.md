@@ -34,6 +34,7 @@ TERRA-REF will develop an integrated phenotyping system for energy Sorghum that 
 | Institution                                         | Personnel             | Role                   |
 |-----------------------------------------------------|-----------------------|------------------------|
 | Donald Danforth Plant Science Center                | Todd Mockler          | Project Lead           |
+|                                                     | Nadia Shakoor         | Associate Director     |
 |                                                     | Noah Fahlgren         | Phenotyping            |
 |                                                     | Erica Fishel          | Technology Transfer    |
 | Clemson University                                  | Stephen Kresovich     | Breeding               |
