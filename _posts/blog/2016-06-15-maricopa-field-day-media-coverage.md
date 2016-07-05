@@ -10,6 +10,7 @@ image:
 date: 2016-06-15
 ---
 
+# Exceprts and links to five news stories about the field scanner
 
 ## "Agri-Bots: US Department Of Energy Invests Millions In Cutting-Edge Arizona Crop Scanner"
 
