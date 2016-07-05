@@ -4,7 +4,7 @@ title: "Spectral Imaging: Data Volume, Formats, and Compression"
 modified:
 categories: articles
 excerpt:
-tags: []
+tags: field scanner, data
 image:
   feature:
 date: 2015-10-13T22:22:27-05:00
