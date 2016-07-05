@@ -4,7 +4,7 @@ title: "Lemnatec Scanalyzer Field Sensors"
 modified:
 categories: articles
 excerpt:
-tags: [gantry, data, clowder]
+tags: [field scanner, data]
 image:
   feature: prism_banner_headwall.jpg
   credit: Headwall Photonics
