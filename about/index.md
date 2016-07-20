@@ -106,6 +106,15 @@ Data Products will be published, reviewed, and updated each year of the project,
 | Eric Lyons | University of Arizona / iPlant | 
 | Ted Habermann | The HDF Group |
 
+# Resources
+
+* [Brochure](https://drive.google.com/open?id=0By_PDCcY5g2JaDJRZFBzd2FaZlU)
+* Logos
+  * [TERRA REF](https://drive.google.com/open?id=0By_PDCcY5g2JclZNN2NtaklXcE0)
+  * [Partner Institutions](https://drive.google.com/open?id=0By_PDCcY5g2JdTRySHR2NlJEZFE)
+* [Images](https://drive.google.com/open?id=0By_PDCcY5g2JeE84YXh3eXgtaUU)
+
+## 
 
 # Latest Posts
 
