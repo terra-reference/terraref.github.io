@@ -108,11 +108,13 @@ Data Products will be published, reviewed, and updated each year of the project,
 
 # Resources
 
-* [Brochure](https://drive.google.com/open?id=0By_PDCcY5g2JaDJRZFBzd2FaZlU)
-* Logos
-  * [TERRA REF](https://drive.google.com/open?id=0By_PDCcY5g2JclZNN2NtaklXcE0)
-  * [Partner Institutions](https://drive.google.com/open?id=0By_PDCcY5g2JdTRySHR2NlJEZFE)
-* [Images](https://drive.google.com/open?id=0By_PDCcY5g2JeE84YXh3eXgtaUU)
+For outreach and communication we have [**Brochures**](https://drive.google.com/open?id=0By_PDCcY5g2JaDJRZFBzd2FaZlU) originally created for 2016 ARPA-E summit.
+
+**Logos** for the [TERRA REF project](https://drive.google.com/open?id=0By_PDCcY5g2JclZNN2NtaklXcE0) and [partnering institutions](https://drive.google.com/open?id=0By_PDCcY5g2JdTRySHR2NlJEZFE).
+
+[**Images**](https://drive.google.com/open?id=0By_PDCcY5g2JeE84YXh3eXgtaUU) of crops, sensors, phenotyping platforms, and other activities.
+
+
 
 ## 
 
