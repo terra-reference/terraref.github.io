@@ -45,7 +45,9 @@ date: 2015-10-26T12:51:05-05:00
 
 <iframe  src="https://app.box.com/embed_widget/s/r5udfu1z7kpf07ryzvdorla3l5g9dto3?view=list&sort=name&direction=ASC&theme=gray" width="800" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
+## Calender of planned sensor operations
 
-## And a Promotional Video from Lemnatec
+Note: this is a planning calendar
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/Wj-U0QH5J_M?rel=0&amp;controls=0" frameborder="0"> </iframe>
+<iframe src="https://calendar.google.com/calendar/embed?title=Planned%20Field%20Scanner%20Operations&amp;showNav=0&amp;showPrint=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=8pc8j7cf5a5rtl7sgd9qr25jek%40group.calendar.google.com&amp;color=%235229A3&amp;ctz=America%2FChicago" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
