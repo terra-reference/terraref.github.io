@@ -193,4 +193,54 @@ ggplot() +
         
 ```
 
+### Preparing for database insertion
 
+```{r}
+
+library(data.table)
+library(dplyr)
+library(tidyr)
+require(bit64)
+# data.csv from https://terraref.ncsa.illinois.edu/bety-test/sites.csv
+sites <- fread('~/Downloads/data.csv')
+setnames(sites, c('Id', 'Sitename'), c('site_id', 'sitename'))
+
+# data (1).csv from https://terraref.ncsa.illinois.edu/bety-test/cultivars.csv
+cultivars <- fread("~/Downloads/data (1).csv")
+setnames(cultivars, c('Id', 'Name'), c('cultivar_id', 'cultivar'))
+
+
+# data (2).csv from https://terraref.ncsa.illinois.edu/bety-test/variables.csv
+variables <- fread("~/Downloads/data (2).csv")
+#unique(longdata3$trait) %in% variables$Name
+setnames(variables, c('Id', 'Name'), c('variable_id', 'trait'))
+
+library(lubridate)
+
+#data <- fread("~/Downloads/subset_420_rows.txt")
+data <- fread("~/Downloads/observations_for_bety_upload.csv")
+data$entity_id <- rownames(data)
+setnames(data, 'site','sitename')
+
+data2 <- data %>% 
+  gather(key = trait, value = mean, stem_biomass, leaf_biomass, root_biomass,  LAI, NDVI, canopy_height) %>%
+  mutate(specie_id = 7000000001) %>% 
+  merge(sites[,list(site_id, sitename)], by = 'sitename') %>% 
+  merge(cultivars[,list(cultivar_id, cultivar)], by = 'cultivar') %>% 
+  merge(variables[,list(variable_id, trait)], by = 'trait') %>% setDT
+data2[,`:=`(id = 7000005504 + 1:16388946)]
+
+# insert <- data2 %>%
+#   mutate(insert = paste('insert into traits(site_id, date, specie_id, cultivar_id, variable_id, mean, entity_id, created_at, updated_at) values (', paste(site_id, paste0("'",date,"'"), specie_id, cultivar_id, variable_id, mean, entity_id, sep = ","), ', now(), now());')) %>% 
+#   select(insert)
+
+#writeLines(insert[,1], con = '~/insert.sql')
+
+update <- data2[id > 700618204] %>% 
+  mutate(update = paste('update traits set (site_id, cultivar_id, treatment_id, citation_id, updated_at) = (', site_id,',', cultivar_id, ', 7000000001, 7000000001, now()) where id = ', id, ';'))
+  
+writeLines(update$update, con = '~/update.sql')
+
+# then nohup psql -d bety -U bety < insert.sql &
+
+```
