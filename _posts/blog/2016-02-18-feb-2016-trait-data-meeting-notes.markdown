@@ -2,6 +2,7 @@
 layout: post
 title: "Feb 2016 Trait Data Meeting Notes"
 categories: blog
+modified: 2016-08-09
 excerpt: "ICASA and genomes2fields"
 tags: [traits, data]
 image:
@@ -43,6 +44,7 @@ Key recommendations:
 * g2f uses iPlant (now CyVerse) for sharing data and information via the wiki, for running BMS virtual machines on their Atmosphere platform, and they are working with iPlant to develop an image analysis pipeline using Bisque. iPlant provides lots (many TB) of storage to the group and the iPlant team has been very helpful.
 * Protocols are comprehensively documented and shared among researchers.
 * They learned a lot in 2014 and improved the protocols for 2015; we should learn from them, and are free to adopt and adapt their documentation and protocols.
+* The [genomes2fields standard operating proceedures](https://github.com/terraref/reference-data/files/409876/GxE-2016-SOP-v1.1_041116FINAL.pdf) are availble through the [genomes2fields website](http://genomes2fields.org).
 
 **genomes2fields presentation** ([Video](https://youtu.be/HvrkxXuAMIk)) ([Slides](https://goo.gl/f8aMXk))
 
