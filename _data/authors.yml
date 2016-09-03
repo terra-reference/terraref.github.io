@@ -8,9 +8,14 @@ david_lebauer:
 #  avatar: dlebauer-bw.jpg
   twitter: dlebauer
 #  google:
-#    plus: BillyRick
+#    plus: 
 
 christine_laney:
   name: Christine Laney
   email: claney@neoninc.org
   bio: "NEON Staff Scientist and TERRA Standards Committee Member"
+
+craig_willis:
+  name: Craig Willis
+  email: willis8@ncsa.illinois.edu
+  bio: "Research Programmer with National Data Service and TERRA Ref developer"
