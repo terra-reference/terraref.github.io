@@ -3,7 +3,7 @@ layout: post
 title: "Project Kickoff at NCSA"
 modified:
 categories: blog
-excerpt: "Introducing TERRA Ref and discussing computing needs with hosts at NCSA"
+excerpt: "Introducing TERRA Ref, NCSA Groups, and Resources. Talks by David LeBauer, Rob Kooper, Yan Liu, and Ed Siedel"
 tags: []
 image:
   feature: bw_panorama.png
