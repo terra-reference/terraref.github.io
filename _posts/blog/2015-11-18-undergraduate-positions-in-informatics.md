@@ -2,7 +2,7 @@
 layout: post
 title: "Data Science Jobs"
 categories: blog
-tags: []
+tags: [clowder, betydb]
 date: 2015-11-18T20:36:50-06:00
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Sept 2014 Standards Committee Meeting Notes"
-modified:
+modified: "Introduction and Welcome"
 categories: blog
-excerpt:
-tags: []
+excerpt: 
+tags: [standards, reference-data]
 image:
   feature:
 date: 2015-09-24T20:43:38-05:00

@@ -4,7 +4,7 @@ title: World's Largest Ag Robot Videos
 modified:
 categories: blog
 excerpt: Time Lapse of Construction and Live Feeds 
-tags: [field scanner]
+tags: [field scanner, media]
 image:
   feature: field_scanner_20160125.jpg
   thumb: field_scanner_thumb_20160125.jpg

@@ -3,24 +3,21 @@ layout: post
 title: "August 2016 Traits Standards Committee Meeting Notes"
 modified:
 categories: blog
-excerpt:
-tags: []
+excerpt: "Accessing data, Simulated data, Shared Protocols"
+tags: [reference data, standards, traits]
 image:
   feature:
 date: 2016-08-02T20:43:38-05:00
 ---
-# August 2016 Traits Standards Committee Meeting Notes
+
+
+* Table of Contents                                                                                 
+{:toc}
+
 
 ## Participants
 
 David LeBauer, Max Burnette, Cheryl Porter, Shawn Serbinm David Lee, Noah Fahlgren, Mitch Tuinstra, Yuhao Chen (Delp lab), Justin McGrath, Jeff White, Craig Willis, Eric Lyons
-
-REGRETS:
-Geoff Morris
-
-## Agenda
-
-### Introductions
 
 ### Data Pipeline overview
 
@@ -36,21 +33,21 @@ documentation: [https://pecan.gitbooks.io/betydb-data-access/content/](https://p
 
 API documentation [https://pecan.gitbooks.io/betydb-data-access/content/API/beta\_API.html](https://pecan.gitbooks.io/betydb-data-access/content/API/beta_API.html)
 
-Examples
+### Data Samples 
 
-Traits:
+#### Traits:
 
 Web interface: [https://terraref.ncsa.illinois.edu/bety-test/traits](https://terraref.ncsa.illinois.edu/bety-test/traits)
 
 API: [https://terraref.ncsa.illinois.edu/bety-test/api/beta/traits?key=9999999999999999999999999999999999999999&amp;limit=5](https://terraref.ncsa.illinois.edu/bety-test/api/beta/traits?key=9999999999999999999999999999999999999999&amp;limit=5)
 
-### Shared Field Measurement Protocols
+#### Shared Field Measurement Protocols
 
 - Review [draft document of sampling protocols](https://docs.google.com/document/d/1iP8b97kmOyPmETQI_aWbgV_1V6QiKYLblq1jIqXLJ84)
 - Interest in sharing across teams?  Dave Lee can circulate among the other TERRA teams and work to get feedback after the Traits Standards Committee and the Cat5 team are satisfied with the document.
 - Interest in additional measurements at MAC?
 
-### Data and meta-data formats
+#### Data and meta-data formats
 
 - Planning to support ICASA / NARDN, BRAPI
 - Developing a cross-vocabulary thesaurus
@@ -58,6 +55,8 @@ API: [https://terraref.ncsa.illinois.edu/bety-test/api/beta/traits?key=999999999
   - [list of available ontologies, vocabularies and meta-data formats](https://docs.google.com/spreadsheets/d/1qu3LYomGIiC4Lmzler-bH8jvyfR-GA6lDl5Go0NhO2c/edit#gid=0)
   - [Requirements for Standard Data Formats, Ontologies/Vocabularies](https://docs.google.com/document/d/13gXD_OVLffm0hqahDZ3tUvru8IV1fRfM6DiuOcfjr3s/edit?usp=sharing).
   - Mapping variable information between systems and vocabularies ( [github issue 31](https://github.com/terraref/reference-data/issues/31))
+
+#### Shared Protocols
 
 NIH protocol database - Zoe Lacroix
 

@@ -3,20 +3,22 @@ layout: post
 title: "March 31,  Sensor Standards Committee Meeting Notes"
 modified:
 categories: blog
-excerpt:
-tags: []
+excerpt: "Purdue Team Visits UIUC; Discussing Hyperspectral Calibration"
+tags: [field scanner, standards, reference data]
 image:
   feature:
 date: 2016-03-31T20:43:38-05:00
 ---
 
-# March 31, 2016 Sensor Data Standards Committee Meeting
+
+* Table of Contents                                                                                 
+{:toc}
+
+**March 31, 2016 Sensor Data Standards Committee Meeting**
 
 ## Participants
 
-David LeBauer, Chris Boomsma, Larry Biehl, Ed Delp, Melba Crawford, Solmaz Hajmohammadi
-
-Charlie Zender, Matt Colgan, Alex Thomasson
+David LeBauer, Chris Boomsma, Larry Biehl, Ed Delp, Melba Crawford, Solmaz Hajmohammadi, Charlie Zender, Matt Colgan, Alex Thomasson
 
 ## Agenda
 

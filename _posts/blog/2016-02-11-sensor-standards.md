@@ -3,14 +3,14 @@ layout: post
 title: "March 11, 2016 Sensor Standards Committee Meeting Notes"
 modified:
 categories: blog
-excerpt:
-tags: []
+excerpt: "What will first data release contain?"
+tags: [standards, reference data, field scanner]
 image:
   feature:
 date: 2016-03-11T20:43:38-05:00
 ---
 
-# March 11, 2016 Sensor Data Standards Committee Meeting
+ March 11, 2016 Sensor Data Standards Committee Meeting
 
 ## **Participants**
 
@@ -22,13 +22,13 @@ Objective: define v0 data products, priorities, what we have, what is needed.
 
 Introductions, updates, roadblocks, milestones
 
-1. Ben &amp; Markus
+1. Ben & Markus
 2. Charlie
 3. Solmaz
 
 Sample data
 
-1. Data we do and don&#39;t have
+1. Data we do and don't have
 2. Review existing meta-data files. [https://goo.gl/QH6PQv](https://goo.gl/QH6PQv)
   a. these taken from sample datasets [https://uofi.box.com/s/c9ngkwi3xvtfr0ei5zfzgf4jya0dmrlc](https://uofi.box.com/s/c9ngkwi3xvtfr0ei5zfzgf4jya0dmrlc)
 3. What data products will Lemnatec generate?
@@ -50,7 +50,7 @@ What additional information is required to calibrate sensors and interpret data?
   - time of start and end of image capture
 - Downwelling solar radiation?
 - External color, geometric calibration
-  - &quot;3x3 K matrix&quot; (I think this is what R. Pless mentioned for geometric correction / transformation from sensor to reality)
+  - "3x3 K matrix"; (I think this is what R. Pless mentioned for geometric correction / transformation from sensor to reality)
 - What does time stamp mean, for sensors that are open for a long time, including
   - imaging spectrometers
   - laser scanner

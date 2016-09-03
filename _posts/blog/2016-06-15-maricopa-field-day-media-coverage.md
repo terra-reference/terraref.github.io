@@ -2,7 +2,7 @@
 layout: post
 title: "Maricopa Field Day Media Coverage"
 excerpt: "News stories about the Field Scanner on Phoenix NPR station KJZZ, Farm Industry News, Feedstuffs, Ag Professional, and US DOE"
-categories: [blog, media]
+categories: [blog]
 tags: [media, field scanner]
 image:
   feature: field_scanner_panormama_20160602.jpg
@@ -10,7 +10,11 @@ image:
 date: 2016-06-15
 ---
 
-# Exceprts and links to five news stories about the field scanner
+
+* Table of Contents                                                                                 
+{:toc}
+
+**Exceprts and links to five news stories about the field scanner**
 
 ## "Agri-Bots: US Department Of Energy Invests Millions In Cutting-Edge Arizona Crop Scanner"
 

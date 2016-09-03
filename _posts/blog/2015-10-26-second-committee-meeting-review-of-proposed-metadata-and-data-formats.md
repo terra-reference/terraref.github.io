@@ -2,7 +2,7 @@
 layout: post
 title: "Oct 2015 Committee Meeting Notes"
 categories: blog
-tags: []
+tags: [standards, reference-data]
 image: 
   feature: 
 date: 2015-10-29T13:50:12-0500
