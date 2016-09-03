@@ -13,7 +13,9 @@ date: 2016-09-02
 {:toc}
 
 
-This page summarizes existing standards, conventions, controlled vocabularies, and ontologies used for the representation of crop physiological traits, agronomic metadata, sensor output, genomics, and other inforamtion related to the TERRA-REF project.
+This article summarizes existing standards, conventions, controlled vocabularies, and ontologies used for the representation of crop physiological traits, agronomic metadata, sensor output, genomics, and other inforamtion related to the TERRA-REF project.
+
+It is a first draft that will eventually be updated in the [TERRA Ref documentation](https://terraref.gitbooks.io/terraref-documentation/content/existing_data_standards.html).
 
 ## Metadata standards
 
