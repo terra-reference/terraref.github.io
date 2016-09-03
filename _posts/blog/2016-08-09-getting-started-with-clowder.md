@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Adding algorithms to the phenomics pipeline"
-excerpt: "An introduction to the Clowder platform"
+title: "Tutorial for developers: Adding algorithms to the phenomics pipeline"
+excerpt: "Max introduces the use of Clowder to automate algorithms"  
 categories: blog
-excerpt:
-tags: [clowder, pipeline, data]
+tags: [clowder, pipeline, data, algorithms]
 image: 
   feature: logos/clowder_long.png
   thumb: logos/clowder_smallcat.png
@@ -16,8 +15,6 @@ date: 2016-08-09
 
 * Table of Contents
 {:toc}
-
-
 
 NCSA Research Programmer Max Burnette has recorded a tutorial for computational scientists interested in adding their algorithms to Clowder. _NOTE: This is aimed at pipeline developers rather than data users_. 
 
@@ -34,8 +31,9 @@ The TERRA REF program has an instance of Clowder at https://terraref.ncsa.illino
 
 ### Next steps
 
-Please get in touch or create a github issue once you are starting to actually develop your extractor and I can help get you off to a good start. Also, I think I’m missing someone from the To: list I got in the calendar invite – please forward this to anyone I missed.
+Please get in touch or create a github issue once you are starting to actually develop your extractor and I can help get you off to a good start. 
 
+Contact Max Burnette via [email, phone](http://www.ncsa.illinois.edu/assets/php/directory/contact.php?contact=mburnet2), on GitHub, or on our [Slack Channel](https://terra-ref.slack.com/)
 
 ## References
 
