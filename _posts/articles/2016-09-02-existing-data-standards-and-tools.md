@@ -13,8 +13,6 @@ date: 2016-09-02
 {:toc}
 
 
-# Existing Data Standards
-
 This page summarizes existing standards, conventions, controlled vocabularies, and ontologies used for the representation of crop physiological traits, agronomic metadata, sensor output, genomics, and other inforamtion related to the TERRA-REF project.
 
 ## Metadata standards
@@ -35,11 +33,11 @@ The ICASA data dictionary is also being mapped to various ontologies as part of 
 With this, it may be possible in the future to represent ICASA concepts using formal ontologies or to create mappings/crosswalks between them.
 
 See also:
-<small>
+
 * White et al (2013). [Integrated Description of Agricultural Field Experiments and Production: The ICASA Version 2.0 Data Standards](http://www.sciencedirect.com/science/article/pii/S016816991300077X). Computers and Electronics in Agriculture.
 * AgMIP [JSON Data Objects format description](http://research.agmip.org/display/dev/JSON+Data+Objects)
 * [ICASA Master Variable List](http://research.agmip.org/display/dev/ICASA+Master+Variable+List)
-</small>
+
 
 ### Minimum Information About a Plant Phenotyping Experiment (MIAPPE)
 
@@ -63,29 +61,29 @@ MIAPPE is based on the ISA framework, building on earlier “minimum information
 It is worth noting that linked-data methods are supported but optional when depositing data to GEO. The [MAGE-TAB](http://fged.org/projects/mage-tab/) format, similar to the MIAPPE ISA Tab format, does support [sources for controlled vocabulary terms or ontologies](http://tab2mage.sourceforge.net/docs/magetab_docs.html).
 
 *See also:*
-<small>
+
 * [Minimum Information about a Plant Phenotyping Experiment](http://cropnet.pl/phenotypes/wp-content/uploads/2016/04/MIAPPE.pdf)
-</small>
+
 
 ### Dublin Core Application Profiles
 
 While some communities define explicit metadata schema (e.g., [Ecological Metadata Language](http://www.dcc.ac.uk/resources/metadata-standards/eml-ecological-metadata-language)), another approach is the use of "application profiles."  An application profile is declaration of metadata terms adopted by a community or an organization along with the source of the terms. Application profiles are composed of terms drawn from multiple vocubularies or ontologies to define a "schema" or "profile" for metadata.  For example, the Dryad metadata profile draws on the Dublin Core, Darwin Core, and Dryad-specific elements.
 
 *See also:*
-<small>
+
 * DCMI [Guidelines for Dublin Core Application Profiles](http://dublincore.org/documents/profile-guidelines/index.shtml).
 * Example [Dryad Metadata Profile](http://wiki.datadryad.org/Metadata_Profile)
 * DCMI [Singapore Framework](http://dublincore.org/documents/singapore-framework/)
-</small>
+
 
 ### Trait Dictionary Format (Crop Ontology)
 
 The Crop Ontology curation tool supports import and export of trait information in a trait dictionary format. 
 
 *See also:*
-<small>
+
 * [The Crop Ontology Improving the Quality of 18 Crop Trait Dictionaries](https://www.researchgate.net/publication/266088335_The_Crop_Ontology_Improving_the_Quality_of_18_Crop_Trait_Dictionaries_for_the_Breeding_Management_System_and_Adding_New_Crops)
-</small>
+
 
 ## Vocabularies and Ontologies
 This section reviews related controlled vocabularies, data dictionaries, and ontologies.
@@ -99,6 +97,7 @@ There has been some effort to standardize variable names by adopting [Climate Fo
 A variable is represented as a name, description, units, as well as min/max values.
 
 For example:
+
 ```json
 "variable": {
     "created_at": "2016-03-07T11:23:58-06:00",
@@ -120,18 +119,18 @@ For example:
 *See also:*
 
 
-<small>
+
 * [The full suite of variables supported by BETYdb](https://www.betydb.org/variables)
 * [Trait variables used in the TERRA Ref BETYdb instance](https://www.betydb.org/variables)
-</small>
+
 
 ### DCMI Metadata terms
 
 Controlled vocabulary for the representation of bibliographic information.
 *See also:*
-<small>
+
 * [DCMI Terms](http://dublincore.org/documents/dcmi-terms/)
-</small>
+
 
 ### Climate and Forecast Standard Name Table
 
@@ -142,13 +141,14 @@ This enables users of data from different sources to decide which quantities are
 
 Basic conventions include lower-case letters, numbers, underscores, and US spelling.
 
-Information is encoded in the variable name itself. The basic format is (optional components in []):
+Information is encoded in the variable name itself. The basic format is (optional components in brackets `[` `]`):
 
-```[surface] [component] standard_name [at surface] [in medium] [due to process] [assuming condition]```
+> [surface] [component] standard_name [at surface] [in medium] [due to process] [assuming condition]
 
 For example:
-```acoustic_signal_roundtrip_travel_time_in_sea_water
-```
+
+> acoustic_signal_roundtrip_travel_time_in_sea_water
+
 
 Standard names have optional canonical units, AMIP and GRIB (GRidded Binary) codes.
 
@@ -158,10 +158,10 @@ Dimensions: time, lat, lon, other
 specify time first (unlimited) lat, lon or x, y extent to field boundaries.
 
 *See also:*
-<small>
+
 * [CF Conventions](http://cfconventions.org/)
 * [CF Conventions FAQ](http://cfconventions.org/faq.html#stdnames_mappings) mentions RDF conversions.
-</small>
+
 
 ### ICASA master variable list
 
@@ -172,10 +172,10 @@ The NARDN-HD Core Harmonized Crop Experiment Data is also taken from the ICASA v
 ICASA variables have a number of fields, including name, description, type, min and max values.
 
 *See also:*
-<small>
+
 * [ICASA Master Variable List](http://research.agmip.org/display/dev/ICASA+Master+Variable+List)
 * White et al (2013). [Integrated Description of Agricultural Field Experiments and Production: The ICASA Version 2.0 Data Standards](http://www.sciencedirect.com/science/article/pii/S016816991300077X). Computers and Electronics in Agriculture.
-</small>
+
 
 ### NARDN-HD Core Harmonized Crop Experiment Data
 
@@ -192,9 +192,9 @@ CSDMS names include object, quantity/attribute parts.
 CSDMS names have been converted to RDF as part of the Earth Cube Geosemantic Server project.
 
 *See also:*
-<small>
+
 * [CSMDS Standard Names](http://csdms.colorado.edu/wiki/CSDMS_Standard_Names#.C2.A0_CSDMS_Standard_Names)
-</small>
+
 
 
 ### International Plant Names Index (IPNI)
@@ -223,11 +223,11 @@ AgrO is intended to work with the existing ontologies including ENVO, UO, PATO, 
 It will be part of an Agronomy Management System and fieldbook modeled on the CGIAR Breeding Management System to capture agronomic data.
 
 See also:
-<small>
+
 * OBO Foundry. [Agonomy Ontology](http://www.obofoundry.org/ontology/agro.html)
 * FAO. [Crop Ontology: harmonizing semantics for phenotyping and agronomy data](http://aims.fao.org/activity/blog/crop-ontology-harmonizing-semantics-phenotyping-and-agronomy-data)
 * RDA. [Interest Group on Agricultural Data (IGAD)](https://rd-alliance.org/interest-group-agricultural-data-igad-pre-plenary-meeting.html)
-</small>
+
 
 ### Crop Ontology (CO)
 
@@ -238,10 +238,10 @@ MIAPPE recommends the CO (along with TO, PO, PATO, XEML) for observed variables.
 Shrestha et al (2012) describe a method for representing trait data via the CO.
 
 See also:
-<small>
+
 * [Crop Ontology](http://www.cropontology.org/about)
 * Shrestha et al (2012). [Bridging the phenotypic and genetic data useful for integrated breeding through a data annotation using the Crop Ontology developed by the crop communities of practice](http://www.ncbi.nlm.nih.gov/pubmed/22934074). Front Physiol. 2012 Aug 25;3:326.
-</small>
+
 
 
 ### Crop Research Ontology (CRO)
@@ -250,10 +250,10 @@ CRO is part of the Crop Ontology platform, originally developed for the Internat
 CRO is recommended in the MIAPPE standard for general metadata, environment, treatments, and experimental design fields.
 
 *See also:*
-<small>
+
 * [Crop Research Ontology](http://www.cropontology.org/ontology/CO_715/Crop%20Research)
 * [International Crop Information System](http://irri.org/our-work/locations/55-resources/tools/201-international-crop-information-system)
-</small>
+
 
 ### Extensible Observation Ontology (OBOE)
 
@@ -261,9 +261,9 @@ Cited in Kattge et al (2011) as an example of an ontology used in ecology and en
 However, the CRO may be better suited for TERRA-REF.
 
 *See also:*
-<small>
+
 * Kattge, J.(2011). [A generic structure for plant trait databases](http://doi.org/10.1111/j.2041-210X.2010.00067.x)
-</small>
+
 
 ### Gene Ontology (GO)
 
@@ -272,10 +272,10 @@ GO is a widely-adopted ontology in genetics research, supported by databases suc
 This ontology is cited in Krajewski et al (2015) and might be relevant for the TERRA genomics pipeline.
 
 See also:
-<small>
+
 * [Gene Ontology](http://geneontology.org/)
 * Krajewski et al (2015). [Towards recommendations for metadata and data handling in plant phenotyping](http://doi.org/10.1093/jxb/erv271). Journal of Experimental Botany, 66(18), 5417–5427. 
-</small>
+
 
 ### Information Artifact Ontology (IAO)
 
@@ -289,9 +289,9 @@ This includes a set of 'universal' terms, that are applicable across various bio
 Recommended by MIAPPE for general metadata, timing and location, and experimental design.
 
 *See also:*
-<small>
+
 * [Minimum Information about a Plant Phenotyping Experiment](http://cropnet.pl/phenotypes/wp-content/uploads/2016/04/MIAPPE.pdf)
-</small>
+
 
 ### Phenotype and Attribute Ontology (PATO)
 
@@ -299,9 +299,9 @@ Phenotypic qualities (properties).
 Recommended in MAIPPE for use in the observed values field.
 
 *See also:*
-<small>
+
 * [Minimum Information about a Plant Phenotyping Experiment](http://cropnet.pl/phenotypes/wp-content/uploads/2016/04/MIAPPE.pdf)
-</small>
+
 
 ### Plant Environment Ontology (EO)
 
@@ -314,9 +314,9 @@ Recommended by MIAPPE for observed values fields. Along with EO, GO, and TO make
 Links plant anatomy, morphology and growth and development to plant genomics data.
 
 *See also:*
-<small>
+
 * [Minimum Information about a Plant Phenotyping Experiment](http://cropnet.pl/phenotypes/wp-content/uploads/2016/04/MIAPPE.pdf)
-</small>
+
 
 ### Plant Trait Ontology (TO)
 
@@ -324,6 +324,7 @@ Along with EO, GO, and PO, make up the Gramene database to link plant anatomy, m
 Recommended by MIAPPE for observed  values fields.
 
 Example trait entry:
+
 ```
 [Term]
 id: TO:0000019
@@ -334,9 +335,9 @@ is_a: TO:0000207 ! plant height
 ```
 
 *See also:*
-<small>
+
 * [Minimum Information about a Plant Phenotyping Experiment](http://cropnet.pl/phenotypes/wp-content/uploads/2016/04/MIAPPE.pdf)
-</small>
+
 
 ### Statistics Ontology (STATO)
 
@@ -344,9 +345,9 @@ General purpose statistics ontology coveraging processes such as statistical tes
 Recommended by MIAPPE for experimental design.
 
 *See also:*
-<small>
+
 * [Minimum Information about a Plant Phenotyping Experiment](http://cropnet.pl/phenotypes/wp-content/uploads/2016/04/MIAPPE.pdf)
-</small>
+
 
 
 ### Units of Measurement Ontology (UO)
@@ -374,14 +375,14 @@ Data are transfer into and out of the AgMIP Crop Experiment (ACE) and AgMIP Crop
 
 
 *See also*
-<small>
+
 * [AgMIP Crop Expirement Database](http://www.agmip.org/it-team/)
 * Porter et al (2014). [Harmonization and translation of crop modeling data to ensure interoperability](http://dx.doi.org/10.1016/j.envsoft.2014.09.004). Environmental Modelling and Software. 62:495-508.
 * [AgMIP Data Products](http://research.agmip.org/download/attachments/3866652/11_+IT_Porter_10Oct.pdf) presentation
 * [AgMIP on Github](https://github.com/agmip)
 * [AgMIP Crop Experiment Database data variables](http://research.agmip.org/display/it/Data+Interoperability)
 * [AgMIP API](http://research.agmip.org/display/dev/The+AgMIP+Crop+Experiment+Database+API)
-* [AgMIP using ICASA standards](https://github.com/terraref/reference-data/issues/6)</small>
+* [AgMIP using ICASA standards](https://github.com/terraref/reference-data/issues/6)
 
 
 ### Biofuel Ecophysiological Traits and Yields Database (BETYdb) 
@@ -401,11 +402,11 @@ The scope of the TERRA Ref database is limited to high througput phenotyping dat
 Users can set up their own instances of BETYdb and import any public data in the distributed BETYdb network.
 
 *See also: BETYdb documentation*
-<small>
+
 * [BETYdb Data Access](https://pecan.gitbooks.io/betydb-data-access/content/) includes accessing data with web interface, API, and R traits package
 * [BETYdb constraints](https://www.authorea.com/users/5574/articles/6719/_show_article), see section "uniqueness constraints"  
 * [BETYdb Data Entry](https://pecan.gitbooks.io/betydbdoc-dataentry/content/)
-</small>
+
 
 ### Gramene
 
@@ -416,9 +417,9 @@ Users can set up their own instances of BETYdb and import any public data in the
 System for managing the breeding process including lists of germplasms, defining crosses, managing nurseries, trials, as well as ontologies and statistical analysis.
 
 *See also:*
-<small>
+
 * [BMS Site](https://www.integratedbreeding.net/)
-</small>
+
 
 TERRA Ref has an instance of [BMS hosted by CyVerse](http://cardinal.cyverse.org:48080/ibpworkbench/main) (requires login).
 
@@ -427,9 +428,9 @@ TERRA Ref has an instance of [BMS hosted by CyVerse](http://cardinal.cyverse.org
 ICIS is "a database system that provides integrated management of global information on crop improvement and management both for individual crops and for farming systems." ICIS is developed by Consultative Group for International Agricultural Research (CGIAR).
 
 *See also*
-<small>
+
 * Fox and Skovmand (1996). "The International Crop Information System (ICIS) - connects genebank to breeder to farmer’s field." Plant adaptation and crop improvement, CAB International. 
-</small>
+
 
 ### MODAPS NASA MODIS Satellite data 
 
@@ -437,18 +438,18 @@ The [MODAPS NASA MODIS Satellite](https://ladsweb.nascom.nasa.gov/data/api.html)
 These routines enable both SOAP and REST based web service calls against the data archives maintained by MODAPS. These routines mirror existing LAADS Web services.
 
 *See also:*
-<small>
+
 * [NDISC Modis Data Summaries](https://nsidc.org/data/modis/data_summaries)
-</small>
+
 
 ### Phenomics Ontology Driven Database (PODD)
 http://www.plantphenomics.org.au/projects/podd/
 Online repository for storage and retrieval of raw and analyzed data from Australian Plant Phenomics Facility (APPF) phenotyping platforms. PODD is based on Fedora Commons repository software with data and metadata modeled using OWL/RDFS.
 
 *See also:*
-<small>
+
 * [PODD Project Site](http://www.plantphenomics.org.au/projects/podd/)
-</small>
+
 
 ### Plant Breeders API
 
@@ -466,46 +467,46 @@ Other notes:
 * Read news about the [BMS Breeding Management System Standalone Server](https://www.integratedbreeding.net/206/news-events/news?id=150) and [genomes2fields migrating to BMS](https://www.integratedbreeding.net/206/news-events/news?id=142)
 
 *See also*
-<small>
+
 * [Plant Breeding API](http://docs.brapi.apiary.io/)
-</small>
+
 
 ### Plant Genomics and Phenomics Research Data Repository (PGP)
 
 German repository for plant research data including image collections from plant phenotyping and microscopy, unfinished genomes, genotyping data, visualizations of morphological plant models, data from mass spectrometry as well as software and documents.
 
 See also:
-<small>
+
 * Arend et al (2016). [PGP repository: a plant phenomics and genomics data publication infrastructure](http://database.oxfordjournals.org/content/2016/baw033.full). Database.
 * [PGP Repository](http://edal.ipk-gatersleben.de/science/papers.html)
-</small>
+
 
 ### USDA Plants
 
 “The PLANTS Database provides standardized information about the vascular plants, mosses, liverworts, hornworts, and lichens of the U.S. and its territories. It includes names, plant symbols, checklists, distributional data, species abstracts, characteristics, images, crop information, automated tools, onward Web links, and references.”
 
 *See also*
-<small>
+
 * [USDA Plants Website](http://plants.usda.gov)
-</small>
+
 
 ### USDA Quick Stats
 
 Web based application supports querying the agricultural census and survey statistics. Also available via API.
 
 *See also*
-<small>
+
 * [USDA Quick Stats Website](https://quickstats.nass.usda.gov/)
-</small>
+
 
 ### transPLANT
 
 Infrastructure to support computational analysis of genomic data from crop and model plants.
 This includes the large-scale analysis of genotype-phenotype associations, a common set of reference plant genomic data, archiving genomic variation, and a search engine integrating reference bioinformatics databases and physical genetic materials.
 *See also*
-<small>
+
 * [transPlant Website](http://www.transplantdb.eu/project)
-</small>
+
 
 ----
 
