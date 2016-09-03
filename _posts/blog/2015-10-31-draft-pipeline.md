@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Mockup of a PlantCV + Clowder Pipeline"
-modified:
+modified: "A phenomics 'Hello World'"  
 categories: blog
 excerpt:
-tags: []
+tags: [clowder, plantcv]
 image:
   feature:
 date: 2015-10-31T13:12:38-05:00
