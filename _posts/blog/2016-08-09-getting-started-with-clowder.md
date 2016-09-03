@@ -3,7 +3,7 @@ layout: post
 title: "Tutorial for developers: Adding algorithms to the phenomics pipeline"
 excerpt: "Max introduces the use of Clowder to automate algorithms"  
 categories: blog
-tags: [clowder, pipeline, data, algorithms]
+tags: [clowder, pipeline, reference data, algorithms]
 image: 
   feature: logos/clowder_long.png
   thumb: logos/clowder_smallcat.png

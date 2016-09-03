@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "August 2016 Algorithms Standards Committee Meeting Notes"
+title: "Algorithms Standards Committee Meeting"
 modified: 
 categories: blog
 excerpt: "Use of Clowder to Automate and Develop; Reproducibilty"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "August 2016 Genomic Standards Committee Meeting Notes"
+title: "Genomic Standards Committee Meeting Notes"
 modified:
 categories: blog
 excerpt: "Overview of data, analyses, and a Illumina contributes 1000 sequences!" 

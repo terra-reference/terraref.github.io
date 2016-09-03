@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Feb 2016 Trait Data Meeting Notes"
+title: "Trait Data Standards Commmittee Meeting Notes"
 categories: blog
 modified: 2016-08-09
 excerpt: "ICASA and genomes2fields"
-tags: [traits, reference data]
+tags: [traits, reference data, standards]
 image:
   feature:
 date: 2016-02-18T19:48:45-06:00

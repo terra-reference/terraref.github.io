@@ -3,7 +3,7 @@ layout: post
 title: "Project Kickoff at NCSA"
 modified:
 categories: blog
-excerpt:
+excerpt: "Introducing TERRA Ref and discussing computing needs with hosts at NCSA"
 tags: []
 image:
   feature: bw_panorama.png

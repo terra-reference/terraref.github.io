@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sept 2014 Standards Committee Meeting Notes"
+title: "First Standards Committee Meetings"
 modified: "Introduction and Welcome"
 categories: blog
 excerpt: 

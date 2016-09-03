@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "March 31,  Sensor Standards Committee Meeting Notes"
+title: "Sensor Standards Committee Meeting Notes"
 modified:
 categories: blog
 excerpt: "Purdue Team Visits UIUC; Discussing Hyperspectral Calibration"

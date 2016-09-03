@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oct 2015 Committee Meeting Notes"
+title: "Second Standards Committee Meeting"
 categories: blog
 tags: [standards, reference-data]
 image: 

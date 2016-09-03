@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "August 2016 Traits Standards Committee Meeting Notes"
+title: "Traits Standards Committee Meeting Notes"
 modified:
 categories: blog
 excerpt: "Accessing data, Simulated data, Shared Protocols"

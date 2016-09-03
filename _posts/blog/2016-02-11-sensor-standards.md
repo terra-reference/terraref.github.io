@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "March 11, 2016 Sensor Standards Committee Meeting Notes"
+title: "Sensor Standards Committee Meeting Notes"
 modified:
 categories: blog
 excerpt: "What will first data release contain?"
