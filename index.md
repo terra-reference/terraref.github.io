@@ -15,7 +15,7 @@ _The Transportation Energy Resources from Renewable Agriculture Phenotyping Refe
 **Field phenotyping field scanner system**
 
 The Lemnatec Field Scanalyzer at the University of Arizona Maricopa Agricultural Center and USDA Arid Land Research Station in Maricopa, Arizona is the largest field crop analytics robot in the world. 
-This high-throughput phenotyping field-scanning robot has a 30-ton steel gantry that autonomously moves along two 200-meter steel rails while continuously imaging the crops growing below it with a diverse array of [cameras and sensors](({{ site.url }}articles/lemnatec-scanalyzer-field-sensors)).
+This high-throughput phenotyping field-scanning robot has a 30-ton steel gantry that autonomously moves along two 200-meter steel rails while continuously imaging the crops growing below it with a diverse array of [cameras and sensors](http://terraref.org/articles/lemnatec-scanalyzer-field-sensors/).
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Pp6IdkPtFC8?rel=0" frameborder="0" allowfullscreen></iframe>
 
