@@ -39,7 +39,8 @@ date: 2016-09-02T20:43:38-05:00
 
 ## Summary:
 
-1. Reviewed Lemnatec protocol for calibrating Hyperspectral sensors
+1. Reviewed Lemnatec [draft protocol for hyperspectral sensor calibration](https://docs.google.com/document/d/1w_zHHlrPVKsy1mnW9wrVzAU2edVqZH8i1IZa5BZxVpo/edit#). This will be a focus of discussion so please review this document in advance of the meeting. This document and supplementary information (sensor specs, factory calibration, calibration object) are in a [shared folder](https://drive.google.com/open?id=0By_PDCcY5g2JRWNnZ3E4akRHQTA) on Google Drive. 
+2. Evaluate Sample (uncalibrated) hyperspectral data product [https://terraref.ncsa.illinois.edu/clowder/spaces/57aa3f60e4b0f7d0a1924a44](https://terraref.ncsa.illinois.edu/clowder/spaces/57aa3f60e4b0f7d0a1924a44)
 2. Discussed how to handle shade
 2. C. Zender will add corrections for sun angle
   3. Near noon, plants will be shaded by sensor box.
@@ -59,13 +60,6 @@ date: 2016-09-02T20:43:38-05:00
   * will use illumination at end of current season
   * will design / implement illumination expt to study impact of illumination on a few plants at the end of next season
 * Justin Manzo / ARPA-E will work to coordinate cross site calibration 
-
-## ˚
-
-1. Review Lemnatec [draft protocol for hyperspectral sensor calibration](https://docs.google.com/document/d/1w_zHHlrPVKsy1mnW9wrVzAU2edVqZH8i1IZa5BZxVpo/edit#). This will be a focus of discussion so please review this document in advance of the meeting. This document and supplementary information (sensor specs, factory calibration, calibration object) are in a [shared folder](https://drive.google.com/open?id=0By_PDCcY5g2JRWNnZ3E4akRHQTA) on Google Drive. 
-2. Evaluate Sample (uncalibrated) hyperspectral data product [https://terraref.ncsa.illinois.edu/clowder/spaces/57aa3f60e4b0f7d0a1924a44](https://terraref.ncsa.illinois.edu/clowder/spaces/57aa3f60e4b0f7d0a1924a44)
-3. Peruse References (below)
-
 
 ## Proposed Hyperspectral Calibration Protocol
 
