@@ -21,7 +21,7 @@ David LeBauer, Max Burnette, Cheryl Porter, Shawn Serbinm David Lee, Noah Fahlgr
 
 ### Data Pipeline overview
 
- ![](https://github.com/terraref/terraref.github.io/blob/master/images/Pipeline%20July%202016.png)
+ ![](https://github.com/terraref/terraref.github.io/blob/master/images/pipeline_july_2016.png)
 
 #### **Accessing data**
 
