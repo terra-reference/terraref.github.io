@@ -37,6 +37,7 @@ TERRA-REF will develop an integrated phenotyping system for energy Sorghum that 
 |                                                     | Nadia Shakoor         | Associate Director     |
 |                                                     | Noah Fahlgren         | Phenotyping            |
 |                                                     | Erica Fishel          | Technology Transfer    |
+|                                                     | Stuart Marshall       | Scanalyzer Operator    |
 | Clemson University                                  | Stephen Kresovich     | Breeding               |
 | HudsonAlpha Institute for Biotechnology             | Jeremy Schmutz        | Sequencing             |
 | Kansas State University                             | Jesse Poland          | Phenotyping            |
