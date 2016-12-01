@@ -42,6 +42,7 @@ TERRA-REF will develop an integrated phenotyping system for energy Sorghum that 
 | HudsonAlpha Institute for Biotechnology             | Jeremy Schmutz        | Sequencing             |
 | Kansas State University                             | Jesse Poland          | Phenotyping            |
 |                                                     | Geoff Morris          | Gene-Trait Association |
+| Saint Louis University                              | Abuduwasiti Wulamu    | Remote Sensing         | 
 | Texas A&M University                                | William Rooney        | Breeding               |
 | University of Arizona, Maricopa Agricultural Center | Pedro Andrade-Sanchez | Agronomy               |
 |                                                     | Michael Ottman        | Agronomy               |
