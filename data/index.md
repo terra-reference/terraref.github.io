@@ -17,7 +17,7 @@ Basic instructions for accessing the data are provided below.  For more detailed
    <img src="/images/new/traits sq.png" style="width: 150px"><br/>
    Trait Data
 </span></a>
-<a href="sensor" style="border: 0">
+<a href="sensors" style="border: 0">
 <span style="margin:10px; display:inline-block; border:1px solid grey; text-align:center; font-size:20px; font-weight: bold; width: 30%; border-radius: 25px">
    <img src="/images/new/sensor sq.png" style="width: 150px"><br/>
    Sensor Data
