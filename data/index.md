@@ -5,7 +5,6 @@ title: Getting Data
 
 _Please note that TERRA-REF is still under development, data availability is limited at this time._
 
-# Overview
 TERRA-REF provides access to direct measurements and sensor observations, derived plant phenotypes, along with genetic and genomic data. Data is accessible via the TERRA-REF [sensor database](https://terraref.ncsa.illinois.edu/clowder/), [phenotype database](https://terraref.ncsa.illinois.edu/bety/), and genomics database. 
 
 Basic instructions for accessing the data are provided below.  For more detailed information, see the <a href="https://terraref.gitbooks.io/terraref-documentation/content/user/how-to-access-data.html">documentation</a>.
