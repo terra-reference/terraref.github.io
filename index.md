@@ -4,7 +4,7 @@ title: "Advanced Field Crop Analytics"
 excerpt: "A national high-throughput phenotyping platform to revolutionize plant breeding."
 search_omit: true
 image:
-  feature: mac_sorghum_20150911.jpg
+  feature: new/header.jpg
   credit: Pedro Andrande-Sanchez
 ---
 

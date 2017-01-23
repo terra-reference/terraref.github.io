@@ -3,10 +3,6 @@ layout: page
 title: Project Overview
 excerpt: ""
 search_omit: true
-image:
-  feature: mac_sorghum_20150911.jpg
-  credit: Pedro Andrade, Maricopa Agricultural Center
-  creditlink: http://cals-mac.arizona.edu/
 ---
 
 * Table of Contents
@@ -116,13 +112,3 @@ For outreach and communication:
 * **Logos** for the [TERRA REF project](https://drive.google.com/open?id=0By_PDCcY5g2JclZNN2NtaklXcE0) and [partnering institutions](https://drive.google.com/open?id=0By_PDCcY5g2JdTRySHR2NlJEZFE).
 * [**Images**](https://drive.google.com/open?id=0By_PDCcY5g2JeE84YXh3eXgtaUU) of crops, sensors, phenotyping platforms, and other activities.
 
-
-## 
-
-# Latest Posts
-
-<ul class="post-list">
-{% for post in site.posts limit:10 %} 
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
-{% endfor %}
-</ul>
