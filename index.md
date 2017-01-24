@@ -13,22 +13,22 @@ _The Transportation Energy Resources from Renewable Agriculture Phenotyping Refe
 
 TERRA-REF’s integrated phenotyping system components:
 <p style="width=100%">
-<span style="display:inline-block;font-size:20px; font-weight: bold; margin: 10px">
+<span style="display:inline-block;font-size:24px; font-weight: bold; margin: 10px">
 <a href="#field-phenotyping-field-scanner-system"><img src="/images/new/gantry2.png" style="width: 50px; margin-right:10px">Field phenotyping field scanner system</a>
 </span>
-<span style="display:inline-block;font-size:20px; font-weight: bold; margin: 10px">
+<span style="display:inline-block;font-size:24px; font-weight: bold; margin: 10px">
 <a href="#automated-controlled-environment-phenotyping"><img src="/images/new/greenhouse2.png" style="width: 50px; margin-right: 10px">Automated controlled-environment phenotyping</a>
 </span>
-<span style="display:inline-block;font-size:20px; font-weight: bold; margin: 10px">
+<span style="display:inline-block;font-size:24px; font-weight: bold; margin: 10px">
 <a href="#phenotyping-sensors-on-unmanned-aerial-vehicles"><img src="/images/new/uav2.png" style="width: 50px; margin-right: 10px">Phenotyping sensors on Unmanned Aerial Vehicles</a>
 </span>
-<span style="display:inline-block;font-size:20px; font-weight: bold; margin: 10px">
+<span style="display:inline-block;font-size:24px; font-weight: bold; margin: 10px">
 <a href="#phenotyping-sensors-on-piloted-ground-vehicles"><img src="/images/new/tractor2.png" style="width: 50px; margin-right: 10px">Phenotyping sensors on piloted ground vehicles</a>
 </span>
-<span style="display:inline-block;font-size:20px; font-weight: bold; margin: 10px">
+<span style="display:inline-block;font-size:24px; font-weight: bold; margin: 10px">
 <a href="#genomic-and-genetic-data-and-computational-platform"><img src="/images/new/genomics2.png" style="width: 50px; margin-right: 10px">Genomic and genetic data and computational platform</a>
 </span>
-<span style="display:inline-block;font-size:20px; font-weight: bold; margin: 10px">
+<span style="display:inline-block;font-size:24px; font-weight: bold; margin: 10px">
 <a href="#high-performance-data-storage-and-computing-system"><img src="/images/new/compute2.png" style="width: 50px; margin-right: 10px">High performance data storage and computing system</a>
 </span>
 </p>
@@ -44,6 +44,8 @@ This high-throughput phenotyping field-scanning robot has a 30-ton steel gantry 
 ## Automated controlled-environment phenotyping
 
 The Bellwether Foundation Phenotyping Facility is a climate controlled 70 m<sup>2</sup> growth house with a conveyor belt system for moving plants to and from fluorescence, color, and nearinfrared imaging cabinets. This automated, high-throughput platform allows repeated non-destructive time-series image capture and multi-parametric analysis of 1,140 plants in a single experiment.
+
+<img src="images/Phenotyping Danforth Center.jpg.CROP.promovar-mediumlarge.jpg" width="50%">
 
 ## Phenotyping sensors on Unmanned Aerial Vehicles
 
