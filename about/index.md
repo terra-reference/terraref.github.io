@@ -8,7 +8,7 @@ search_omit: true
 * Table of Contents
 {:toc}
 
-# Background and Objectives
+## Background and Objectives
 
 Phenotypes are measurable features that indicate how they will grow and respond to stresses such as heat, drought, and pathogens.
   Breeding is currently limited by the speed at which phenotypes can be measured, and the information that can be extracted from these measurements.
