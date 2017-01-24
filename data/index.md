@@ -8,17 +8,17 @@ _Please note that TERRA-REF is still under development. Data availability is lim
 TERRA-REF provides access to direct measurements and sensor observations, derived plant phenotypes, along with genetic and genomic data. Data is accessible via the TERRA-REF sensor data, trait/phenotype, and genomics data repositories:
 
 <p style="width=100%">
-<a href="#sensor-data-portal" style="border: 0">
+<a href="#sensor-data-repository" style="border: 0">
 <span style="margin:10px; display:inline-block; border:1px solid grey; text-align:center; font-size:20px; font-weight: bold; width: 30%; border-radius: 25px">
    <img src="/images/new/sensor sq.png" style="width: 100px"><br/>
    Sensor Data
 </span></a>
-<a href="#trait-data-portal" style="border: 0">
+<a href="#trait-data-repository" style="border: 0">
 <span style="margin:10px; display:inline-block; border:1px solid grey; text-align:center; font-size:20px; font-weight: bold; width: 30%; border-radius: 25px">
    <img src="/images/new/traits sq.png" style="width: 100px"><br/>
    Trait Data
 </span></a>
-<a href="#genomics-data-portal" style="border: 0">
+<a href="#genomics-data-repository" style="border: 0">
 <span style="margin:10px; display:inline-block; border:1px solid grey; text-align:center; font-size:20px; font-weight: bold; width: 30%; border-radius: 25px">
    <img src="/images/new/genomics sq.png" style="width: 100px"><br/>
    Genomics Data
