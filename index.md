@@ -45,7 +45,7 @@ This high-throughput phenotyping field-scanning robot has a 30-ton steel gantry 
 
 The Bellwether Foundation Phenotyping Facility is a climate controlled 70 m<sup>2</sup> growth house with a conveyor belt system for moving plants to and from fluorescence, color, and nearinfrared imaging cabinets. This automated, high-throughput platform allows repeated non-destructive time-series image capture and multi-parametric analysis of 1,140 plants in a single experiment.
 
-<img src="images/danforth_phenotyping.jpg" width="50%">
+<img src="/images/danforth_phenotyping.jpg" width="50%">
 
 ## Phenotyping sensors on Unmanned Aerial Vehicles
 
