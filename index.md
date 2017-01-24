@@ -10,8 +10,9 @@ image:
 
 _The Transportation Energy Resources from Renewable Agriculture Phenotyping Reference Platform (TERRA-REF) will accelerate breeding and the commercial release of high-yield bioenergy sorghum hybrids._
 
+<img src="/images/new/diagram2.png">
 
-TERRA-REF’s integrated phenotyping system components:
+TERRA-REF’s integrated phenotyping system includes the following components:
 <p style="width=100%">
 <span style="display:inline-block;font-size:24px; font-weight: bold; margin: 10px">
 <a href="#field-phenotyping-field-scanner-system"><img src="/images/new/gantry2.png" style="width: 50px; margin-right:10px">Field phenotyping field scanner system</a>
