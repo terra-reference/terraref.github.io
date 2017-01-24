@@ -1,13 +1,12 @@
 ---
 layout: page
+title: "Advanced Field Crop Analytics"
 excerpt: "A national high-throughput phenotyping platform to revolutionize plant breeding."
 search_omit: true
 image:
 
   feature: new/header.jpg
 ---
-
-# TERRA-REF: Field crop analytics that will revolutionize plant breeding
 
 _The Transportation Energy Resources from Renewable Agriculture Phenotyping Reference Platform (TERRA-REF) will accelerate breeding and the commercial release of high-yield bioenergy sorghum hybrids._
 
