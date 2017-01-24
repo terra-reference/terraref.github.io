@@ -1,6 +1,6 @@
 ---
 layout: page
-title: News and Publications
+title: News
 ---
 
 <ul class="post-list">
