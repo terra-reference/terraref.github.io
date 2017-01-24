@@ -13,7 +13,8 @@
   url: /publications/
 
 - title: Documentation
-  url: /documentation/
+  #  url: /documentation/
+  url: https://terraref.gitbooks.io/terraref-documentation/content/
 
 # - title: Theme Setup
 #  url: /theme-setup/
