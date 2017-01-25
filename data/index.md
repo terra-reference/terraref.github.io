@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Getting Data
+image:
+  feature: /new/header.png
 ---
 
 _Please note that TERRA-REF is still under development. Data availability is limited at this time._

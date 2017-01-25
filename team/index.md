@@ -3,6 +3,8 @@ layout: page
 title: Team
 excerpt: ""
 search_omit: true
+image:
+  feature: /new/header.png
 ---
 
 ## Reference Phenotyping System Team

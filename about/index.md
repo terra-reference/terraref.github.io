@@ -3,6 +3,8 @@ layout: page
 title: Project Overview
 excerpt: ""
 search_omit: true
+image:
+  feature: /new/header.png
 ---
 
 * Table of Contents

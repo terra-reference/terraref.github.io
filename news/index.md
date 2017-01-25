@@ -1,6 +1,8 @@
 ---
 layout: page
 title: News
+image:
+  feature: /new/header.png
 ---
 
 <ul class="post-list">
