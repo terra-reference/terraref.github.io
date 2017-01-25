@@ -8,7 +8,9 @@ image:
 
 _The Transportation Energy Resources from Renewable Agriculture Phenotyping Reference Platform (TERRA-REF) will accelerate breeding and the commercial release of high-yield bioenergy sorghum hybrids._
 
+<div class="diagram" style="text-align: center">
 <img src="/images/new/diagram2.png">
+</div>
 
 TERRA-REF’s integrated phenotyping system includes the following components:
 <p style="width=100%">
@@ -44,7 +46,9 @@ This high-throughput phenotyping field-scanning robot has a 30-ton steel gantry 
 
 The Bellwether Foundation Phenotyping Facility is a climate controlled 70 m<sup>2</sup> growth house with a conveyor belt system for moving plants to and from fluorescence, color, and nearinfrared imaging cabinets. This automated, high-throughput platform allows repeated non-destructive time-series image capture and multi-parametric analysis of 1,140 plants in a single experiment.
 
-<img src="/images/danforth_phenotyping.jpg" width="50%">
+<div class="diagram" style="text-align: center">
+<img src="/images/danforth_phenotyping.jpg" width="60%">
+</div>
 
 ### Phenotyping sensors on Unmanned Aerial Vehicles
 
