@@ -25,7 +25,8 @@ TERRA-REF provides access to direct measurements and sensor observations, derive
 </span></a>
 </p>
 
-Basic instructions for accessing the data are provided below.  For more detailed information, see the <a href="https://terraref.gitbooks.io/terraref-documentation/content/user/how-to-access-data.html">documentation</a>.  Please see our [Data Use Policy](https://terraref.gitbooks.io/terraref-documentation/content/user/data_release_policy.html){:target="_blank"}.
+Basic instructions for accessing the data are provided below.  
+
 
 ## Sensor Data Repository 
 <span style="border: 1px solid gray; padding: 5px">
@@ -36,7 +37,6 @@ Sensor data is available through the TERRA-REF [sensor data portal](https://terr
 
 Access to the sensor data portal requires [registration](https://terraref.ncsa.illinois.edu/clowder/signup){:target="_blank"}.  After logging in, you will be able to explore available data [organized by platform](https://terraref.ncsa.illinois.edu/clowder/spaces){:target="_blank"}.
 
-For more information, please see the <a href="https://terraref.gitbooks.io/terraref-documentation/content/user/using-clowder.html">documentation</a>.
 
 
 ## Trait Data Repository
@@ -49,12 +49,14 @@ Agronomic and phenotype data, including plots and other locations of interest, c
 
 Acccess to the phenotype database requires [registration](https://terraref.ncsa.illinois.edu/bety/signup){:target="_blank"}.  After logging in, you will be able search and download trait data.
 
-For more information, please see the <a href="https://terraref.gitbooks.io/terraref-documentation/content/user/using-betydb.html">documentation</a>.
-
 
 ## Genomics Data Repository
 
 Coming in 2017.
 
 
+## See Also
 
+* [How to Access Data](https://terraref.gitbooks.io/terraref-documentation/content/user/how-to-access-data.html){:target="_blank"}
+* [Data Products](https://terraref.gitbooks.io/terraref-documentation/content/user/data-products.html){:target="_blank"}
+* [Data Use Policy](https://terraref.gitbooks.io/terraref-documentation/content/user/data_release_policy.html){:target="_blank"}
