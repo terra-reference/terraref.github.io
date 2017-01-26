@@ -11,15 +11,15 @@ _The Transportation Energy Resources from Renewable Agriculture Phenotyping Refe
 <div class="diagram"><img src="/images/new/diagram2.png"></div>
 
 TERRA-REF’s integrated phenotyping system includes the following components:
-<p style="width=100%">
+<p style="width:90%; margin-left: 20px">
 <span class="customspan">
-<a href="#field-phenotyping-field-scanner-system"><img src="/images/new/gantry2.png" class="customimage">Phenotyping field scanner system</a>
+<a href="#field-phenotyping-field-scanner-system"><img src="/images/new/gantry2.png" class="customimage">Field phenotyping field scanner system</a>
 </span>
 <span class="customspan">
 <a href="#automated-controlled-environment-phenotyping"><img src="/images/new/greenhouse2.png" class="customimage">Automated controlled-environment phenotyping</a>
 </span>
 <span class="customspan">
-<a href="#phenotyping-sensors-on-unmanned-aerial-vehicles"><img src="/images/new/uav2.png" class="customimage">Phenotyping sensors on Unmanned Aerial Vehicles</a>
+<a href="#phenotyping-sensors-on-unmanned-aerial-vehicles"><img src="/images/new/uav2.png" class="customimage">Phenotyping sensors on unmanned aerial vehicles</a>
 </span>
 <span class="customspan">
 <a href="#phenotyping-sensors-on-piloted-ground-vehicles"><img src="/images/new/tractor2.png" class="customimage">Phenotyping sensors on piloted ground vehicles</a>
