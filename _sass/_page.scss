@@ -301,7 +301,13 @@ span + .entry-title {
 }
 
 .customspan {
-	@include font-size(18);
+	@include font-size(12);
+	@include media($medium) {
+		@include font-size(14);
+	}
+	@include media($large) {
+		@include font-size(18);
+	}
 	font-weight: bold;
 	margin: 10px;
     display: inline-block;
@@ -312,6 +318,6 @@ span + .entry-title {
 }
 
 .customimage {
-	width: 60px;
+	width: 10%;
    	margin-right: 10px;
 }

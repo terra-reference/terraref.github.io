@@ -25,10 +25,10 @@ TERRA-REF’s integrated phenotyping system includes the following components:
 <a href="#phenotyping-sensors-on-piloted-ground-vehicles"><img src="/images/new/tractor2.png" class="customimage">Phenotyping sensors on piloted ground vehicles</a>
 </span>
 <span class="customspan">
-<a href="#genomic-and-genetic-data-and-computational-platform"><img src="/images/new/genomics2.png" style="width: 60px; margin-right: 10px">Genomic and genetic data and computational platform</a>
+<a href="#genomic-and-genetic-data-and-computational-platform"><img src="/images/new/genomics2.png" class="customimage">Genomic and genetic data and computational platform</a>
 </span>
 <span class="customspan">
-<a href="#high-performance-data-storage-and-computing-system"><img src="/images/new/compute2.png" style="width: 60px; margin-right: 10px">High performance data storage and computing system</a>
+<a href="#high-performance-data-storage-and-computing-system"><img src="/images/new/compute2.png" class="customimage">High performance data storage and computing system</a>
 </span>
 </p>
 
