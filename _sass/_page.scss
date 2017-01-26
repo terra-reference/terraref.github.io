@@ -299,3 +299,19 @@ span + .entry-title {
 		vertical-align: middle;
 	}
 }
+
+.customspan {
+	@include font-size(18);
+	font-weight: bold;
+	margin: 10px;
+    display: inline-block;
+}
+
+.diagram {
+	text-align: center;
+}
+
+.customimage {
+	width: 60px;
+   	margin-right: 10px;
+}

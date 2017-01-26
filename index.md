@@ -8,28 +8,26 @@ image:
 
 _The Transportation Energy Resources from Renewable Agriculture Phenotyping Reference Platform (TERRA-REF) will accelerate breeding and the commercial release of high-yield bioenergy sorghum hybrids._
 
-<div class="diagram" style="text-align: center">
-<img src="/images/new/diagram2.png">
-</div>
+<div class="diagram"><img src="/images/new/diagram2.png"></div>
 
 TERRA-REF’s integrated phenotyping system includes the following components:
 <p style="width=100%">
-<span style="display:inline-block;font-size:20px; font-weight: bold; margin: 10px; margin-left: 10px">
-<a href="#field-phenotyping-field-scanner-system"><img src="/images/new/gantry2.png" style="width: 60px; margin-right:10px">Phenotyping field scanner system</a>
+<span class="customspan">
+<a href="#field-phenotyping-field-scanner-system"><img src="/images/new/gantry2.png" class="customimage">Phenotyping field scanner system</a>
 </span>
-<span style="display:inline-block;font-size:20px; font-weight: bold; margin: 10px">
-<a href="#automated-controlled-environment-phenotyping"><img src="/images/new/greenhouse2.png" style="width: 60px; margin-right: 10px">Automated controlled-environment phenotyping</a>
+<span class="customspan">
+<a href="#automated-controlled-environment-phenotyping"><img src="/images/new/greenhouse2.png" class="customimage">Automated controlled-environment phenotyping</a>
 </span>
-<span style="display:inline-block;font-size:20px; font-weight: bold; margin: 10px">
-<a href="#phenotyping-sensors-on-unmanned-aerial-vehicles"><img src="/images/new/uav2.png" style="width: 60px; margin-right: 10px">Phenotyping sensors on Unmanned Aerial Vehicles</a>
+<span class="customspan">
+<a href="#phenotyping-sensors-on-unmanned-aerial-vehicles"><img src="/images/new/uav2.png" class="customimage">Phenotyping sensors on Unmanned Aerial Vehicles</a>
 </span>
-<span style="display:inline-block;font-size:20px; font-weight: bold; margin: 10px">
-<a href="#phenotyping-sensors-on-piloted-ground-vehicles"><img src="/images/new/tractor2.png" style="width: 60px; margin-right: 10px">Phenotyping sensors on piloted ground vehicles</a>
+<span class="customspan">
+<a href="#phenotyping-sensors-on-piloted-ground-vehicles"><img src="/images/new/tractor2.png" class="customimage">Phenotyping sensors on piloted ground vehicles</a>
 </span>
-<span style="display:inline-block;font-size:20px; font-weight: bold; margin: 10px">
+<span class="customspan">
 <a href="#genomic-and-genetic-data-and-computational-platform"><img src="/images/new/genomics2.png" style="width: 60px; margin-right: 10px">Genomic and genetic data and computational platform</a>
 </span>
-<span style="display:inline-block;font-size:20px; font-weight: bold; margin: 10px">
+<span class="customspan">
 <a href="#high-performance-data-storage-and-computing-system"><img src="/images/new/compute2.png" style="width: 60px; margin-right: 10px">High performance data storage and computing system</a>
 </span>
 </p>
