@@ -341,7 +341,13 @@ span + .entry-title {
 
 
 .press {
+	clear: both;
 	margin-top:20px;	
+	height: 100px;
+}
+.pr-image {
+	float:left;
+	margin-right: 15px;
 }
 .pr-date {
 	display:inline;
