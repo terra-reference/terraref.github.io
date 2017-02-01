@@ -160,7 +160,6 @@ Saint Louis University
 <a href="https://sites.google.com/site/dlebauer/" target="_blank">David LeBauer</a><br/>
 Research Scientist<br/>
 University of Illinois / National Center for Supercomputing Applications<br/>
-</a>
 </div>
 
 <div class="profile-bio">
