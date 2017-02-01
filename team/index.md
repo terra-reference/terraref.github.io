@@ -9,7 +9,6 @@ image:
 
 ## Reference Phenotyping System Team
 <div class="profiles">
-
 <div class="profile-image"><img src="/images/team/Mockler.jpg"></div>
 <div class="profile-bio">
 <a href="http://mocklerlab.org/" target="_blank">Todd Mockler</a><br/>
@@ -41,6 +40,14 @@ Donald Danforth Plant Science Center
 <a href="https://www.danforthcenter.org/scientists-research/technology-transfer" target="_blank">Erica Fishel</a><br/>
 Director of Technology Transfer<br/>
 Donald Danforth Plant Science Center
+</div>
+
+<div class="profile-image"><img src="/images/team/Garnett.jpg"></div>
+<div class="profile-bio">
+<a href="http://www.cse.wustl.edu/~garnett/" target="_blank">Roman Garnett</a><br/>
+TERRA-REF research area: machine learning<br/>
+Assistant Professor, Department of Computer Science and Engineering<br/>
+Washington University in St. Louis
 </div>
 
 <div class="profile-image"><img src="/images/team/Kresovich.jpg"></div>
@@ -84,6 +91,14 @@ Extension Agronomist<br/>
 University of Arizona, Maricopa Agricultural Center
 </div>
 
+<div class="profile-image"><img src="/images/team/Pless.jpg"></div>
+<div class="profile-bio">
+<a href="http://www.cs.wustl.edu/~pless/" target="_blank">Robert Pless</a><br/>
+TERRA-REF research area: computer vision<br/>
+Professor, Department of Computer Science and Engineering<br/>
+Washington University in St. Louis
+</div>
+
 <div class="profile-image"><img src="/images/team/Poland.jpg"></div>
 <div class="profile-bio">
 <a href="http://wheatgenetics.org/people/3-jesse-poland" target="_blank">Jesse Poland</a><br/>
@@ -116,6 +131,14 @@ Research Manager<br/>
 Donald Danforth Plant Science Center
 </div>
 
+<div class="profile-image"><img src="/images/team/White.jpg"></div>
+<div class="profile-bio">
+<a href="" target="_blank">Jeff White</a><br/>
+TERRA-REF research area:<br/>
+Research Plant Physiologist<br/>
+USDA-ARS / US Arid-Land Agricultural Research Center<br/>
+</div>
+
 <div class="profile-image"><img src="/images/team/Wulamu.jpg"></div>
 <div class="profile-bio">
 <a href="http://www.slu.edu/sustainability/about-us/faculty/abuduwasiti-wulamu-phd" target="_blank">Abuduwasiti Wulamu</a><br/>
@@ -130,27 +153,119 @@ Saint Louis University
 
 ## Data Standard Products Committee
 
-| Name | Institution | Subcommittee|
-|:--|:--|:--|
-|**Coordinators** | | | 
-| David Lee | ARPA-E | 
-| David LeBauer | UIUC / NCSA | 
-|**TERRA Project Representatives** | | 
-| Paul Bartlett | Near Earth Autonomy | 
-| Jeff White | USDA ALARC |
-| Melba Crawford | Purdue |
-| Michael Gore | Cornell | 
-| Matt Colgan | Blue River | 
-| Christer Jansson | Pacific Northwest National Laboratory | 
-| Barnabas Poczos | Carnegie Mellon | 
-| Alex Thomasson | Texas A&M University |
-|**External Advisors** | | | 
-| Cheryl Porter| ICASA / AgMIP / USDA | 
-| Shawn Serbin | Brookhaven National Lab | 
-| Shelly Petroy | NEON |
-| Carolyn J. Lawrence-Dill | Iowa State | 
-| Eric Lyons | University of Arizona / iPlant | 
-| Ted Habermann | The HDF Group |
+###  Committee Coordinators
+
+<div class="profiles">
+<div class="profile-bio">
+<a href="https://sites.google.com/site/dlebauer/" target="_blank">David LeBauer</a><br/>
+Research Scientist<br/>
+University of Illinois / National Center for Supercomputing Applications<br/>
+</a>
+</div>
+
+<div class="profile-bio">
+David Lee<br/>
+Technical support contractor<br/>
+Advanced Research Projects Agency—Energy (ARPA-E)<br/>
+</div>
+</div>
+ 
+
+
+### TERRA Project Representatives
+ 
+<div class="profiles">
+
+<div class="profile-bio">
+<a href="http://www.nearearth.aero/" target="_blank">Paul Bartlett</a><br/>
+Principal Systems Engineer<br/>
+Near Earth Autonomy<br/>
+</div>
+    
+<div class="profile-bio">
+<a href="https://www.ars.usda.gov/pacific-west-area/maricopa-arizona/us-arid-land-agricultural-research-center/plant-physiology-and-genetics-research/people/jeffrey-white/" target="_blank">Jeff White</a><br/>
+Research Plant Physiologist<br/>
+USDA-ARS / US Arid-Land Agricultural Research Center<br/>
+</div>
+
+<div class="profile-bio">
+<a href="https://ag.purdue.edu/agry/directory/Pages/melbac.aspx" target="_blank">Melba Crawford</a><br/>
+Professor of Agronomy<br/>
+Purdue University<br/>
+</div>
+
+<div class="profile-bio">
+<a href="https://plbrgen.cals.cornell.edu/people/michael-gore" target="_blank">Michael Gore</a><br/>
+Committee Coordinators<br/>
+Associate Professor of Plant Breeding and Genetics<br/>
+Cornell<br/>
+</div>
+
+<div class="profile-bio">
+<a href="http://team.bluerivert.com/" target="_blank">Matt Colgan</a><br/>
+Senior Systems Engineer<br/>
+Blue River Technology<br/>
+</div>
+
+<div class="profile-bio">
+<a href="https://www.emsl.pnl.gov/emslweb/people/christer-jansson" target="_blank">Christer Jansson</a><br/>
+Director of Plant Sciences<br/>
+Pacific Northwest National Laboratory<br/>
+</div>
+
+<div class="profile-bio">
+<a href="http://www.cs.cmu.edu/~bapoczos/" target="_blank">Barnabas Poczos</a><br/>
+Assistant Professor of Machine Learning<br/>
+Carnegie Mellon<br/>
+</div>
+
+<div class="profile-bio">
+<a href="http://baen.tamu.edu/people/thomasson-alex/" target="_blank">Alex Thomasson</a><br/>
+Professor of Biological and Agricultural Engineering<br/>
+Texas A&M University<br/>
+</div>
+
+<div class="profile-bio">
+<a href="http://abe.ufl.edu/mcnair/cheryl.asp" target="_blank">Cheryl Porter</a><br/>
+Coordinator of Computer Research Applications<br/>
+University of Florida<br/>
+</div>
+
+<div class="profile-bio">
+<a href="https://www.bnl.gov/envsci/bio/serbin-shawn.php" target="_blank">Shawn Serbin</a><br/>
+Associate Ecologist<br/>
+Brookhaven National Lab<br/>
+</div>
+
+<div class="profile-bio">
+<a href="http://www.neonscience.org/about/staff/shelley-petroy" target="_blank">Shelley Petroy</a><br/>
+Director of Data Products<br/>
+NEON<br/>
+</div>
+
+<div class="profile-bio">
+<a href="http://www.gdcb.iastate.edu/faculty-and-research/faculty/carolyn-j-lawrence/" target="_blank">Carolyn Lawrence-Dill</a><br/>
+Associate Professor of Genetics, Development, and Cell Biology<br/>
+Iowa State<br/>
+</div>
+
+<div class="profile-bio">
+<a href="https://cals.arizona.edu/spls/content/eric" target="_blank">Eric Lyons</a><br/>
+Assistant Professor of Plant Sciences<br/>
+University of Arizona / iPlant Collaborative
+</div>
+
+<div class="profile-bio">
+<a href="https://www.hdfgroup.org/team/ted-habermann/" target="_blank">Ted Habermann</a><br/>
+Director of Business and Community Development
+The HDF Group
+</div>
+
+</div>
+
+
+
+
 
 ## Partners
 

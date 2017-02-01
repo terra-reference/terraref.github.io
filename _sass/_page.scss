@@ -336,4 +336,23 @@ span + .entry-title {
 .profile-bio {
 	float: left;
 	margin: 10px;
+	width: 60%;
+}
+
+
+.press {
+	margin-top:20px;	
+}
+.pr-date {
+	display:inline;
+}
+
+.pr-title {
+	display:block;
+	font-weight: bold;
+}
+
+.pr-pub {
+	display:block;
+	font-style: italic;
 }

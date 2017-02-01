@@ -15,6 +15,9 @@
 - title: News
   url: /news/
 
+- title: Press
+  url: /press/
+
 - title: Documentation
   #  url: /documentation/
   url: https://terraref.gitbooks.io/terraref-documentation/content/
