@@ -93,10 +93,10 @@ University of Arizona, Maricopa Agricultural Center
 
 <div class="profile-image"><img src="/images/team/Pless.jpg"></div>
 <div class="profile-bio">
-<a href="http://www.cs.wustl.edu/~pless/" target="_blank">Robert Pless</a><br/>
+<a href="https://www.cs.seas.gwu.edu/robert-pless" target="_blank">Robert Pless</a><br/>
 TERRA-REF research area: computer vision<br/>
-Professor, Department of Computer Science and Engineering<br/>
-Washington University in St. Louis
+Professor, Department of Computer Science<br/>
+The George Washington University
 </div>
 
 <div class="profile-image"><img src="/images/team/Poland.jpg"></div>
@@ -133,7 +133,7 @@ Donald Danforth Plant Science Center
 
 <div class="profile-image"><img src="/images/team/White.jpg"></div>
 <div class="profile-bio">
-<a href="" target="_blank">Jeff White</a><br/>
+<a href="https://www.ars.usda.gov/people-locations/person?person-id=33167" target="_blank">Jeff White</a><br/>
 TERRA-REF research area:<br/>
 Research Plant Physiologist<br/>
 USDA-ARS / US Arid-Land Agricultural Research Center<br/>
@@ -146,14 +146,12 @@ TERRA-REF research area: remote sensing<br/>
 Assistant Professor at the Center for Sustainability<br/>
 Saint Louis University
 </div>
-
 </div>
-
 
 
 ## Data Standard Products Committee
 
-###  Committee Coordinators
+### Committee Coordinators
 
 <div class="profiles">
 <div class="profile-bio">
@@ -168,23 +166,20 @@ Technical support contractor<br/>
 Advanced Research Projects Agency—Energy (ARPA-E)<br/>
 </div>
 </div>
- 
-
 
 ### TERRA Project Representatives
- 
-<div class="profiles">
 
+<div class="profiles">
 <div class="profile-bio">
 <a href="http://www.nearearth.aero/" target="_blank">Paul Bartlett</a><br/>
 Principal Systems Engineer<br/>
 Near Earth Autonomy<br/>
 </div>
-    
+
 <div class="profile-bio">
-<a href="https://www.ars.usda.gov/pacific-west-area/maricopa-arizona/us-arid-land-agricultural-research-center/plant-physiology-and-genetics-research/people/jeffrey-white/" target="_blank">Jeff White</a><br/>
-Research Plant Physiologist<br/>
-USDA-ARS / US Arid-Land Agricultural Research Center<br/>
+<a href="http://team.bluerivert.com/" target="_blank">Matt Colgan</a><br/>
+Senior Systems Engineer<br/>
+Blue River Technology<br/>
 </div>
 
 <div class="profile-bio">
@@ -201,45 +196,15 @@ Cornell<br/>
 </div>
 
 <div class="profile-bio">
-<a href="http://team.bluerivert.com/" target="_blank">Matt Colgan</a><br/>
-Senior Systems Engineer<br/>
-Blue River Technology<br/>
+<a href="https://www.hdfgroup.org/team/ted-habermann/" target="_blank">Ted Habermann</a><br/>
+Director of Business and Community Development
+The HDF Group
 </div>
 
 <div class="profile-bio">
 <a href="https://www.emsl.pnl.gov/emslweb/people/christer-jansson" target="_blank">Christer Jansson</a><br/>
 Director of Plant Sciences<br/>
 Pacific Northwest National Laboratory<br/>
-</div>
-
-<div class="profile-bio">
-<a href="http://www.cs.cmu.edu/~bapoczos/" target="_blank">Barnabas Poczos</a><br/>
-Assistant Professor of Machine Learning<br/>
-Carnegie Mellon<br/>
-</div>
-
-<div class="profile-bio">
-<a href="http://baen.tamu.edu/people/thomasson-alex/" target="_blank">Alex Thomasson</a><br/>
-Professor of Biological and Agricultural Engineering<br/>
-Texas A&M University<br/>
-</div>
-
-<div class="profile-bio">
-<a href="http://abe.ufl.edu/mcnair/cheryl.asp" target="_blank">Cheryl Porter</a><br/>
-Coordinator of Computer Research Applications<br/>
-University of Florida<br/>
-</div>
-
-<div class="profile-bio">
-<a href="https://www.bnl.gov/envsci/bio/serbin-shawn.php" target="_blank">Shawn Serbin</a><br/>
-Associate Ecologist<br/>
-Brookhaven National Lab<br/>
-</div>
-
-<div class="profile-bio">
-<a href="http://www.neonscience.org/about/staff/shelley-petroy" target="_blank">Shelley Petroy</a><br/>
-Director of Data Products<br/>
-NEON<br/>
 </div>
 
 <div class="profile-bio">
@@ -255,9 +220,39 @@ University of Arizona / iPlant Collaborative
 </div>
 
 <div class="profile-bio">
-<a href="https://www.hdfgroup.org/team/ted-habermann/" target="_blank">Ted Habermann</a><br/>
-Director of Business and Community Development
-The HDF Group
+<a href="http://www.neonscience.org/about/staff/shelley-petroy" target="_blank">Shelley Petroy</a><br/>
+Director of Data Products<br/>
+NEON<br/>
+</div>
+
+<div class="profile-bio">
+<a href="http://www.cs.cmu.edu/~bapoczos/" target="_blank">Barnabas Poczos</a><br/>
+Assistant Professor of Machine Learning<br/>
+Carnegie Mellon<br/>
+</div>
+
+<div class="profile-bio">
+<a href="http://abe.ufl.edu/mcnair/cheryl.asp" target="_blank">Cheryl Porter</a><br/>
+Coordinator of Computer Research Applications<br/>
+University of Florida<br/>
+</div>
+
+<div class="profile-bio">
+<a href="https://www.bnl.gov/envsci/bio/serbin-shawn.php" target="_blank">Shawn Serbin</a><br/>
+Associate Ecologist<br/>
+Brookhaven National Lab<br/>
+</div>
+
+<div class="profile-bio">
+<a href="http://baen.tamu.edu/people/thomasson-alex/" target="_blank">Alex Thomasson</a><br/>
+Professor of Biological and Agricultural Engineering<br/>
+Texas A&M University<br/>
+</div>
+    
+<div class="profile-bio">
+<a href="https://www.ars.usda.gov/people-locations/person?person-id=33167" target="_blank">Jeff White</a><br/>
+Research Plant Physiologist<br/>
+USDA-ARS / US Arid-Land Agricultural Research Center<br/>
 </div>
 
 </div>
