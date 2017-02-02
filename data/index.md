@@ -41,7 +41,6 @@ TERRA-REF provides access to direct measurements and sensor observations, derive
    </span>
    <p style="text-align: center; font-size: 14px"><a href="/data/genomic">About Genomic Data</a><br/>(coming in 2017)</p>
 </div>
-</p>
 </div>
 
 ## See Also
