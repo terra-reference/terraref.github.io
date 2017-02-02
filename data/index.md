@@ -35,10 +35,11 @@ TERRA-REF provides access to direct measurements and sensor observations, derive
    <p style="text-align: center; font-size: 14px"><a href="/data/trait">About Trait Data</a></p>
 </div>
 <div style="display: inline-block; width: 20%; margin: 10px">
+<a href="http://datacommons.cyverse.org/browse/iplant/home/shared" style="border: 0" target="_blank">
   <span style="display:inline-block; border:1px solid grey; text-align:center; font-size:20px; font-weight: bold; width: 100%">
   <img src="/images/new/genomics sq.png" style="width: 100px"><br/>
    Genomic Data
-   </span>
+   </span></a>
    <p style="text-align: center; font-size: 14px"><a href="/data/genomic">About Genomic Data</a><br/>(coming in 2017)</p>
 </div>
 </div>
