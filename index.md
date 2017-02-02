@@ -6,31 +6,30 @@ image:
   feature: /new/header.png
 ---
 
-_The Transportation Energy Resources from Renewable Agriculture Phenotyping Reference Platform (TERRA-REF) will accelerate breeding and the commercial release of high-yield bioenergy sorghum hybrids._
+<div class="diagram">
+<img src="/images/new/diagram2.png">
 
-<div class="diagram"><img src="/images/new/diagram2.png"></div>
-
-TERRA-REF’s integrated phenotyping system includes the following components:
-<p style="width:90%; margin-left: 20px">
-<span class="customspan">
+<div class="customdiv">
+<div class="customspan">
 <a href="#phenotyping-field-scanner-system"><img src="/images/new/gantry2.png" class="customimage">Field phenotyping field scanner system</a>
-</span>
-<span class="customspan">
+</div>
+<div class="customspan">
 <a href="#automated-controlled-environment-phenotyping"><img src="/images/new/greenhouse2.png" class="customimage">Automated controlled-environment phenotyping</a>
-</span>
-<span class="customspan">
+</div>
+<div class="customspan">
 <a href="#phenotyping-sensors-on-unmanned-aerial-vehicles"><img src="/images/new/uav2.png" class="customimage">Phenotyping sensors on unmanned aerial vehicles</a>
-</span>
-<span class="customspan">
+</div>
+<div class="customspan">
 <a href="#phenotyping-sensors-on-piloted-ground-vehicles"><img src="/images/new/tractor2.png" class="customimage">Phenotyping sensors on piloted ground vehicles</a>
-</span>
-<span class="customspan">
+</div>
+<div class="customspan">
 <a href="#genomic-and-genetic-data-and-computational-platform"><img src="/images/new/genomics2.png" class="customimage">Genomic and genetic data and computational platform</a>
-</span>
-<span class="customspan">
+</div>
+<div class="customspan">
 <a href="#high-performance-data-storage-and-computing-system"><img src="/images/new/compute2.png" class="customimage">High performance data storage and computing system</a>
-</span>
-</p>
+</div>
+</div>
+</div>
 
 <hr/>
 ### Phenotyping field scanner system
@@ -38,7 +37,7 @@ TERRA-REF’s integrated phenotyping system includes the following components:
 The Lemnatec Field Scanalyzer at the University of Arizona Maricopa Agricultural Center and USDA Arid Land Research Station in Maricopa, Arizona is the largest field crop analytics robot in the world. 
 This high-throughput phenotyping field-scanning robot has a 30-ton steel gantry that autonomously moves along two 200-meter steel rails while continuously imaging the crops growing below it with a diverse array of [cameras and sensors](/articles/lemnatec-scanalyzer-field-sensors/).
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZaHKvAGTqHE?rel=0" frameborder="0" allowfullscreen></iframe>
+<img src="/images/field_scanner_20160229.jpg">
 
 ### Automated controlled-environment phenotyping
 
