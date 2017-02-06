@@ -25,7 +25,7 @@ The Bellwether Foundation Phenotyping Facility is a climate controlled 70 m<sup>
 
 **Phenotyping sensors on Unmanned Aerial Vehicles**
 
-UAVs will repeatedly fly precision passes over crops Phenotyping sensors on Unmanned Aerial Vehicles to provide autonomous image surveys, with onboard sensors georegistering the data and stitching together the captured images based on vehicle positions. The use
+UAVs will repeatedly fly precision passes over crops to provide autonomous image surveys, with onboard sensors georegistering the data and stitching together the captured images based on vehicle positions. The use
 of UAVs will provide rapid coverage of areas that are much larger than what can be covered with ground-based systems.
 
 **Phenotyping sensors on piloted ground vehicles**
