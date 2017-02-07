@@ -4,7 +4,7 @@
 title: TERRA REF
 locale: en_US
 description: Phenotyping Reference Platform
-logo: site-logo.png
+logo: #site-logo.png
 search: true
 url: http://terraref.org
 
