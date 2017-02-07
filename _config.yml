@@ -6,7 +6,7 @@ locale: en_US
 description: Phenotyping Reference Platform
 logo: #site-logo.png
 search: true
-url: https://craig-willis.github.io
+url: http://terraref.org
 
 # Jekyll configuration
 
