@@ -7,12 +7,19 @@ image:
   feature: /new/header.png
 ---
 
-
 <div class="press">
 <span class="pr-image"><img src="/images/press/danforth center receives.jpg"></span>
 <span class="pr-title"><a href="http://www.world-grain.com/articles/news_home/World_Grain_News/2017/01/Danforth_Center_receives_sorgh.aspx?ID=%7B35690C36-9A96-4C33-9614-4F8161461E0D%7D&cck=1" target="_blank">Danforth Center receives sorghum research grant</a></span>
 <span class="pr-pub">World Grain News</span>
 <span class="pr-date">January 26, 2017</span>
+</div>
+
+
+<div class="press">
+<span class="pr-image"><img src="/images/press/todd_mockler_pheno.jpg"></span>
+<span class="pr-title"><a href="http://seedworld.com/sorghum-under-the-microscope/" target="_blank">Sorghum Under the Microscope</a></span>
+<span class="pr-pub">SeedWorld</span>
+<span class="pr-date">January 25, 2017</span>
 </div>
 
 <div class="press">
