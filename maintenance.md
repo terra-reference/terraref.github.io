@@ -6,4 +6,6 @@ image:
   feature: /new/header.png
 ---
 
-The resource you are looking for is down for maintenance. Please pardon the dust!
+# The resource you are looking for is down for maintenance. 
+
+## Please pardon the dust!
