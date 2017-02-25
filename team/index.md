@@ -7,6 +7,10 @@ image:
   feature: /new/header.png
 ---
 
+
+* Table of Contents
+{:toc}
+
 ## Reference Phenotyping System Team
 <div class="profiles">
 <div class="profile-image"><img src="/images/team/Mockler.jpg"></div>
