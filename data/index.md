@@ -5,7 +5,7 @@ image:
   feature: /new/header.png
 ---
 
-_Please note that TERRA-REF is still under development. Data availability is limited to the alpha user program at this time. Please fill out [this application](https://goo.gl/forms/bqccgTxLkzF5QEUg1) if you are interested in joining our alpha user program._
+_Please note that TERRA-REF is still under development. Data availability is limited to the alpha user program at this time. Please fill out [**this application**](https://goo.gl/forms/bqccgTxLkzF5QEUg1) if you are interested in joining our alpha user program._
 
 TERRA-REF provides access to direct measurements and sensor observations, derived plant phenotypes, along with genetic and genomic data. Data is accessible via the TERRA-REF sensor data, trait/phenotype, and genomics data repositories:
 
