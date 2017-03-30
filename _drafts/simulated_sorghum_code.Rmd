@@ -244,3 +244,25 @@ writeLines(update$update, con = '~/update.sql')
 # then nohup psql -d bety -U bety < insert.sql &
 
 ```
+
+
+```r
+## For Phenotype data insertion
+data <- fread("/Users/dlebauer/Downloads/phenotypes.csv")
+data$entity_id <- rownames(data)
+setnames(data, 'genotype', 'cultivar')
+data$site_id <- 7000000006
+data$sitename <- "Central IL"
+data$specie_id = 7000000001
+
+data2 <- data %>% 
+  gather(key = trait, value = mean, Vcmax, c2n_leaf, cuticular_cond, SLA, quantum_efficiency, leaf_respiration_rate_m2, stomatal_slope.BB, growth_respiration_coefficient, Jmax, chi_leaf, extinction_coefficient_diffuse) %>%
+  merge(cultivars[,list(cultivar_id, cultivar)], by = 'cultivar') %>% 
+  merge(variables[,list(variable_id, trait)], by = 'trait') %>% setDT
+
+insert <- data2 %>%
+   mutate(insert = paste('insert into traits(site_id, date, specie_id, cultivar_id, variable_id, mean, created_at, updated_at) values (', paste(7000000006, '2027-02-20 12:59:45', 7000000001, cultivar_id, variable_id, mean, sep = ","), ', now(), now());')) %>% 
+   select(insert)
+   
+writeLines(insert$insert, con = '/Users/dlebauer/update.sql')
+```
