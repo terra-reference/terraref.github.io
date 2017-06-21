@@ -135,9 +135,9 @@ Here are a few that we are currently working on
 
 ## Ask Questions, Request Features, and Give Feedback
 
-Questions and comments about the **reference data products**, including support for standard formats, databases, and software, please visit the [Reference Data GitHub repository](https://github.com/terraref/reference-data) or our [chat room](https://gitter.im/terraref/reference-data).
+Questions and comments about the **reference data products**, including support for standard formats, databases, and software, please visit the [Reference Data GitHub repository](https://github.com/terraref/reference-data).
 
-Questions and comments about the **computing pipeline**, including data access and analysis, please visit the [Reference Data GitHub repository](https://github.com/terraref/computing-pipeline/issues) and our computing pipeline [chat room](https://gitter.im/terraref/computing-pipeline).
+Questions and comments about the **computing pipeline**, including data access and analysis, please visit the [Reference Data GitHub repository](https://github.com/terraref/computing-pipeline/issues).
 
 
 <div class="actions">
