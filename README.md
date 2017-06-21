@@ -17,7 +17,6 @@ This is a sandbox for development of an open-access data and computing platform 
 * This site is likely to change
 * Find us and contribute, request features, report bugs, and share ideas on
   * [Github at github.com/terraref](https://github.com/terraref)
-  * Our Chatroom [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/terraref/reference-data?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # Latest Posts
 
