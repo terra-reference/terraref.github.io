@@ -114,7 +114,7 @@ This dataset includes what a sensor might observe, daily for five years during t
 
 # How to obtain data and give feedback:
 
-Please provide feedback. Please provide feedback by leaving a comment below, commenting on the issue in our [GitHub repository](https://github.com/terraref/reference-data/issues/20), emailing me, [dlebauer@illinois.edu](mailto:dlebauer@illinois.edu), or visiting the [TerraRef Reference Data chatroom](https://gitter.im/terraref/reference-data).
+Please provide feedback. Please provide feedback by leaving a comment below, commenting on the issue in our [GitHub repository](https://github.com/terraref/reference-data/issues/20), or emailing me [dlebauer@illinois.edu](mailto:dlebauer@illinois.edu).
 
 * If you do something cool, please send comments and figures! 
 * I also can provide similar data at hourly or higher frequency as well as other processes and environmental drivers, 
