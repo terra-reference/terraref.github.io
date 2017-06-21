@@ -42,4 +42,3 @@ Teams have the option of requesting a local instance of the TERRA Refence Comput
 Even more important than the network of databses is a suite of easy methods for finding and using data. BETYdb, for example, exports data as `.csv`, `.json`, and `.xml` as well as through the rOpenSci traits package and url queries such as [`betydb.org/search?=miscanthus+yield`](https://betydb.org/search?=miscanthus+yield).
 
 [1]  https://github.com/terraref/computing-pipeline/issues/new
-[2] https://gitter.im/terraref/computing-pipeline
