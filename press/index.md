@@ -166,13 +166,6 @@ Video: https://youtu.be/U5hO3Y81Ib8
 </div>
 
 <div class="press">
-<span class="pr-image"><img src="/images/press/Danforth plant science.jpg"></span>
-<span class="pr-title"><a href="https://www.danforthcenter.org/news-media/news-releases/news-item/danforth-plant-science-center-receives-grant-for-research-program-to-advance-development-of-key-bioenergy-crop" target="_blank">Danforth Plant Science Center receives $8m for big data research program to advance development of key bioenergy crop</a></span>
-<span class="pr-pub">Donald Danforth Plant Science Center</span>
-<span class="pr-date">June 18, 2015</span>
-</div>
-
-<div class="press">
 <span class="pr-image"><img src="/images/press/igb.jpg"></span>
 <span class="pr-title"><a href="https://www.igb.illinois.edu/article/illinois-receives-18m-create-data-platform-big-data-plant-breeding" target="_blank">Illinois receives $1.8M to create data platform for Big Data in plant breeding</a></span>
 <span class="pr-pub">Illumina</span>
