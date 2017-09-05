@@ -93,6 +93,13 @@ image:
 <span class="pr-pub">GIGABlog</span>
 <span class="pr-date">June 7, 2016</span>
 </div>
+
+<div class="press">
+<span class="pr-image"><img src="/images/press/illumina.png"></span>
+<span class="pr-title"><a href="https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=2175593" target="_blank">Illumina Announces Donald Danforth Plant Science Center to Receive Agricultural Greater Good Initiative Grant to Improve Food Security in Sub-Saharan Africa</a></span>
+<span class="pr-pub">Illumina</span>
+<span class="pr-date">June 7, 2016</span>
+</div>
     
 <div class="press">
 <span class="pr-image"><img src="/images/press/technology.jpg"></span>
@@ -124,6 +131,20 @@ Video: https://youtu.be/U5hO3Y81Ib8
 </div>
 
 <div class="press">
+<span class="pr-image"><img src="/images/press/lemnatec.jpg"></span>
+<span class="pr-title"><a href="http://www.lemnatec.com/news/press/lemnatecs-cool-technology-at-the-arpa-e-energy-innovation-summit-usa/" target="_blank">LemnaTec’s ‘cool technology’ at the ARPA-E Energy Innovation Summit USA</a></span>
+<span class="pr-pub">LemnaTec</span>
+<span class="pr-date">March 3, 2016</span>
+</div>
+
+<div class="press">
+<span class="pr-image"><img src="/images/press/arpae.jpg"></span>
+<span class="pr-title"><a href="https://arpa-e.energy.gov/?q=video-awardee-profile/terra-building-new-communities-advanced-biofuels" target="_blank">LemnaTec’s ‘cool technology’ at the ARPA-E Energy Innovation Summit USA</a></span>
+<span class="pr-pub">ARPA-E</span>
+<span class="pr-date">March 1, 2016</span>
+</div>
+
+<div class="press">
 <span class="pr-image"><img src="/images/press/near.jpg"></span>
 <span class="pr-title"><a href="http://www.nearearth.aero/september-30-2015.html " target="_blank">Near Earth to Develop System to increase bioenergy crop yields through aerial phenotyping of sorghum</a></span>
 <span class="pr-pub">Near Earth Autonomy</span>
@@ -142,6 +163,20 @@ Video: https://youtu.be/U5hO3Y81Ib8
 <span class="pr-title"><a href="https://www.danforthcenter.org/news-media/news-releases/news-item/danforth-plant-science-center-receives-grant-for-research-program-to-advance-development-of-key-bioenergy-crop" target="_blank">Danforth Plant Science Center receives $8m for big data research program to advance development of key bioenergy crop</a></span>
 <span class="pr-pub">Donald Danforth Plant Science Center</span>
 <span class="pr-date">June 18, 2015</span>
+</div>
+
+<div class="press">
+<span class="pr-image"><img src="/images/press/Danforth plant science.jpg"></span>
+<span class="pr-title"><a href="https://www.danforthcenter.org/news-media/news-releases/news-item/danforth-plant-science-center-receives-grant-for-research-program-to-advance-development-of-key-bioenergy-crop" target="_blank">Danforth Plant Science Center receives $8m for big data research program to advance development of key bioenergy crop</a></span>
+<span class="pr-pub">Donald Danforth Plant Science Center</span>
+<span class="pr-date">June 18, 2015</span>
+</div>
+
+<div class="press">
+<span class="pr-image"><img src="/images/press/igb.jpg"></span>
+<span class="pr-title"><a href="https://www.igb.illinois.edu/article/illinois-receives-18m-create-data-platform-big-data-plant-breeding" target="_blank">Illinois receives $1.8M to create data platform for Big Data in plant breeding</a></span>
+<span class="pr-pub">Illumina</span>
+<span class="pr-date">July 7, 2015</span>
 </div>
 
 <div class="press">
