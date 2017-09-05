@@ -65,6 +65,34 @@ image:
 <span class="pr-pub">University of Arizona News</span>
 <span class="pr-date">June 21, 2016</span>
 </div>
+
+<div class="press">
+<span class="pr-image"><img src="/images/press/farm industry.jpg"></span>
+<span class="pr-title"><a href="http://www.farmindustrynews.com/blog/largest-field-robot-world" target="_blank">The largest field robot in the world</a></span>
+<span class="pr-pub">Farm Industry News</span>
+<span class="pr-date">June 14, 2016</span>
+</div>
+
+<div class="press">
+<span class="pr-image"><img src="/images/press/feedstuffs.jpg"></span>
+<span class="pr-title"><a href="http://www.feedstuffs.com/story-robot-allows-close-monitoring-crop-advances-45-142571" target="_blank">Robot allows for close monitoring of crop advances</a></span>
+<span class="pr-pub">Feedstuffs</span>
+<span class="pr-date">June 13, 2016</span>
+</div>
+    
+<div class="press">
+<span class="pr-image"><img src="/images/press/energy.gov.jpg"></span>
+<span class="pr-title"><a href="https://www.energy.gov/articles/crops-bots-and-bytes-check-out-robots-behind-arpa-e-s-agro-energy-program" target="_blank">Crops, Bots and Bytes: Check Out the Robots Behind ARPA-E’s Agro-Energy Program</a></span>
+<span class="pr-pub">Energy.gov</span>
+<span class="pr-date">June 9, 2016</span>
+</div>
+    
+<div class="press">
+<span class="pr-image"><img src="/images/press/giga.jpg"></span>
+<span class="pr-title"><a href="http://gigasciencejournal.com/blog/complexities-modern-plant-phenomics-guest-blog-plant-phenomics-series-guest-editors/" target="_blank">The Complexities of Modern Plant Phenomics: A Guest Blog by our Plant Phenomics Series Guest Editors</a></span>
+<span class="pr-pub">GIGABlog</span>
+<span class="pr-date">June 7, 2016</span>
+</div>
     
 <div class="press">
 <span class="pr-image"><img src="/images/press/technology.jpg"></span>
@@ -73,10 +101,16 @@ image:
 <span class="pr-date">June 7, 2016</span>
 </div>
 
+<div class="press">
+<span class="pr-image"><img src="/images/press/agpro.jpg"></span>
+<span class="pr-title"><a href="http://www.agprofessional.com/news/new-agricultural-robotics-system-will-advance-use-robotics" target="_blank">New agricultural robotics system will advance use of robotics</a></span>
+<span class="pr-pub">AgPro</span>
+<span class="pr-date">June 2, 2016</span>
+</div>
 
 <div class="press">
 <span class="pr-image"><img src="/images/press/agri bots.jpg"></span>
-<span class="pr-title"><a href="http://science.kjzz.org/content/314124/agri-bots-us-department-energy-invests-millions-cutting-edge-arizona-crop-scanner " target="_blank">Agri-Bots: US Department Of Energy invests millions in cutting-edge Arizona crop scanner</a></span>
+<span class="pr-title"><a href="http://science.kjzz.org/content/314124/agri-bots-us-department-energy-invests-millions-cutting-edge-arizona-crop-scanner" target="_blank">Agri-Bots: US Department Of Energy invests millions in cutting-edge Arizona crop scanner</a></span>
 <span class="pr-pub">91.5 FM KJZZ, Arizona</span>
 <span class="pr-date">June 2, 2016</span>
 </div>
