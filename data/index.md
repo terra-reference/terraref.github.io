@@ -7,6 +7,8 @@ image:
 
 _Please note that TERRA-REF is still under development. Data availability is limited to the alpha user program at this time. Please fill out [**this application**](https://goo.gl/forms/bqccgTxLkzF5QEUg1) if you are interested in joining our alpha user program._
 
+<hr/>
+
 TERRA-REF provides access to direct measurements and sensor observations, derived plant phenotypes, along with genetic and genomic data. Data is accessible via the TERRA-REF sensor data, trait/phenotype, and genomics data repositories:
 
 <div style="width: 100%; display:inline-block">
@@ -43,7 +45,19 @@ TERRA-REF provides access to direct measurements and sensor observations, derive
    <p style="text-align: center; font-size: 14px"><a href="/data/genomic">About Genomic Data</a></p>
 </div>
 </div>
+<hr/>
 
+## MAC Data Analytics
+[Trait Data Visualization](https://terraref.shinyapps.io/traitvis/){:target="_blank"}
+[Dataset Count by Sensor](http://terra-logging.ncsa.illinois.edu:3000/dashboard/db/dataset-counts-by-sensor){:target="_blank"}
+[Sensor File Counts and Size](http://terra-logging.ncsa.illinois.edu:3000/dashboard/db/sensor-file-counts-and-size){:target="_blank"}
+[Data Transfer Metrics](http://terra-logging.ncsa.illinois.edu:3000/dashboard/db/transfer-metrics){:target="_blank"}
+
+<hr/>
+
+The work uses the ROGER supercomputer, which is supported by NSF under grant number 1429699, MRI: Acquisition of a National CyberGIS Facility for Computing and Data-Intensive Geospatial Research and Education.
+
+<hr/>
 ## See Also
 
 * [How to Access Data](https://terraref.gitbooks.io/terraref-documentation/content/user/how-to-access-data.html){:target="_blank"}
