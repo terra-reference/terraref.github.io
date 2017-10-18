@@ -42,7 +42,7 @@ TERRA-REF provides access to direct measurements and sensor observations, derive
 </div>
 </div>
 
-_Please note that TERRA-REF is still under development. Data availability is limited to the alpha user program at this time. Please fill out [**this application**](https://goo.gl/forms/bqccgTxLkzF5QEUg1) if you are interested in joining our alpha user program._
+_Please note that TERRA-REF is still under development. Data availability is limited at this time. The BETA release is planned for November 15, 2017. To sign up for notifications and updates, please fill out [**this application**](https://goo.gl/forms/bqccgTxLkzF5QEUg1)._
 <hr/>
 
 ## MAC Data Analytics
