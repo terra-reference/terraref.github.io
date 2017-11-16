@@ -5,7 +5,12 @@ image:
   feature: /new/header.png
 ---
 
-TERRA-REF provides access to direct measurements and sensor observations, derived plant phenotypes, along with genetic and genomic data. Data is accessible via the TERRA-REF sensor data, trait/phenotype, and genomics data repositories:
+TERRA-REF provides access to direct measurements and sensor observations, derived plant phenotypes, along with genetic and genomic data. 
+
+
+_TERRA-REF is under development, and November 15 2017 marks the beta release. To request early access to these data sources and to recieve notifications and updates, please fill out [**the beta-user application**](https://goo.gl/forms/TapRDJhgbYrhAXHs1)._
+
+Data is accessible via the TERRA-REF sensor data, trait/phenotype, and genomics data repositories:
 
 <div style="width: 100%; display:inline-block">
 <div style="display: inline-block; width: 20%; margin: 10px; vertical-align: top">
@@ -42,7 +47,6 @@ TERRA-REF provides access to direct measurements and sensor observations, derive
 </div>
 </div>
 
-_Please note that TERRA-REF is still under development. Data availability is limited at this time. The BETA release is planned for November 15, 2017. To sign up for notifications and updates, please fill out [**this application**](https://goo.gl/forms/bqccgTxLkzF5QEUg1)._
 <hr/>
 
 ## MAC Data Analytics
