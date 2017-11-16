@@ -14,8 +14,6 @@ image:
    <img src="/images/new/genomics sq.png" style="width: 100px"><br/>
 </span></a>
 </div>
-Genomic data is available through the <a href="http://datacommons.cyverse.org/browse/iplant/home/shared/terraref" target="_blank">Cyverse Data Commons</a>. Genome resequencing data is available for 384 accessions of sorghum from the Bioenergy Association Panel (BAP). 
-
-For more information, see the <a href="https://terraref.gitbooks.io/terraref-documentation/content/products/genomics-data.html" target="_blank">documentation</a>.
+Genomic data includes whole-genome resequencing data for 384 accessions of the sorghum Bioenergy Association Panel (BAP) and genotyping-by-sequencing (GBS) data for 768 sorghum recombinant inbred lines (RIL). Access to the raw and derived genomics data products requires registration with one or more services including <a href="https://terraref.gitbooks.io/terraref-documentation/content/user/using-globus.html">Globus</a>, <a href="https://terraref.gitbooks.io/terraref-documentation/content/user/using-cyverse.html">CyVerse</a>, <a href="https://terraref.gitbooks.io/terraref-documentation/content/user/using-coge.html">CoGe</a>, and/or the <a href="https://terraref.gitbooks.io/terraref-documentation/content/user/using-analysis-workbench.html">NDS Analysis Workbench</a>. For more information, see the <a href="https://terraref.gitbooks.io/terraref-documentation/content/products/genomics-data.html" target="_blank">documentation</a>.
 
 </div>
