@@ -200,15 +200,36 @@ Cornell<br/>
 </div>
 
 <div class="profile-bio">
-<a href="https://www.hdfgroup.org/team/ted-habermann/" target="_blank">Ted Habermann</a><br/>
-Director of Business and Community Development
-The HDF Group
-</div>
-
-<div class="profile-bio">
 <a href="https://www.emsl.pnl.gov/emslweb/people/christer-jansson" target="_blank">Christer Jansson</a><br/>
 Director of Plant Sciences<br/>
 Pacific Northwest National Laboratory<br/>
+</div>
+
+
+<div class="profile-bio">
+<a href="http://www.cs.cmu.edu/~bapoczos/" target="_blank">Barnabas Poczos</a><br/>
+Assistant Professor of Machine Learning<br/>
+Carnegie Mellon<br/>
+</div>
+
+<div class="profile-bio">
+<a href="http://baen.tamu.edu/people/thomasson-alex/" target="_blank">Alex Thomasson</a><br/>
+Professor of Biological and Agricultural Engineering<br/>
+Texas A&M University<br/>
+</div>
+    
+<div class="profile-bio">
+<a href="https://www.ars.usda.gov/people-locations/person?person-id=33167" target="_blank">Jeff White</a><br/>
+Research Plant Physiologist<br/>
+USDA-ARS / US Arid-Land Agricultural Research Center<br/>
+</div>
+
+### External Domain Experts
+
+<div class="profile-bio">
+<a href="https://www.hdfgroup.org/team/ted-habermann/" target="_blank">Ted Habermann</a><br/>
+Director of Business and Community Development
+The HDF Group
 </div>
 
 <div class="profile-bio">
@@ -230,12 +251,6 @@ NEON<br/>
 </div>
 
 <div class="profile-bio">
-<a href="http://www.cs.cmu.edu/~bapoczos/" target="_blank">Barnabas Poczos</a><br/>
-Assistant Professor of Machine Learning<br/>
-Carnegie Mellon<br/>
-</div>
-
-<div class="profile-bio">
 <a href="http://abe.ufl.edu/mcnair/cheryl.asp" target="_blank">Cheryl Porter</a><br/>
 Coordinator of Computer Research Applications<br/>
 University of Florida<br/>
@@ -247,17 +262,7 @@ Associate Ecologist<br/>
 Brookhaven National Lab<br/>
 </div>
 
-<div class="profile-bio">
-<a href="http://baen.tamu.edu/people/thomasson-alex/" target="_blank">Alex Thomasson</a><br/>
-Professor of Biological and Agricultural Engineering<br/>
-Texas A&M University<br/>
-</div>
-    
-<div class="profile-bio">
-<a href="https://www.ars.usda.gov/people-locations/person?person-id=33167" target="_blank">Jeff White</a><br/>
-Research Plant Physiologist<br/>
-USDA-ARS / US Arid-Land Agricultural Research Center<br/>
-</div>
+
 
 </div>
 
