@@ -87,6 +87,14 @@ Assistant Professor of Agronomy<br/>
 Kansas State University
 </div>
 
+<div class="profile-image"><img src="/images/team/newcomb.png"></div>
+<div class="profile-bio">
+<a href="https://www.linkedin.com/in/maria-newcomb-1a3a5b33/" target="_blank">Maria Newcomb</a><br/>
+TERRA-REF research area: phenomics and phenotyping<br/>
+Assistant Research Scientist, Plant Sciences<br/>
+University of Arizona
+</div>
+
 <div class="profile-image"><img src="/images/team/ottman.jpg"></div>
 <div class="profile-bio">
 <a href="https://cals.arizona.edu/spls/content/michael-0" target="_blank">Michael Ottman</a><br/>
