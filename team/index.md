@@ -153,7 +153,7 @@ USDA-ARS / US Arid-Land Agricultural Research Center<br/>
 
 <div class="profile-image"><img src="/images/team/Wulamu.jpg"></div>
 <div class="profile-bio">
-<a href="http://www.slu.edu/sustainability/about-us/faculty/abuduwasiti-wulamu-phd" target="_blank">Abuduwasiti Wulamu</a><br/>
+<a href="http://www.slu.edu/sustainability/about-us/faculty/abuduwasiti-wulamu-phd" target="_blank">Vasit Sagan</a><br/>
 TERRA-REF research area: remote sensing<br/>
 Assistant Professor at the Center for Sustainability<br/>
 Saint Louis University
