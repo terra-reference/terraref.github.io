@@ -29,7 +29,7 @@ Associate Specialist & Professor of Agricultural & Biosystems Engineering<br/>
 University of Arizona, Maricopa Agricultural Center<br/>
 </div>
 
-<div class="profile-image"><img src="/images/team/demieville.jpg"></div>
+<div class="profile-image"><img src="/images/team/demieville.png"></div>
 <div class="profile-bio">
 Jeffrey Demieville<br/>
 TERRA-REF Robotic Field Scanner Operator<br/>
