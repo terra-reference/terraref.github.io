@@ -29,6 +29,12 @@ Associate Specialist & Professor of Agricultural & Biosystems Engineering<br/>
 University of Arizona, Maricopa Agricultural Center<br/>
 </div>
 
+<div class="profile-image"><img src="/images/team/demieville.png"></div>
+<div class="profile-bio">
+Jeffrey Demieville<br/>
+TERRA-REF Robotic Field Scanner Operator<br/>
+University of Arizona, Maricopa Agricultural Center
+</div>
 
 <div class="profile-image"><img src="/images/team/fahlgren.jpg"></div>
 <div class="profile-bio">
@@ -37,7 +43,6 @@ TERRA-REF research area: plant phenotyping <br/>
 Director, Bioinformatics Core Facility<br/>
 Donald Danforth Plant Science Center
 </div>
-
 
 <div class="profile-image"><img src="/images/team/fishel.jpg"></div>
 <div class="profile-bio">
@@ -66,17 +71,9 @@ Clemson University
 <div class="profile-image"><img src="/images/team/LeBauer.jpg"></div>
 <div class="profile-bio">
 <a href="https://sites.google.com/site/dlebauer/" target="_blank">David LeBauer</a><br/>
-TERRA-REF research area: computing pipeline<br/>
-Research Scientist<br/>
-University of Illinois / National Center for Supercomputing Applications
-</div>
-
-<div class="profile-image"><img src="/images/team/marshall.jpg"></div>
-<div class="profile-bio">
-Stuart Marshall<br/>
-TERRA-REF Robotic Field Scanner Operator<br/>
-Laboratory Technician<br/>
-Donald Danforth Plant Science Center
+TERRA-REF research area: data and computing pipeline<br/>
+Director of Data Science for the Arizona Experiment Station<br/>
+University of Arizona
 </div>
 
 <div class="profile-image"><img src="/images/team/morris.png"></div>
@@ -107,7 +104,7 @@ University of Arizona, Maricopa Agricultural Center
 <div class="profile-bio">
 <a href="https://www.cs.seas.gwu.edu/robert-pless" target="_blank">Robert Pless</a><br/>
 TERRA-REF research area: computer vision<br/>
-Professor, Department of Computer Science<br/>
+Professor and Chair, Department of Computer Science<br/>
 The George Washington University
 </div>
 
@@ -168,8 +165,8 @@ Saint Louis University
 <div class="profiles">
 <div class="profile-bio">
 <a href="https://sites.google.com/site/dlebauer/" target="_blank">David LeBauer</a><br/>
-Research Scientist<br/>
-University of Illinois / National Center for Supercomputing Applications<br/>
+Director of Data Science for the Arizona Experiment Station<br/>
+University of Arizona<br/>
 </div>
 
 <div class="profile-bio">
