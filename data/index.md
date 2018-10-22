@@ -51,7 +51,7 @@ Data is accessible via the TERRA-REF sensor data, trait/phenotype, and genomics 
 
 ## Data Summaries
 
-* [Summary of Available Trait Data](https://terraref.shinyapps.io/traitvis/){:target="_blank"}
+* [Summary of Available Trait Data](https://traitvis.workbench.terraref.org/){:target="_blank"}
 * [Dataset Count by Sensor](http://terra-logging.ncsa.illinois.edu:3000/dashboard/db/dataset-counts-by-sensor){:target="_blank"}
 * [Sensor File Counts and Size](http://terra-logging.ncsa.illinois.edu:3000/dashboard/db/sensor-file-counts-and-size){:target="_blank"}
 * [Data Transfer Metrics](http://terra-logging.ncsa.illinois.edu:3000/dashboard/db/transfer-metrics){:target="_blank"}
