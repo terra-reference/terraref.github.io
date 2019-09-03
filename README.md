@@ -8,6 +8,10 @@ search_omit: true
 * Table of Contents
 {:toc}
 
+# Deprecated
+
+The TERRA-REF website was migrated to Drupal in 2018. This content is retained for reference.
+
 # About this site
 
 This is a sandbox for development of an open-access data and computing platform support the assessment of crop yield potential using sensors, robots, high performance computing within a collaborative, cross-disciplinary research and development
