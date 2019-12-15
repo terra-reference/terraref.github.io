@@ -264,7 +264,7 @@ However, the CRO may be better suited for TERRA-REF.
 
 *See also:*
 
-* Kattge, J.(2011). [A generic structure for plant trait databases](http://doi.org/10.1111/j.2041-210X.2010.00067.x)
+* Kattge, J.(2011). [A generic structure for plant trait databases](https://doi.org/10.1111/j.2041-210X.2010.00067.x)
 
 
 ### Gene Ontology (GO)
@@ -276,7 +276,7 @@ This ontology is cited in Krajewski et al (2015) and might be relevant for the T
 See also:
 
 * [Gene Ontology](http://geneontology.org/)
-* Krajewski et al (2015). [Towards recommendations for metadata and data handling in plant phenotyping](http://doi.org/10.1093/jxb/erv271). Journal of Experimental Botany, 66(18), 5417–5427. 
+* Krajewski et al (2015). [Towards recommendations for metadata and data handling in plant phenotyping](https://doi.org/10.1093/jxb/erv271). Journal of Experimental Botany, 66(18), 5417–5427. 
 
 
 ### Information Artifact Ontology (IAO)
@@ -379,7 +379,7 @@ Data are transfer into and out of the AgMIP Crop Experiment (ACE) and AgMIP Crop
 *See also*
 
 * [AgMIP Crop Expirement Database](http://www.agmip.org/it-team/)
-* Porter et al (2014). [Harmonization and translation of crop modeling data to ensure interoperability](http://dx.doi.org/10.1016/j.envsoft.2014.09.004). Environmental Modelling and Software. 62:495-508.
+* Porter et al (2014). [Harmonization and translation of crop modeling data to ensure interoperability](https://doi.org/10.1016/j.envsoft.2014.09.004). Environmental Modelling and Software. 62:495-508.
 * [AgMIP Data Products](http://research.agmip.org/download/attachments/3866652/11_+IT_Porter_10Oct.pdf) presentation
 * [AgMIP on Github](https://github.com/agmip)
 * [AgMIP Crop Experiment Database data variables](http://research.agmip.org/display/it/Data+Interoperability)
